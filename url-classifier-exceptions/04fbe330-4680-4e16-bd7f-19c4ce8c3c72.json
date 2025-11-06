@@ -1,0 +1,1 @@
+{"bugIds":["1782956"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"04fbe330-4680-4e16-bd7f-19c4ce8c3c72","last_modified":1762272013479,"schema":1762272013058,"topLevelUrlPattern":"*://www.target.com/*","urlPattern":"*://edge.curalate.com/*"}

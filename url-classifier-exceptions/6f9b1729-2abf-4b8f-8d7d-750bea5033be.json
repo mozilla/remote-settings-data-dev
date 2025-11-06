@@ -1,0 +1,1 @@
+{"bugIds":["1923800"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6f9b1729-2abf-4b8f-8d7d-750bea5033be","last_modified":1762272013467,"schema":1762222576019,"topLevelUrlPattern":"*://www.pahdolabs.com/*","urlPattern":"*://pahdolabs.us11.list-manage.com/*"}
