@@ -1,0 +1,1 @@
+{"bugIds":["1661911"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b86753c3-d2a2-45d1-929a-4914384045e2","last_modified":1762411257433,"schema":1762272013194,"topLevelUrlPattern":"*://www.sbs.com.au/*","urlPattern":"*://pubads.g.doubleclick.net/*"}

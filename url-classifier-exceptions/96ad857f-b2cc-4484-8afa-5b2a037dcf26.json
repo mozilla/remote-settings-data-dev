@@ -1,0 +1,1 @@
+{"bugIds":["1940042"],"category":"convenience","classifierFeatures":["tracking-annotation"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"133.0a1\") >= 0 && env.version|versionCompare(\"135.0a1\") < 0","id":"96ad857f-b2cc-4484-8afa-5b2a037dcf26","last_modified":1750065449173,"schema":1750065445072,"urlPattern":"*://bat.bing.com/*"}
