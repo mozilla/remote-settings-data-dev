@@ -1,0 +1,1 @@
+{"appliesTo":[{"included":{"regions":["cn"]}},{"application":{"distributions":["MozillaOnline"]},"orderHint":1500,"override":true,"webExtension":{"locales":["mozillaonline"]}}],"id":"ccb137f1-7733-464c-bb70-037be4ba2529","last_modified":1639079923939,"schema":1639079857562,"telemetryId":"amazondotcn","webExtension":{"id":"amazondotcn@search.mozilla.org"}}
