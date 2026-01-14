@@ -1,0 +1,1 @@
+{"click":{"optIn":"div.gdpr div > button:not([aria-label]","optOut":"div.gdpr div > button + button:not([aria-label])","presence":"div.gdpr"},"cookies":{"optOut":[{"name":"purr-pref-agent","value":"<Go"}]},"domains":["nytimes.com"],"id":"488f07f9-0a01-4118-aab3-2b817e9fe6dc","last_modified":1671456670235,"schema":1671456663464}

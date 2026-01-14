@@ -1,0 +1,1 @@
+{"click":{"optIn":"button#onetrust-accept-btn-handler","optOut":"button#onetrust-reject-all-handler","presence":"div#onetrust-consent-sdk"},"cookies":{"optOut":[{"name":"BCP","value":"AD=0&AL=0&SM=0"}]},"domains":["bing.com"],"id":"31dc6160-3495-4f4e-8c67-594527bd4051","last_modified":1678102282952,"schema":1678102098459}

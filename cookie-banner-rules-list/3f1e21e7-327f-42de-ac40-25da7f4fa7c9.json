@@ -1,0 +1,1 @@
+{"click":{"optIn":"button#acceptAllButton","optOut":"button#bannerDeclineButton","presence":"div#gdprCookieBanner"},"cookies":{"optOut":[{"name":"cookie_prefs","value":"T%3D0%2CP%3D0%2CF%3D0%2Ctype%3Dexplicit_banner"}]},"domains":["paypal.com"],"id":"3f1e21e7-327f-42de-ac40-25da7f4fa7c9","last_modified":1678102283237,"schema":1678102098459}

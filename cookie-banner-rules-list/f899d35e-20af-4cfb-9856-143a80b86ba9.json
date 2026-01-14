@@ -1,0 +1,1 @@
+{"click":{"optIn":"div.uiLayer div > button[type=submit]","optOut":"div.uiLayer div > button + button[type=submit]","presence":"div#cookie-banner"},"cookies":{},"domains":["azure.microsoft.com"],"id":"f899d35e-20af-4cfb-9856-143a80b86ba9","last_modified":1671456670312,"schema":1671456659697}
