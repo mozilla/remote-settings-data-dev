@@ -1,0 +1,1 @@
+{"filter_expression":"env.appinfo.ID == \"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\"","id":"AddonManagerSettings-quarantinedDomains-testset","installTriggerDeprecation":null,"last_modified":1688489689113,"quarantinedDomains":{"extensions.quarantinedDomains.list":"example.org,example.com,testrs.example.org"},"schema":1688489457625}
