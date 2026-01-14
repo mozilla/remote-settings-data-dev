@@ -1,0 +1,1 @@
+{"click":{"optIn":"button[data-cookiebanner=\"accept_button\"]","optOut":"button[data-cookiebanner=\"accept_only_essential_button\"]","presence":"div[data-testid=\"cookie-policy-manage-dialog\"]"},"cookies":{},"domains":["facebook.com"],"id":"d1d8ba36-ced7-4453-8b17-2e051e0ab1eb","last_modified":1693919972054,"schema":1678102095791}
