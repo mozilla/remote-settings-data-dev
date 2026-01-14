@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"EUdict Eng->Cro","urls":{"search":{"base":"https://eudict.com/","params":[{"name":"lang","value":"engcro"}],"searchTermParamName":"word"}}},"id":"4d452aaa-8594-45d9-af98-5fbdc7f5e2cb","identifier":"eudict","last_modified":1744015100140,"recordType":"engine","schema":1744015015623,"variants":[{"environment":{"locales":["hr"]}}]}
