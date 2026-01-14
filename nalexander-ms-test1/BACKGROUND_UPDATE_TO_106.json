@@ -1,0 +1,1 @@
+{"content":{"body":{"string_id":"default-browser-prompt-message-pin"},"title":{"string_id":"cfr-doorhanger-extension-heading"}},"id":"BACKGROUND_UPDATE_TO_106","last_modified":1656047212318,"targeting":"true","template":"toast_notification","trigger":{"id":"backgroundTask"}}
