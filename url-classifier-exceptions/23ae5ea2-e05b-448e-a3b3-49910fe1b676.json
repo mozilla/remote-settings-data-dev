@@ -1,0 +1,1 @@
+{"bugIds":["2004725"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"23ae5ea2-e05b-448e-a3b3-49910fe1b676","last_modified":1765764608825,"schema":1765764607469,"topLevelUrlPattern":"*://tvtropes.org/*","urlPattern":"*://*.bigcrunch.com/*"}

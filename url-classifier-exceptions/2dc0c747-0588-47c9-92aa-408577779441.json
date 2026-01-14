@@ -1,0 +1,1 @@
+{"bugIds":["1890281"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2dc0c747-0588-47c9-92aa-408577779441","last_modified":1763604614680,"schema":1763604614226,"topLevelUrlPattern":"*://feedback.sainsburys.co.uk/*","urlPattern":"*://jsainsbury.fra1.qualtrics.com/*"}

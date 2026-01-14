@@ -1,0 +1,1 @@
+{"bugIds":["2001568"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"124981a7-b44e-4702-8851-ec7665a00429","last_modified":1763777411726,"schema":1763777410983,"topLevelUrlPattern":"*://speedtest.globalaccelerator.aws/*","urlPattern":"*://*.prod.endpoints.ubiquity.aws.a2z.com/*"}

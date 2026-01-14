@@ -1,0 +1,1 @@
+{"bugIds":["1998651"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0efb3b0e-ff8c-4761-8934-6e0359c65949","last_modified":1762567814861,"schema":1762567813798,"topLevelUrlPattern":"*://timeside.com/*","urlPattern":"*://cdnwidget.judge.me/*"}

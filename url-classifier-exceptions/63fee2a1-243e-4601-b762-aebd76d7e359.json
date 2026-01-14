@@ -1,0 +1,1 @@
+{"bugIds":["2004892"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"63fee2a1-243e-4601-b762-aebd76d7e359","last_modified":1765764608796,"schema":1765764607040,"topLevelUrlPattern":"*://katelyn-peterson.kit.com/*","urlPattern":"*://*.convertkit.com/*"}
