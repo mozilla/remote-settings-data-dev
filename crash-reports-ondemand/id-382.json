@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | large | NS_ABORT_OOM | nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::a11y::NotificationController::ScheduleNotification<T>","hashes":["0fd14a9e27b0581bb348f6ab5a491c97e4b3a03666ae97faf4bc76be7e4fed7e"],"id":"id-382","last_modified":1768465849729,"schema":1768465840985}
+{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["f98a507dcf000591896f4de97562ac8ff370db7b7f721f4b60269f72d529ef80"],"id":"id-382","last_modified":1768898447685,"schema":1768898438602}
