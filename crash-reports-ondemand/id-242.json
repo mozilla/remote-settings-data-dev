@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x74b67256","hashes":["096f06f858ccf71e6c3c7cf4db1e49a67ab88654f15191675e99a7c80b59871c"],"id":"id-242","last_modified":1768465852340,"schema":1768465829434}
+{"description":"content (Linux nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["2cf8d7dbe83e74d2c5c123fdeeca78ffd2932a45e0d37879c4f9f529bfe34e14","cf0102bcf87a13130dbfda9e5c2838b1f01c62e5577941e48cea720f632c8308"],"id":"id-242","last_modified":1768898450164,"schema":1768898426492}
