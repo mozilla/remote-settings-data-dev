@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["2cf8d7dbe83e74d2c5c123fdeeca78ffd2932a45e0d37879c4f9f529bfe34e14","cf0102bcf87a13130dbfda9e5c2838b1f01c62e5577941e48cea720f632c8308"],"id":"id-242","last_modified":1768898449003,"schema":1768898426492}
+{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["6e14deea900368613c93439a723fc3d17b895ac1f72f2153d417e945f16c7e39"],"id":"id-242","last_modified":1769071246455,"schema":1769071226161}

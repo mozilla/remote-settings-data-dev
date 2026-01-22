@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["90ed2649e152a0ba6d4f4ee1dd3c541089c9bd5facd525fea95deb5a07f8aeb1","ad7ec0b42199589f9496582d9b727fd513f35b21981d1bd7652aea2d9ae43090"],"id":"id-470","last_modified":1768898447619,"schema":1768898444505}
+{"description":"utility (Windows nightly): @0x7ffdb6d9f3cc","hashes":["6d2c61b8d715b42efc18e80faff2a64642ba06e743f943388cba036e79b71293"],"id":"id-470","last_modified":1769071245172,"schema":1769071240811}
