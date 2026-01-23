@@ -1,0 +1,1 @@
+{"bugIds":["2011475"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5f7f5715-77af-4a2e-8ca8-93cf4b5ace06","last_modified":1769134212220,"schema":1769134211309,"topLevelUrlPattern":"*://learn.cantrill.io/*","urlPattern":"*://static-media.hotmart.com/*"}

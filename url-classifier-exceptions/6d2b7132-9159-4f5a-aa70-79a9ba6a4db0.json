@@ -1,0 +1,1 @@
+{"bugIds":["2011594"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6d2b7132-9159-4f5a-aa70-79a9ba6a4db0","last_modified":1769134212209,"schema":1769134210927,"topLevelUrlPattern":"*://www.amcplus.com/*","urlPattern":"*://jssdkcdns.mparticle.com/*"}

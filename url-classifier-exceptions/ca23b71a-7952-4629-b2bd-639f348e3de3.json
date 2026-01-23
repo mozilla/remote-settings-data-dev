@@ -1,0 +1,1 @@
+{"bugIds":["2011383"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ca23b71a-7952-4629-b2bd-639f348e3de3","last_modified":1769134212243,"schema":1769134211520,"topLevelUrlPattern":"*://guides.libraries.psu.edu/*","urlPattern":"*://pennstate.qualtrics.com/*"}
