@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["5e9a722154abcd1e4932baf77832be2dcb0071f9c84891626485ad279aba2ea9"],"id":"id-231","last_modified":1769071246341,"schema":1769071225558}
+{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["6e14deea900368613c93439a723fc3d17b895ac1f72f2153d417e945f16c7e39"],"id":"id-231","last_modified":1769157654945,"schema":1769157629290}

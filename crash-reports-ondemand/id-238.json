@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): arena_chunk_t::arena_chunk_t | arena_t::InitChunk | arena_t::AllocRun | webrender::bump_allocator::BumpAllocator::alloc_chunk","hashes":["9e8bb616c530d9e94fa03fb91da941739cc75daaef341cfc8746f1805747bd14"],"id":"id-238","last_modified":1769071246228,"schema":1769071225929}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["f25afce35cbee5220050993ec6a7c28e61f03c8c03ada295b01799831e63351e"],"id":"id-238","last_modified":1769157654837,"schema":1769157629912}
