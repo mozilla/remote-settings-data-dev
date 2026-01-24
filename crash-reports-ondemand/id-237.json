@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLES_mali.so","hashes":["202474208fe0326fb81368c4abfc4132c1f8da69dffa400c0032169d5a1e5b02"],"id":"id-237","last_modified":1769157653917,"schema":1769157629827}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["5138eadb5965f537c8c3fc2d402311825490b32aa8fd8248d8d43f2fa9d93f64"],"id":"id-237","last_modified":1769244049311,"schema":1769244026753}

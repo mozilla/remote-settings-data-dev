@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::TenuringTracer::traverse","hashes":["784cb04bddd3a6c7e312f9f35c0581d0510c46955298424844db744717f21bb3","63688ae343020a35de7a373739518a6c5ba09b5c057b9e754141249be77c03b6"],"id":"id-089","last_modified":1769157655101,"schema":1769157618865}
+{"description":"content (Linux nightly): js::ReportBadValueTypeAndCrash","hashes":["567dd7e748d2a88fb8a565355197c00a6e82fdf1e8f100a709fd943850dc288d"],"id":"id-089","last_modified":1769244050615,"schema":1769244016853}

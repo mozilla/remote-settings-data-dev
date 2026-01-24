@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux nightly): nsTSubstring<T>::Capacity | nsTSubstring<T>::StartBulkWriteImpl | Gecko_StartBulkWriteString","hashes":["d9aecbe2fe592e90b6e3232e2deed00dfabc8ee118ec39989d276900b55d8833"],"id":"id-122","last_modified":1769157654361,"schema":1769157621223}
+{"description":"gmplugin (Linux release): tcmalloc::CentralFreeList::ReleaseToSpans","hashes":["bb814d3e43c3615596aa2f5705d48d60e55d99e766c1a4af030bd0021a19b660","bf9c6fed10cbfded7b7d57676311e37276e015a19bc994e636f817c2d791647e"],"id":"id-122","last_modified":1769244049673,"schema":1769244019114}
