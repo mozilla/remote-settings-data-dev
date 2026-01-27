@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | gralloc.rogue.so","hashes":["27e7dc07c75c67bfa777bba11ac8a3ee2d64ecefce4b8ecc4f2f558d656a6ce6"],"id":"id-238","last_modified":1769416258334,"schema":1769416236852}
+{"description":"gpu (Android beta): libc.so | libart.so | libbase.so","hashes":["fe97c5c72d581b7780b7465fb26716b83ff6f186cd298eee3e5e0cfa003beecb","a31c83b8938829fb675d464d221bd2c3f97bb43f8b6b87c22d79534ee429d737"],"id":"id-238","last_modified":1769503851502,"schema":1769503828988}
