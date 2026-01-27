@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::Preferences::UnregisterCallbackImpl<T>","hashes":["438be0adcd756e5212bf7e8495c08ecebf73677f82995fe2ae01a6cdf981a597"],"id":"id-119","last_modified":1769416256654,"schema":1769416224171}
+{"description":"content (Android nightly): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["f908c949ccdff46e06a13340b615b06a15c7fe8cce97badbf11599f200c4e78c"],"id":"id-119","last_modified":1769503849466,"schema":1769503821594}

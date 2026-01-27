@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac nightly): libwidevinecdm.dylib","hashes":["be404a990b35b12836b2b9380232a21d4b22c73ab99b3e060cff3f3eda3c288f"],"id":"id-168","last_modified":1769416256169,"schema":1769416229104}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::GMPRecordImpl::ReadComplete","hashes":["21d0fe68bfe134d7afea4986e647b338f167119ab1695010a0a21a2e78277a89"],"id":"id-168","last_modified":1769503848868,"schema":1769503824574}
