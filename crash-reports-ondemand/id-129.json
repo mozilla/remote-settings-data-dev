@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows nightly): widevinecdm.dll | BaseThreadInitThunk","hashes":["ba55758c0f6d9f510947ce706240bba0d9d6cce3bd8dddc7bf6b05def682ad3b"],"id":"id-129","last_modified":1769503850768,"schema":1769503822191}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["20a54c5c14815ac771a3ff6493f9e0d29f7a8e0e56ccedce13e2b18340b3a790"],"id":"id-129","last_modified":1769590248315,"schema":1769590221661}
