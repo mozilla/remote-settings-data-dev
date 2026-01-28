@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll | BaseThreadInitThunk","hashes":["8229238421d2bbbaa2a6217eb97e30420e610ccfe7b114da5d11c1277ed8ef84"],"id":"id-476","last_modified":1769503848186,"schema":1769503844460}
+{"description":"socket (Windows nightly): flhhlp.dll | LdrpSendDllNotifications","hashes":["025d3ec67d1cd4a99fffdba0964dd0d8ba3d1abba524c911fac6eb8b06312080"],"id":"id-476","last_modified":1769590245988,"schema":1769590242043}

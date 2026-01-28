@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["bdbfb4314851480702a32a071b332fcdca36d5f21eab5523674db3b724e58d64","5fe528a613858b3868ede04780998695805e7068fa86f29bfaeae0b303db342a"],"id":"id-040","last_modified":1769503849476,"schema":1769503816552}
+{"description":"content (Mac nightly): nsINode::NodeInfo","hashes":["770e5c2d99411d8439e8aa0a4e0b64a221ecd166be636345f378ca733e9cba0a"],"id":"id-040","last_modified":1769590247045,"schema":1769590215698}
