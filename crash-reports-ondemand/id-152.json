@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::GMPRecordImpl::ReadComplete","hashes":["21d0fe68bfe134d7afea4986e647b338f167119ab1695010a0a21a2e78277a89"],"id":"id-152","last_modified":1769590246609,"schema":1769590223156}
+{"description":"gmplugin (Linux nightly): mozilla::ChromiumCDMAdapter::GMPInit","hashes":["9c77a55df82058eba14f8cf508adddfda4aecb7f61be6669206249838e0fd432"],"id":"id-152","last_modified":1769676656860,"schema":1769676624527}

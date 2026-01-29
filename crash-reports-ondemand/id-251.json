@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["6b8c819745f0f650451cdfbc5292518b8a65951615c98ade0b5086b518f535ee"],"id":"id-251","last_modified":1769590246151,"schema":1769590228649}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["f0befb5c40bd77dfc61f108cf1ca58c0db959fcb51af756b6057ceb4300c8927"],"id":"id-251","last_modified":1769676656267,"schema":1769676632356}
