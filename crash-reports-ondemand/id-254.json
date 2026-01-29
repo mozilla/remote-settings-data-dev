@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::wr::RenderTextureHost::Release","hashes":["01257e53aa9c59a85707c3029a9b73c975c9bb4f6441a58af7b0565325982d8f"],"id":"id-254","last_modified":1769590248660,"schema":1769590228812}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["5138eadb5965f537c8c3fc2d402311825490b32aa8fd8248d8d43f2fa9d93f64"],"id":"id-254","last_modified":1769676659219,"schema":1769676632576}

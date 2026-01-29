@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLES_mali.so","hashes":["2dcfa21bcb6c4cbec2b0d5651c67e89223e16dfc6e2c55b6662f9c0d3e89a92a","a27a43f12d27d34879639efccc7f90d57c224204bd751e2ba7694ffb8550c1e9"],"id":"id-233","last_modified":1769590248129,"schema":1769590227670}
+{"description":"gpu (Android nightly): libGLES_mali.so","hashes":["5276f18e76f669b7ad00c9f03ee2c0a80f8ca81dfc1a246156e7734cc23da52f","990978409d9ab0643b8f49809759a4ec2361b043bc05aabb3938d67798d1676e"],"id":"id-233","last_modified":1769676658582,"schema":1769676630901}
