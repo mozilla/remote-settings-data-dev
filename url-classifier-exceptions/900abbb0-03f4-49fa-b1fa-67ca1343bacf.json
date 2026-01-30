@@ -1,0 +1,1 @@
+{"bugIds":["2012086"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"900abbb0-03f4-49fa-b1fa-67ca1343bacf","last_modified":1769739010553,"schema":1769731221258,"topLevelUrlPattern":"*://dtaconnect.eohhs.mass.gov/*","urlPattern":"*://api.ipify.org/*"}

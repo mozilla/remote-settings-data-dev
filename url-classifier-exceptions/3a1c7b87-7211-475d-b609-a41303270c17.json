@@ -1,0 +1,1 @@
+{"bugIds":["2012050"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3a1c7b87-7211-475d-b609-a41303270c17","last_modified":1769739010556,"schema":1769739010216,"topLevelUrlPattern":"*://app.kit.com/*","urlPattern":"*://pages.convertkit.com/*"}
