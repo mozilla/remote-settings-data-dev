@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["4a351cb4ee0500488e01a2d168fdb679694b7c644eed2b2ef4fca31a591abab4"],"id":"id-215","last_modified":1769676656720,"schema":1769676629462}
+{"description":"content (Mac nightly): mozilla::MozPromiseHolder<T>::~MozPromiseHolder","hashes":["95af64903418750b29a2cd3284d15ad06e53b089cf7dc36a717d400a17b164f7","ac53277311e0310f7a2b52f1b5864e2a6c5daa3afdbdcbbdb85c938b76d1dd19"],"id":"id-215","last_modified":1769849454225,"schema":1769849427745}
