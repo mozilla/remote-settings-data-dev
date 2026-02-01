@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::NrSocket::recvfrom","hashes":["5775cdecc0ab797da5b90ae7d9dd97037edab47b3061149709634fe62c39ef38"],"id":"id-242","last_modified":1769849455145,"schema":1769849429576}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["30b9b5e6b2279598b8bfe176c179ec9308b2076a1b01b406ccd016e116f54e7f"],"id":"id-242","last_modified":1769935250650,"schema":1769935227950}
