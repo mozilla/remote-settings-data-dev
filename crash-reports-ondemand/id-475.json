@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["067c3b8891a03c1d21ebf0e52f56ec8ba03409d5e37b81b559d1fa38e4298ced"],"id":"id-475","last_modified":1769849456203,"schema":1769849449240}
+{"description":"socket (Windows beta): InjUmon64.dll | BaseThreadInitThunk","hashes":["4ca9ccd387014a1c1d110561e8e214db7dab8849a2a12108951c4ba522423465"],"id":"id-475","last_modified":1769935251810,"schema":1769935245235}
