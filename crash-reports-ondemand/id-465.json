@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): std::operator<T>","hashes":["4fb93b18949bd41352bdb52b29cefe07a58a44ba28fe1cf1d1d1f2c921a80204"],"id":"id-465","last_modified":1769935252862,"schema":1769935244545}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["067c3b8891a03c1d21ebf0e52f56ec8ba03409d5e37b81b559d1fa38e4298ced"],"id":"id-465","last_modified":1770028267502,"schema":1770028259533}
