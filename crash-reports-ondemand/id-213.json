@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libGLESv2_adreno.so","hashes":["3388a23ddfc2e421c5ccc68e3142d320282182e1bb414a83eaeac0f6d16b306c","57c49348b135933d3f1796a50bd26f86a29c9f11d2ba837ee9bf5d39675a4e1c"],"id":"id-213","last_modified":1769935250703,"schema":1769935225813}
+{"description":"gpu (Mac nightly): pthread_kill | abort | GLDContextRec::flushContextInternal","hashes":["e8664715d7b1b1f98798eb718f4b25afb8e8bfc4745b762da7d2f7b8159b99e4","25d4eda5711ae0d14bd363c1323c9c0e921969c6c61bc9985497635e3de04180"],"id":"id-213","last_modified":1770028265572,"schema":1770028236872}
