@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["5991c6b6f42e58ef9e145acf6a3b9755b215c80c7f7e4b6fae64bb90db27e7aa","d0d5f50718040e9e7dfdc91c568c0f5a2d236d4a006752482e7356c78c9d33ea"],"id":"id-044","last_modified":1770028266921,"schema":1770028222251}
+{"description":"content (Android nightly): nsTArray_Impl<T>::nsTArray_Impl<T> | nsTArray<T>::nsTArray | mozilla::HVCCConfig::HVCCConfig","hashes":["9f757999353d7f7c9d09015181ad991e66734ba1b6cc2feb31e8a401cf725bbd"],"id":"id-044","last_modified":1770108658329,"schema":1770108619516}
