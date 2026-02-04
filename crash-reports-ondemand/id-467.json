@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["067c3b8891a03c1d21ebf0e52f56ec8ba03409d5e37b81b559d1fa38e4298ced"],"id":"id-467","last_modified":1770108657072,"schema":1770108651046}
+{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | mozilla::widget::filedialog::MakeFileDialog","hashes":["5e07799f652aa45cc934d6d2f86317db4c3d89f45ccfb45802598bf6e91fba84","be3ee5cf7ef80552ceeb080dc5112b7e742dd175d8de98a0ae68d5851ac6385f"],"id":"id-467","last_modified":1770194451492,"schema":1770194445916}

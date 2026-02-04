@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libglslcompiler.so","hashes":["5681d16e4908d59c5667870610b22800f865c7d150cf50d0e416f2ab1aad2e6c","4585eea5817b09152638f60eea8329dc82c99a5c9acde8578cab9199ac78f2a1"],"id":"id-246","last_modified":1770108655476,"schema":1770108632613}
+{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["49ef230b154b1c0beac973fb9a6762f1cdada3e10cb068279506a4100b653f30"],"id":"id-246","last_modified":1770194450239,"schema":1770194430275}
