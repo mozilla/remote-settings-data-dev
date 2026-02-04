@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac release): pthread_kill | abort | malloc_vreport | malloc_report | ___BUG_IN_CLIENT_OF_LIBMALLOC_POINTER_BEING_FREED_WAS_NOT_ALLOCATED","hashes":["cc2b9c1d4df5fbcc8847f2b6685d8904bc5f2ac45667ed418db9d463c022fbdc"],"id":"id-131","last_modified":1770108658828,"schema":1770108625268}
+{"description":"gmplugin (Mac release): -[EXExtensionPointEnumerator initWithSDKDictionary:urls:config:]","hashes":["52113131e0c55d101f6e1ef835da14281147f4aa3b194b6e2c4e5175abb30837"],"id":"id-131","last_modified":1770194453325,"schema":1770194422565}
