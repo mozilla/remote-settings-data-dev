@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | mozilla::layers::CompositorD3D11::UpdateConstantBuffers","hashes":["0d8949b0af5788a9d12ad7b95300ccc7fe8357f41daef16c6943606c455ce2c9","725c5fdbae0e41732de8b6128bec958f3ba3de7a1ada32ad848fd11e47f3a573"],"id":"id-227","last_modified":1770194452343,"schema":1770194428992}
+{"description":"gmplugin (Linux release): ld-linux-x86-64.so.2","hashes":["031804170e9f7743a108cb95173c213a28255bc4f753903ab16ef14186b416b5"],"id":"id-227","last_modified":1770281451073,"schema":1770281428491}
