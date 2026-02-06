@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows nightly): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["8fc935d77886900cc3069cdd98b4f741839d4c78a2505b8e532f2a00c53dfdfd"],"id":"id-474","last_modified":1770281448967,"schema":1770281445341}
+{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | mozilla::widget::filedialog::MakeFileDialog","hashes":["be3ee5cf7ef80552ceeb080dc5112b7e742dd175d8de98a0ae68d5851ac6385f"],"id":"id-474","last_modified":1770367841593,"schema":1770367838484}
