@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): mozilla::net::ReadEvent::OnComplete","hashes":["12a41fa1957e9890d55255c03ec0d8f79cf8ba8d40e7dcae3f6c4aa03aea81ad","fb64fb9fb0cd5386d1d2d5afa303bf4cfabe1767f5f2f27d515c11033b6a32ca","30745e647a25be5de197eed738acf7fc5483c621cfd31b7c8808505b62fd9b26"],"id":"id-065","last_modified":1770281452670,"schema":1770281417499}
+{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["db4992409a0fd0f35d2fae816b8b5f76a7af9216324c34fb8a2d492c0a9dab11"],"id":"id-065","last_modified":1770367845026,"schema":1770367813436}

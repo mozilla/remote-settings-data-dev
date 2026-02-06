@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["af20bc64bb1cb3800f0a9cc73454d9ee21f24826c0e72a6bacb34e092684691e","70f9148b6a942d4624446e7d0c61a4da8ddad11cf4f34b3d975ef8b310d3ca24","01ee28f2acee5d50f70a5417889d24ebf062e5570d03ef49437b13fd10d1521c"],"id":"id-305","last_modified":1770281452410,"schema":1770281433616}
+{"description":"gpu (Linux nightly): wgpu_hal::vulkan::get_unexpected_err","hashes":["d8d7c879a555f6c44d0a8d31b4fc293d2893495ee92186af2e1eb1edb569b070"],"id":"id-305","last_modified":1770367844882,"schema":1770367827708}
