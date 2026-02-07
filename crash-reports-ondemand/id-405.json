@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <.plt ELF section in libxul.so> | mozilla::layers::WebRenderBridgeParent::ScreenPixelsRequest::~ScreenPixelsRequest","hashes":["17f258dd133487c3c744f215bc3a0b3a8e674444491bb916a4cb76e3f7a96c01","a3d34e81a2f56001469030056211449e8948cb9bbc734f493f3e8ad85e5bf94d"],"id":"id-405","last_modified":1770367841371,"schema":1770367833847}
+{"description":"rdd (Windows beta): @0x169d4ddb80","hashes":["12fd2e8387f119cb9eac7d2fa05c1d79088a0b7d700f90f5b4878e736672fd95"],"id":"id-405","last_modified":1770454248725,"schema":1770454240621}
