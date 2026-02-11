@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): memcpy | st_upload_constants","hashes":["55dec630d834d6e0b21e620b6a780f0077043efdd0bbcabe13da44459c8e35a1"],"id":"id-196","last_modified":1770626453676,"schema":1770626425406}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-196","last_modified":1770799853157,"schema":1770799829106}
