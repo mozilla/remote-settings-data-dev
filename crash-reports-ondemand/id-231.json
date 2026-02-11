@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): pthread_kill | abort | GLDContextRec::flushContextInternal","hashes":["9af88a2dfc12b05c79094504db60581a08bb1d6c47f3dfc6a4647b030a4eea8b"],"id":"id-231","last_modified":1770626450871,"schema":1770626428077}
+{"description":"gpu (Mac beta): naga::valid::Validator::validate_impl","hashes":["09d30647d50c1f0e459635f24f729c24b0a3874cf2503d1a3f1f5cbf54ddb9bf"],"id":"id-231","last_modified":1770799850664,"schema":1770799831218}

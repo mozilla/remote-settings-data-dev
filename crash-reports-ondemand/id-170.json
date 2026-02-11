@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): libsystem_kernel.dylib","hashes":["bcdeac389b1e851344884ae1bd846da0545d80edfb55998274e0e33e64732dd2","7412b6c7a064388cbdb0c607f37ec050a7e1adbb9ca456c8e33036a9c894bd52"],"id":"id-170","last_modified":1770626450932,"schema":1770626423719}
+{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["292bd6f3e0a5aaee035958ce48deb19a8bdd83315e3e66c28bf12d83bafae5a5","7655f4df1db37e8554505c48f83e098a521a693450e3bc3090ac0df47301b4d6"],"id":"id-170","last_modified":1770799850722,"schema":1770799827545}

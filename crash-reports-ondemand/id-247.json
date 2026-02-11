@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["fe8acc42f01c7a0944fe61131dba458f778966a8c53d033e498a0e732892cdce","a672789139964973a7fd22c33a156a2b0a782b267043a17b6eaf451dda3d7603"],"id":"id-247","last_modified":1770626451132,"schema":1770626429047}
+{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["bad2be4fb126a9c8c8d60b68239eb0a27e083699bc6abf80c2b48b466181eb3c"],"id":"id-247","last_modified":1770799850913,"schema":1770799832160}
