@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): mozilla::layers::AsyncPanZoomController::RequestContentRepaint","hashes":["87d1babb15652e56cb68d7aad4e1970d100f0e0aebe922ba5366f663f5d0ca88"],"id":"id-212","last_modified":1770799852707,"schema":1770799830046}
+{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-212","last_modified":1770886254308,"schema":1770886231041}

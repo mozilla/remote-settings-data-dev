@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): libsystem_platform.dylib","hashes":["8a511cf6fc9576bb43698d2ca20fd8608b33f9f3a7aa16ff4453fd35e1e5d792","f93e9d492b04da2dfb7b47cfb4b47328a1dec2a07333d9e1dee2ef70aa11035e"],"id":"id-471","last_modified":1770799852152,"schema":1770799846055}
+{"description":"socket (Linux release): libc.so.6 | libxul.so | libnspr4.so","hashes":["6bc2c057b460884a80032c37391a4bd5811916a24aae2c158a1036a4d097d98a"],"id":"id-471","last_modified":1770886253762,"schema":1770886246968}
