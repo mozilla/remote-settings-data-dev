@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-212","last_modified":1770886252993,"schema":1770886231041}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["27b625b5bb5954d85811d3f72f4df242d4e5ce5d0965bee090367eaae54def74","330d3fe17320db74af9af869b68df15386a77062b5bc58f9aea9709f23ea7e7b"],"id":"id-212","last_modified":1770972653577,"schema":1770972627398}

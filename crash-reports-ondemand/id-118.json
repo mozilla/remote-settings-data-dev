@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::ReadableStreamDefaultReader::Read","hashes":["5632cecd59a0a094e4d0db19b9b70a1d2c54f0f4c7ecd5beb40337ad6e5456e2","4a83aa3809536b5f93a01979e9f322568f612b2c86b86378af16dff7ed2f42ef"],"id":"id-118","last_modified":1770886252942,"schema":1770886225085}
+{"description":"content (Android nightly): JSObject::isCallable","hashes":["9907cfc0667394956684461b2aabbc15835dd14c308dd10ffac182fd75f26e22"],"id":"id-118","last_modified":1770972653543,"schema":1770972621943}
