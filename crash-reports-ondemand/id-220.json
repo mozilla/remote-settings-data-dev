@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): @0x97189e7c","hashes":["ba60bb70b0088141fa8a61edfbfb84071931223b2f517301e6a832b6dd12b968"],"id":"id-220","last_modified":1770886254495,"schema":1770886231531}
+{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["60e946e696d72729380db7f7ff5a1030caa99036012f28ec0c5e310cf5c819b3"],"id":"id-220","last_modified":1770972654832,"schema":1770972627878}
