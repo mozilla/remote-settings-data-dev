@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libsrv_um.so","hashes":["aaf4ba67fc1013d588d4b5fdb54bd9ccb71d331b4bb20bd6ec79b6ec4c0f9210","f63a955021c0f78a89a5292db1fde8d3afc07dec53a48827f10463289fde77ee","41837c96ba5efacd7c4528f42c2a60e8f2038742de3388fcf83f0b91c03692b0"],"id":"id-236","last_modified":1770972653467,"schema":1770972628839}
+{"description":"gpu (Linux nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e5ae9512661e3aacdbea40f24941a58546c2bb59f66e3865e62804f68c07a276"],"id":"id-236","last_modified":1771059047565,"schema":1771059029135}
