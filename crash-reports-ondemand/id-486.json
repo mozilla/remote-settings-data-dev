@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x1088af3e","hashes":["d6f86293a9ffba5e0b346fa3dd95aa950e881208d182bc9a2dad67b9be17f904"],"id":"id-486","last_modified":1771059048257,"schema":1771059043694}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | msoshext.dll | ICoCreateInstanceEx","hashes":["7b5202430b5784710399fcc548ff82a71e81b6cbed21f5d97ad22df660ff1e3c","a05ef89d2354b35b5e9fc934d68c958770ef03a7db3cfb0ab3b2f1049750f279"],"id":"id-486","last_modified":1771144849723,"schema":1771144844931}
