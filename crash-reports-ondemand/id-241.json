@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["bad2be4fb126a9c8c8d60b68239eb0a27e083699bc6abf80c2b48b466181eb3c"],"id":"id-241","last_modified":1771059047236,"schema":1771059029399}
+{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["60e946e696d72729380db7f7ff5a1030caa99036012f28ec0c5e310cf5c819b3"],"id":"id-241","last_modified":1771144848689,"schema":1771144829664}

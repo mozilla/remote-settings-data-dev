@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::slice::<T>::copy_from_slice","hashes":["7ffb9ce2ce5407e7921ed79e7b3f279225790afefddabe977ab94bdfc837c4f2"],"id":"id-180","last_modified":1771059046884,"schema":1771059026224}
+{"description":"gpu (Linux nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e5ae9512661e3aacdbea40f24941a58546c2bb59f66e3865e62804f68c07a276"],"id":"id-180","last_modified":1771144848358,"schema":1771144826490}

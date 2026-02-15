@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e5ae9512661e3aacdbea40f24941a58546c2bb59f66e3865e62804f68c07a276"],"id":"id-236","last_modified":1771059047565,"schema":1771059029135}
+{"description":"gpu (Android beta): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::ipc::BigBuffer>::Read | mozilla::dom::PWebGLParent::OnMessageReceived","hashes":["40aebf12bdb64252a99636a5ee30062c02c81b1f9ba9333fc5e5c1b8819a8041"],"id":"id-236","last_modified":1771144849084,"schema":1771144829406}

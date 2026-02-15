@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["80d2eeb1ae656e3674aef9a189d139548b6b54250cc9773da1030835a1d91dfa"],"id":"id-217","last_modified":1771059046650,"schema":1771059028136}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_powervr.so","hashes":["133bec0aecd1415cb1e47869d9d434cb2c4d0351d6ae46b363cd6b352d03e637","e8d007accfdb8c1d4027323250573d2c3bd95f622fac3ca127b02a7b43a3a8c1"],"id":"id-217","last_modified":1771144848143,"schema":1771144828412}
