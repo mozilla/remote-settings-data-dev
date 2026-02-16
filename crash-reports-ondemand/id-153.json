@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): @0x7ffdd933ca40","hashes":["ff8a0faf47d1866901c217dd2b9e42bfa931f29fff339ace47b42b453e2575e8"],"id":"id-153","last_modified":1771144848987,"schema":1771144825070}
+{"description":"gmplugin (Linux release): <.plt ELF section in libxul.so> | mozilla::gmp::PChromiumCDMChild::OnMessageReceived","hashes":["c951621a1fd78d86b5fdf8db61291779a6b1fdbf9ae480d34c63d9082766fceb"],"id":"id-153","last_modified":1771230647932,"schema":1771230623259}
