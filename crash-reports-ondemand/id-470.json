@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): CallbackNode::Func","hashes":["77a597b27c04019085c6db988b0512f0825587859d5cc60df9894a28ab4d87e5"],"id":"id-470","last_modified":1771144849732,"schema":1771144843140}
+{"description":"socket (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | CopyableTArray<T>::~CopyableTArray","hashes":["04a136fae9f728883923d769d78fcf83d37a2342f0cdd5a232f37da2dbfbaa68"],"id":"id-470","last_modified":1771230648865,"schema":1771230640821}

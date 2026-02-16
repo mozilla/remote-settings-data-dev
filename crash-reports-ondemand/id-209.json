@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): webrender::scene_building::SceneBuilder::build_all","hashes":["a0b91e8ec1816b5daae2744b6c8932243618f74e410cb3c7f6c3f30dcdd727d3"],"id":"id-209","last_modified":1771144850156,"schema":1771144827996}
+{"description":"gpu (Mac nightly): arena_t::Purge | arena_t::PurgeLoop | arena_t::MayDoOrQueuePurge | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["273521f7d592ed1cddcda0b7bf6ceadceed06e646dde0ec16ff45000dec4676c"],"id":"id-209","last_modified":1771230649190,"schema":1771230626160}
