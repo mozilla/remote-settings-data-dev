@@ -1,1 +1,1 @@
-{"description":"main (Linux nightly): libxul.so (deleted) | libnspr4.so (deleted)","hashes":["f3020335e8a0e9a6192377f49a65c08c24bfce89b8b2309f2369e81eb2c92c12","0f935a7b16603dad129d83261f20ee5f6c809f82aa88ba720756af77ec1175b5"],"id":"id-362","last_modified":1771230648087,"schema":1771230634139}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["342afcb976dcba91a22b639cf6f20135da1c3e11cec44f6a577a1c496e3f03db"],"id":"id-362","last_modified":1771322453847,"schema":1771322441442}
