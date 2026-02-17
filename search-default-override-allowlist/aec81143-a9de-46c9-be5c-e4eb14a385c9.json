@@ -1,0 +1,1 @@
+{"id":"aec81143-a9de-46c9-be5c-e4eb14a385c9","last_modified":1771345735806,"overridesAppIdv2":"qwant","overridesId":"qwant@search.mozilla.org","schema":1771345702087,"thirdPartyId":"qwant-search-firefox@qwant.com","urls":[{"search_url":"https://www.qwant.com/?q={searchTerms}&client=ext-firefox-sb"},{"search_url":"https://www.qwant.com/?q={searchTerms}&client=plgn-firefox-sb"}]}
