@@ -1,0 +1,1 @@
+{"engineName":"Ecosia","id":"9765c9e6-96bc-4b85-bdb3-15e4ac3b6a0c","last_modified":1771344882896,"overridesAppIdv2":"ecosia","overridesId":"ecosia@search.mozilla.org","schema":1771344826373,"thirdPartyId":"opensearch@search.mozilla.org","urls":[{"search_url":"https://www.ecosia.org/search?q={searchTerms}&addon=opensearch"}]}
