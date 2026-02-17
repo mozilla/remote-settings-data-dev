@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CDXGISwapChain::GetFrameStatisticsCore","hashes":["e76bbd786aab2affaaa8fd81c3aa50dcd88fd20ce4065a7087c14433041344cf"],"id":"id-514","last_modified":1771230649018,"schema":1771230645731}
+{"description":"rdd (Windows nightly): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["67e0d5d7eb2c4fe21d451c44855e09ebf3480fa4f91e9d71712eba0bd76f9f68","912a02d8b788333f531c4075e178b79cb8fe34c9328d9505e55a9df40b81408d"],"id":"id-514","last_modified":1771322454548,"schema":1771322451973}
