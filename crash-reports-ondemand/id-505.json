@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["8ccc7569149a3b1148fef9ea816bc812924a1ee299edd8254f7075d811af1ada","a3f7078208d7d697774c7e2907296d70dbc5a0c41d417bbd90ba5524be49dd85"],"id":"id-505","last_modified":1771404646557,"schema":1771404643197}
+{"description":"utility (Linux beta): memset | _dl_map_segments","hashes":["9d979bb0617adca5106218edc4b04b8ce75b7b417d68a891f9548e77cc7290b2"],"id":"id-505","last_modified":1771577449389,"schema":1771577445803}
