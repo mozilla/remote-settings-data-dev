@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["67e0d5d7eb2c4fe21d451c44855e09ebf3480fa4f91e9d71712eba0bd76f9f68","912a02d8b788333f531c4075e178b79cb8fe34c9328d9505e55a9df40b81408d"],"id":"id-117","last_modified":1771404644544,"schema":1771404617688}
+{"description":"content (Mac nightly): js::jit::JitScript::ensureHasCachedBaselineJitData","hashes":["bf77f82118651b1d942f4f08ee2fe36bf7cd60b739f12626ac4007b84620f80f"],"id":"id-117","last_modified":1771577447146,"schema":1771577422402}

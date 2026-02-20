@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["936b5d18a080ee9364916a896d6bb6ae511a45c6d2bbf1f8cc72b74518d24b38","66728fc4e7c11f8327b82fbf2443639c71c5a4e40c3233d6e5b7dd80796f67b2"],"id":"id-109","last_modified":1771404644359,"schema":1771404617268}
+{"description":"content (Android nightly): libc.so | libart.so | libbase.so","hashes":["e4f1dc1bef41ff337b88b5a810b6fbca7b8131dd5943165194c3035b54e8c52e","0065d7f54f900e30ff4c55c8511391d23edf79dd5865d7146cb472ee6c4bbe4b"],"id":"id-109","last_modified":1771577446971,"schema":1771577422041}
