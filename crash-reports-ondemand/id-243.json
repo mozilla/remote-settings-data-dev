@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["e8308bf19e81e54070138ff8e3d96a1116ce71e70f3fba7d1f0f546f3cb32368"],"id":"id-243","last_modified":1771577447406,"schema":1771577429628}
+{"description":"gpu (Android nightly): @0xcd96ea4a","hashes":["65651bbdc8ec16be3b03ea0cf039faab45417a3b251728927927717b3f85ddfa"],"id":"id-243","last_modified":1771663996833,"schema":1771663577993}

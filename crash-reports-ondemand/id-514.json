@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CEnumFiles::FindNext","hashes":["3ea8332a14cbd836359f2551c9d1726e7eb8bf86b7fff690dfbc7313d1978509"],"id":"id-514","last_modified":1771577446919,"schema":1771577446190}
+{"description":"utility (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["bb0fa9fb5cab133ffa5933ce5e817f6fab3d518490597c1269ba13a6224bf2a6"],"id":"id-514","last_modified":1771663996326,"schema":1771663980155}

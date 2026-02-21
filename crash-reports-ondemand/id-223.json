@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["80d2eeb1ae656e3674aef9a189d139548b6b54250cc9773da1030835a1d91dfa"],"id":"id-223","last_modified":1771577446961,"schema":1771577427428}
+{"description":"gpu (Mac beta): GenContext::ProgramClearPipeline","hashes":["8f58e1a1d867de920d0499d91748e849519896630f5411fd64693769423d1910"],"id":"id-223","last_modified":1771663996369,"schema":1771663549161}

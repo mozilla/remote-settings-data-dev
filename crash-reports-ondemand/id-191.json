@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libnvidia-glcore.so.340.108","hashes":["46d72369c049abb4e625815cff911a2231f390658feebc5ecf2a529925e78428"],"id":"id-191","last_modified":1771577447536,"schema":1771577425783}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["7f31e0469ce21df43991cdd88ab01a890c87e2f2bdeadad264ba8dc012dad943","c68e844dfc2e252e186a2b11ce983eedd80aacbc15d6eb69388320853e077c87"],"id":"id-191","last_modified":1771663997011,"schema":1771663503241}
