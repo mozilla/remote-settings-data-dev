@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libIMGegl.so","hashes":["0e7cd961cf810c11f97629de398e48c41cc08b937644bc638647d19b6175616e","d4e5ff8f31d8455de4619f958f95a600e97a2d45e3ffdfe5a1511295dc4b2be4","8a568474708d876d573ab1f4bd3b249234938c3a0910d71b722763e06b1ca4c6"],"id":"id-212","last_modified":1771663997201,"schema":1771663533571}
+{"description":"gpu (Linux release): libnvidia-glcore.so.390.157","hashes":["74fd13c3200625383dbad0b2cc74a33fd43aa9d6684130bb81ffc800614f0842"],"id":"id-212","last_modified":1771750408462,"schema":1771749931292}

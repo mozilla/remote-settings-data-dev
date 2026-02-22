@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): libavcodec.so.58","hashes":["4c37c8b3fca4776b0011fa5a6b996b615b08465fdb4f2b04e9b887fc2b487e8d"],"id":"id-408","last_modified":1771663997444,"schema":1771663824583}
+{"description":"rdd (Windows beta): RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | av_free | av_buffer_default_free | buffer_replace","hashes":["723917778e7d6d2e7773c33299065623a5cc64a4d6470f7c6e08bc9e58d8f038"],"id":"id-408","last_modified":1771750408765,"schema":1771750229918}

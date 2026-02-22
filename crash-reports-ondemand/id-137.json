@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux release): <name omitted> | mozilla::gmp::GMPChild::RecvPreloadLibs","hashes":["0d61c9fd6fce70ae27aec568f5b7780610fb55ba437296e591b65f9d04382b7d"],"id":"id-137","last_modified":1771663997495,"schema":1771663422508}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["342afcb976dcba91a22b639cf6f20135da1c3e11cec44f6a577a1c496e3f03db","e88ce6e942047790c3f231534620c5201d68d66085da6bcc7906aa1ce8539265"],"id":"id-137","last_modified":1771750408689,"schema":1771749817887}

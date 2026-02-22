@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByAddress","hashes":["75b001976da89295e63b9d1cd9e7384222c319096c31619363eb36a92cd0c0dd"],"id":"id-410","last_modified":1771663996211,"schema":1771663827443}
+{"description":"rdd (Windows beta): RtlpWakeSRWLock | LdrGetProcedureAddressForCaller","hashes":["811da5d251cad38c630f1eeda961b63a9606d931fe0460f75a21947a0f1ec05f","b927788d44310308db9b66f7f30978aa889efb4c864ad7f901da26bf2881bc73"],"id":"id-410","last_modified":1771750407660,"schema":1771750232880}

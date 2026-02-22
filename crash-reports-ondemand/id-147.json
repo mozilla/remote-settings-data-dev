@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::WidevineFileIO::ReadComplete","hashes":["275ecb41206835916b265263a339a312c2e9db1a70b1d5b25dbd3e6689e72ff6","fe865d8ef3a66c930c2176628ea66e73a5a47523f950ffc375c05aa7746620ff"],"id":"id-147","last_modified":1771663996237,"schema":1771663437651}
+{"description":"gmplugin (Linux release): mozilla::gmp::ChromiumCDMChild::RecvCreateSessionAndGenerateRequest","hashes":["89c6b0e26dbc055e32eb770f90207522e5ddd10ce4f5992cabec37eb523eefd1"],"id":"id-147","last_modified":1771750407682,"schema":1771749832962}
