@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsTArray_Impl<T>::nsTArray_Impl<T> | nsTArray<T>::nsTArray | nsTArray<T>::nsTArray | mozilla::HVCCConfig::HVCCConfig","hashes":["28e9d49ba248866edb04104731681072bc01817bf3519bf14a148754ae7a1cb4"],"id":"id-069","last_modified":1771663999549,"schema":1771663323679}
+{"description":"content (Mac beta): JS::GetClass","hashes":["8a791cb8b4c7172f6db7fd1732f9c56c0227961ba75534003e0f9b446f526065","1142d8e2daa2c8d52c5fdce0f9133ce533cf7a016568b366ae25dfabc7492ac0"],"id":"id-069","last_modified":1771750410491,"schema":1771749717349}

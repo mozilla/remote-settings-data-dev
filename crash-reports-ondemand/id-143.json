@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): msmpeg2vdec.dll | wmf::CreateMFT","hashes":["f2caf668c76ebea650258c5ce2f858c1f78f516c168612df2a23466b24845253","b11781b950da5d4ab2f25325529aadde69e38ea720bb718e71253faddf53571a"],"id":"id-143","last_modified":1771663998520,"schema":1771663432049}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvInitializeVideoDecoder","hashes":["9b64719522640854f8b09cd206e8db3549cf83b3fc60e846f3776f83863f0a6c"],"id":"id-143","last_modified":1771750409625,"schema":1771749826556}
