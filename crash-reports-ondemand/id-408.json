@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | av_free | av_buffer_default_free | buffer_replace","hashes":["723917778e7d6d2e7773c33299065623a5cc64a4d6470f7c6e08bc9e58d8f038"],"id":"id-408","last_modified":1771750408765,"schema":1771750229918}
+{"description":"rdd (Windows nightly): <unknown in amdxx64.dll> | NDXGI::CDevice::DestroyDriverInstance","hashes":["7ab8ba453c183271258a6d8b77d1e757f8fb3b566eced574fccb76ecff2f1606"],"id":"id-408","last_modified":1771836840469,"schema":1771836655421}

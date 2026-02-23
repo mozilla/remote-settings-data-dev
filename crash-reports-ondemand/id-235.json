@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x0 | p_db6unlockEv","hashes":["12a4a72f4638ee6e041c5ec6cd8421750ab1804a33f3068dc6cb1b79fdd57756","06747ad8720b47ba88262dbbd7e51acbc4567113614de94644fd213b58607071"],"id":"id-235","last_modified":1771750408295,"schema":1771749965979}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["5d3247e036be0a58cfd116d570a5734e5d72f72a27bec0b306ac7464ff3761f6"],"id":"id-235","last_modified":1771836840022,"schema":1771836382624}
