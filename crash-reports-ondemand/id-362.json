@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): google_breakpad::ExceptionHandler::WaitForMessage | libsystem_pthread.dylib","hashes":["6855d03e3e835b525b1270702b57500a6bf0ac1c5bb7bfd0361ea997a17be2bc"],"id":"id-362","last_modified":1771750409726,"schema":1771750159184}
+{"description":"main (Mac beta): objc_msgSend | -[CALayer actionForKey:]","hashes":["96b6981023e69ca6611241ad03a5b10b2f194b49ee642eeae2a5cd7ca60282bc"],"id":"id-362","last_modified":1771836841639,"schema":1771836581293}

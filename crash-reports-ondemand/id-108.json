@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): libxul.so | firefox","hashes":["fe827e563dd4954cd133956181b86cbaabcd5e6721a3d7b27fae10f65c5b7ab6","28337dc61e6060ad71419f6b09637f69b280702d2842617d1ccf0c6f05c9ae88"],"id":"id-108","last_modified":1771750410499,"schema":1771749775142}
+{"description":"content (Mac nightly): mozilla::detail::CheckedUnsafePtrBase<T>::get","hashes":["18598f9ecec8dbd261baabb483f4476573a6c66cb3b20e4429a96a0d0a6aca4f"],"id":"id-108","last_modified":1771836842595,"schema":1771836181743}
