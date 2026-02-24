@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x0 | LiferayNativityUtil_x64.dll | LiferayNativityErrorOverlay_x64.dll | RtlAcquireSRWLockShared | CFSIconOverlayManager::_GetFileOverlayInfo","hashes":["f6991e1d5f956cbc28270018cbd8020b6b7b6f4b58d2431cbd0743747c1fc3d7"],"id":"id-498","last_modified":1771836840013,"schema":1771836795131}
+{"description":"gpu (Linux release): libnvidia-glcore.so.390.157","hashes":["74fd13c3200625383dbad0b2cc74a33fd43aa9d6684130bb81ffc800614f0842"],"id":"id-498","last_modified":1771931635308,"schema":1771931590065}

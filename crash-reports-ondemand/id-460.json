@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrGetProcedureAddressForCaller","hashes":["5870d0fcfdf354746dd146ab9decb38c738668d6851bd3ebaa80b145b95a1445"],"id":"id-460","last_modified":1771836840043,"schema":1771836737080}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["68ebc882fb534dfb576a242b2cae6f9bc24f739a450343d755da077595ad3684"],"id":"id-460","last_modified":1771931635340,"schema":1771931532321}
