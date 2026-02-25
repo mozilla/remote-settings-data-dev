@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): @0x32","hashes":["f40a0bad80ecf04de23304cca7c9377e80ea06cbbb065010ca353fa039157fff"],"id":"id-409","last_modified":1771931635346,"schema":1771931454057}
+{"description":"rdd (Windows beta): RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | av_free | av_buffer_default_free | buffer_replace","hashes":["723917778e7d6d2e7773c33299065623a5cc64a4d6470f7c6e08bc9e58d8f038"],"id":"id-409","last_modified":1772010814026,"schema":1772010642870}

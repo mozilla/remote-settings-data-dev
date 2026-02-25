@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): libsystem_kernel.dylib","hashes":["8ed2a021974dff9ca3ac6f38a41c8699fc9cb62c770393405789dc4a232addf0","b4a86cdaae6e14053c9c700055c022384b94d09ec863adda66cb5a7cbd97670e"],"id":"id-285","last_modified":1771931635674,"schema":1771931261822}
+{"description":"socket (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["74e04849d68670738098cbc9ba664c48837a14cb8768b36e7a77307020a4b07f"],"id":"id-285","last_modified":1772010814330,"schema":1772010452588}
