@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | libxul.so | memcpy | nsCharTraits<T>::copy","hashes":["b188a2a00fa0a3b3d25b664f261fdbfc0828bc75097d08e15e956ff5277a3946","e002e4e976ce9c35d8c09fef635f4cb91931a6b5643e26fe92ddba59b1c9286b"],"id":"id-504","last_modified":1771931637827,"schema":1771931599083}
+{"description":"content (Mac nightly): PNGReadPlugin::initialize","hashes":["f664bdb57973d8698b12dd509b05f07c6250d6b5e1d12a085afdf1db10ec6368"],"id":"id-504","last_modified":1772010816480,"schema":1772010784943}
