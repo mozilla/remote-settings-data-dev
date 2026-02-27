@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["5143ecd940780d93852c9d5313733ca2a33268f08910438cb0e1ce50fb95998b"],"id":"id-312","last_modified":1772010815095,"schema":1772010495732}
+{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["535753f7cf7cf185c78a4021e9c5d0ae0c5715c722af947a3dd38fd3c9d96eaf","4f1aed081ba4ae3e5e5589d6d205c771f2b41521327128b0b709291ddc7a381e"],"id":"id-312","last_modified":1772179401101,"schema":1772179079147}

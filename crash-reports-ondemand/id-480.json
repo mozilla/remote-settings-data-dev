@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["5d3247e036be0a58cfd116d570a5734e5d72f72a27bec0b306ac7464ff3761f6"],"id":"id-480","last_modified":1772010816092,"schema":1772010747198}
+{"description":"gpu (Linux nightly): wgpu_hal::vulkan::get_lost_err","hashes":["6dd63ed23f1a73946348ed83cf9bfc2ee61ed305c83a20aa2e8d08f5ceb82e2f"],"id":"id-480","last_modified":1772179402118,"schema":1772179337183}

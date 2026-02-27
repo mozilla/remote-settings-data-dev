@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): @0x642e285c","hashes":["faa939d89cfe163fec861acceecdbd86949acccdbd20442b2b4fec80c44093dc"],"id":"id-385","last_modified":1772010815047,"schema":1772010605271}
+{"description":"gpu (Android nightly): core::result::unwrap_failed | <gleam::gl::GlesFns as gleam::gl::Gl>::get_shader_info_log","hashes":["b632f37e5901fa0da682b766c978c0410c252fd4ad5ce031453866a4861f96ed"],"id":"id-385","last_modified":1772179400984,"schema":1772179187176}

@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["b960ccece69bbab9eef29ce57eee331e3aaf34b86dbc00f0c6b340f23fa31f98","ba049c88047b2e035ea2be43f938f2f746b7b9dd7081033f4027ec7537866dc7"],"id":"id-472","last_modified":1772010815717,"schema":1772010735405}
+{"description":"content (Mac nightly): js::GCStructPtr<T>::get","hashes":["63848a16e0cb4015e3ad7f24546907727944ba4e8eff8170e72aa9fd810df27b"],"id":"id-472","last_modified":1772179401713,"schema":1772179323722}
