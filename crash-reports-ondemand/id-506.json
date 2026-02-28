@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlpFreeUserBlockToHeap | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["2c057431afc7d00708fe15542b5c6921306e1c2fac27e1723fa1262572143e0f"],"id":"id-506","last_modified":1772179401318,"schema":1772179376581}
+{"description":"gmplugin (Mac release): cerror_nocancel","hashes":["79c2968204ccacdbab02cb2f0cf6dc694eb8ad523278f80bfc808668e1a7dd19"],"id":"id-506","last_modified":1772267052466,"schema":1772267027737}

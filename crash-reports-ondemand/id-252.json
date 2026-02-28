@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::ChunkMarkBitmap::markIfUnmarkedThreadSafe","hashes":["84b6f80793fdb8994c55936f4604154345868b153ae8d70cd540c3624ca82aac","5c5d215222d47a857d1cab7e7724501c871601c207614c286214773dd47861f5","fe74302909da77549415913d2adc06b5d95fa4280a91612b644789f0916d19a3"],"id":"id-252","last_modified":1772179402490,"schema":1772178990007}
+{"description":"content (Mac nightly): js::Shape::isNative","hashes":["919bfac461af5eedbef22e3577425f747cd348353f6dba68b444c05ab560f050"],"id":"id-252","last_modified":1772267053525,"schema":1772266614076}
