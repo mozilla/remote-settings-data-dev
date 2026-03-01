@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::StringBuffer::ConstructInPlace","hashes":["a83604707d2462019ee2987f31fbeebf6e699f6cc880f536f86e73e9d0fb6fa6","60b5292acb21d2c512f1d881a4e298d77b3b3ce98f2761ba0172428e18e20fb7"],"id":"id-455","last_modified":1772267053273,"schema":1772266946522}
+{"description":"content (Android beta): js::wasm::Instance::callExport","hashes":["72989791115f531e9a782b383244c1e928ca117981dbfbe30f9f5e71bff9f62c"],"id":"id-455","last_modified":1772354043579,"schema":1772353941145}
