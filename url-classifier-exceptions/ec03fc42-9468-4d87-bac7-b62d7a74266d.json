@@ -1,0 +1,1 @@
+{"bugIds":["2017235"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ec03fc42-9468-4d87-bac7-b62d7a74266d","last_modified":1772331018789,"schema":1772331015366,"topLevelUrlPattern":"*://vivo.com.br/*","urlPattern":"*://edge.adobedc.net/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2018614"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7e5c9bfb-045a-429a-9c6f-36d6da695ac9","last_modified":1772331018681,"schema":1772331014410,"topLevelUrlPattern":"*://thehounds.ca/*","urlPattern":"*://api.ola.godaddy.com/*"}

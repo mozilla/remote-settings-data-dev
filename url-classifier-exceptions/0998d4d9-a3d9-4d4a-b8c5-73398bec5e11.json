@@ -1,0 +1,1 @@
+{"bugIds":["1879542"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0998d4d9-a3d9-4d4a-b8c5-73398bec5e11","last_modified":1772331018937,"schema":1772331018124,"topLevelUrlPattern":"*://www.tangerine.ca/*","urlPattern":"*://nebula-cdn.kampyle.com/*"}

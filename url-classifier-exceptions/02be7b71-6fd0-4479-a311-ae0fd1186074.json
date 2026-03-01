@@ -1,0 +1,1 @@
+{"bugIds":["2018661"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"02be7b71-6fd0-4479-a311-ae0fd1186074","last_modified":1772331018720,"schema":1772331014299,"topLevelUrlPattern":"*://jsfiddle.net/*","urlPattern":"*://cdn.carbonads.com/*"}

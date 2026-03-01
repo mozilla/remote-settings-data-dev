@@ -1,0 +1,1 @@
+{"bugIds":["2016397"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"91e8bb57-fa5a-455c-83ac-4c991e078970","last_modified":1772331018810,"schema":1772331015850,"topLevelUrlPattern":"*://www.reveddit.com/*","urlPattern":"*://www.reddit.com/*"}

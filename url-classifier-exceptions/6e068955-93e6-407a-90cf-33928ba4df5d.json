@@ -1,0 +1,1 @@
+{"bugIds":["2013875"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6e068955-93e6-407a-90cf-33928ba4df5d","last_modified":1772331018922,"schema":1772331017788,"topLevelUrlPattern":"*://www.hungryroot.com/*","urlPattern":"*://cdn.segment.com/*"}
