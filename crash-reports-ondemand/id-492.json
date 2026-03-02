@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["986416a10caf923022ea58029b9d0469c6634f373063b3d9ab04162b111a129f"],"id":"id-492","last_modified":1772354040888,"schema":1772353997490}
+{"description":"socket (Mac release): mojo::core::ports::Node::GetPort","hashes":["b79c23ef9cc40e3e891d053450da096fe423c517a66ebab51f4b9c6ea7e97da6"],"id":"id-492","last_modified":1772440416637,"schema":1772440374428}
