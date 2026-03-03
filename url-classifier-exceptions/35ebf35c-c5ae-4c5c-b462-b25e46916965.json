@@ -1,0 +1,1 @@
+{"bugIds":["2019921"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"35ebf35c-c5ae-4c5c-b462-b25e46916965","last_modified":1772503814808,"schema":1772503812608,"topLevelUrlPattern":"*://schwabnetwork.com/*","urlPattern":"*://*.uplynk.com/*"}
