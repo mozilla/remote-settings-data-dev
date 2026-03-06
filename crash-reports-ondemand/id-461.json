@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["d5480215f5c214a0ae46dd1ff64b67a2a30bca56a944dfb594a4bbe9d5860458","8b05da46918b4e2e959efad2fdad8a04664ed58fd778ca60580062bb653d17a2"],"id":"id-461","last_modified":1772613840575,"schema":1772613748357}
+{"description":"utility (Mac release): mozilla::dom::JSValidatorChild::AddRef","hashes":["c062560b92695bd256351ef08644c7a9b14279ef9667f485d68abc15b4e52fbf"],"id":"id-461","last_modified":1772789035677,"schema":1772788954878}
