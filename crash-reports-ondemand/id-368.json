@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | NS_ABORT_OOM | mozilla::jni::ReportException","hashes":["7c5e557681eceacd5fed86247359b0e5d979094d44f2a6170d693dbf2ffb8101","aa48a98f6dcfb902dde52802652f0e6a39bc0d4a944650dc8127dad9fe0d550e","883bfd1a4a37b494d931f5de8f7c3b2a6ee09a9ae18e28f8858c0599c343b01c"],"id":"id-368","last_modified":1772613841456,"schema":1772613598253}
+{"description":"gpu (Mac nightly): IOAccelerator","hashes":["11cc3e90296b078a96252b185bf433f73887f8ba7f7772687e7f1b75de0890b6"],"id":"id-368","last_modified":1772789036496,"schema":1772788805583}
