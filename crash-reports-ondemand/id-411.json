@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["96aa4d77f8cd16cb33c256a6d7883399ae56a5b0c925dcd1fcf718e7be269cc9"],"id":"id-411","last_modified":1772789037367,"schema":1772788876109}
+{"description":"gpu (Android nightly): libc.so | boot.oat","hashes":["ffb345700e6862a3f10984ef9c96de299ff02e55f3f1ad8fcd12f14a72ed7d30"],"id":"id-411","last_modified":1772873631550,"schema":1772873466163}
