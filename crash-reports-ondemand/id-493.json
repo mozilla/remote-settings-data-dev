@@ -1,1 +1,1 @@
-{"description":"main (Windows nightly): @0x0","hashes":["701b0ea2eeae175376a50c797aeb91fdf4a329f1094dd36162b276f598cf1777","aed0dc56ae88dc7b727c7025328ce35e7fdf7c00c884f5f3cff21a767dc024c0","36d722e3e2dcc380053006dc72b06e75c6049ac1fe6f278bc363d9f1aa9870a5"],"id":"id-493","last_modified":1772873630967,"schema":1772873597138}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["31abd422e95ab5b5496b6aa86ec0cc43d3c788b1fa649ce9f66b70536cf94dbf"],"id":"id-493","last_modified":1772959451306,"schema":1772959415988}

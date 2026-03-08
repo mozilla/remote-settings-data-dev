@@ -1,1 +1,1 @@
-{"description":"content (Android beta): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_FAILURE)","hashes":["fd62a13cb151fd26c21141a3f3e655ee88330d274bcc2ed4004a2f29507eff85","914edcdf178c1d7bc083269800275bb6f055b04562b48ea8d731f75f8378b91f"],"id":"id-235","last_modified":1772873631363,"schema":1772873184936}
+{"description":"socket (Windows beta): ReadFile","hashes":["8ba5301dc2e314e0626b99c6a16d252de5e6c76ea6a12dfcb10d22ae49dd33a3"],"id":"id-235","last_modified":1772959451634,"schema":1772958988506}

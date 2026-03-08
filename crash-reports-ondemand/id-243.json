@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | RecvReloadWithHttpsOnlyException HTTPS-only mode: Illegal state","hashes":["c798acb976c41a50e286f2688db3a34f3acc209ce0ba0c29a3a4368072dda2f7","cf3f9e3e810479bceacfac485c953216bcfbe436c1b9c4046bb331bbfc56652a"],"id":"id-243","last_modified":1772873630632,"schema":1772873198440}
+{"description":"utility (Mac release): mojo::core::ports::Name::Name","hashes":["5bd7d3f8850eb55901d2c48ce38d25f7c9fc8b78169f9c2d19e72ab896048ae3"],"id":"id-243","last_modified":1772959450995,"schema":1772959001354}
