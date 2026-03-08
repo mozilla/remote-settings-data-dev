@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): getenv","hashes":["418e7d33cd39e3650c1c111e5d3eebb557cefeef5086813424e002b5449223ba"],"id":"id-245","last_modified":1772873629615,"schema":1772873201670}
+{"description":"gmplugin (Mac release): IPC::ChannelPosix::ProcessOutgoingMessages | IPC::ChannelPosix::Send | mozilla::ipc::NodeChannel::SendMessage","hashes":["0f58b07fb808a2f7b4b4e1bf1e4644058a4d7284aa6ffcc57688b47da2e7cbd3"],"id":"id-245","last_modified":1772959449840,"schema":1772959004557}
