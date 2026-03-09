@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): nsThreadPool::Run","hashes":["84b59a780dc9b8ae2cde179995226d0ed9e66f81b6cee4dae5026907b9e9d495"],"id":"id-467","last_modified":1772959451148,"schema":1772959373142}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["72078613a9a0cc7f1884c336dd3b39312084b66c2091b07d82fc7bf0bfc87ad7"],"id":"id-467","last_modified":1773053001378,"schema":1773052925443}
