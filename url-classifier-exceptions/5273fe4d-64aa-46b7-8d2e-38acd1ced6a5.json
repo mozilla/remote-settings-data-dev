@@ -1,0 +1,1 @@
+{"bugIds":["2020937"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5273fe4d-64aa-46b7-8d2e-38acd1ced6a5","last_modified":1773108611340,"schema":1773108611104,"topLevelUrlPattern":"*://www.keurigonline.nl/*","urlPattern":"*://*.helpscout.net/*"}
