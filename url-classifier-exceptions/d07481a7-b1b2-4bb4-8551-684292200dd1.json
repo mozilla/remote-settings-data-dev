@@ -1,0 +1,1 @@
+{"bugIds":["2011233"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d07481a7-b1b2-4bb4-8551-684292200dd1","last_modified":1773134050922,"schema":1769134211690,"topLevelUrlPattern":"*://builder.aws.com/*","urlPattern":"*://ext-prod-api.cloudbuilder.region-services.aws.a2z.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2013866"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a5e17e72-a89b-48ce-94bc-09ddff0f5727","last_modified":1773134050933,"schema":1772331013200,"topLevelUrlPattern":"*://www.inquirer.com/*","urlPattern":"*://*.npttech.com/*"}

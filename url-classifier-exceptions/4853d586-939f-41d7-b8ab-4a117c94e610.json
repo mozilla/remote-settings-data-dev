@@ -1,0 +1,1 @@
+{"bugIds":["2014462"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4853d586-939f-41d7-b8ab-4a117c94e610","last_modified":1773134051219,"schema":1772331017227,"topLevelUrlPattern":"*://www.wcvb.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

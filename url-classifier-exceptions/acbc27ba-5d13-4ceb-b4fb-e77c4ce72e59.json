@@ -1,0 +1,1 @@
+{"bugIds":["1998711"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"acbc27ba-5d13-4ceb-b4fb-e77c4ce72e59","last_modified":1773134050375,"schema":1762481755257,"topLevelUrlPattern":"*://buycycle.com/*","urlPattern":"*://cdn.optimizely.com/*"}

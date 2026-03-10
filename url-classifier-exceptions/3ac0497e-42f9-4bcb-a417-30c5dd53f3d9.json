@@ -1,0 +1,1 @@
+{"bugIds":["2019567"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3ac0497e-42f9-4bcb-a417-30c5dd53f3d9","last_modified":1773134050988,"schema":1772331013427,"topLevelUrlPattern":"*://dx.checkin.malindoair.com/*","urlPattern":"*://airline.api.platform.sabre.com/*"}

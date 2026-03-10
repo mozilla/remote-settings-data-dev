@@ -1,0 +1,1 @@
+{"bugIds":["2002722"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9a91803e-986c-453f-88b4-50d64dc839fe","last_modified":1773134050484,"schema":1764641410866,"topLevelUrlPattern":"*://www.fravega.com/*","urlPattern":"*://vtexid.vtex.com.br/*"}

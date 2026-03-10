@@ -1,0 +1,1 @@
+{"bugIds":["2021224"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5f245e50-b4b6-4f17-a850-4753875e5f7c","last_modified":1773134051436,"schema":1772503815154,"topLevelUrlPattern":"*://www.polskieradio.pl/*","urlPattern":"*://cdn.onnetwork.tv/*"}

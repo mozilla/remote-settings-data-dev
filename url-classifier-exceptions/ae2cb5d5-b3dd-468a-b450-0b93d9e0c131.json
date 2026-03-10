@@ -1,0 +1,1 @@
+{"bugIds":["2017291"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ae2cb5d5-b3dd-468a-b450-0b93d9e0c131","last_modified":1773134051032,"schema":1772331015155,"topLevelUrlPattern":"*://fantasanremo.com/*","urlPattern":"*://connect.facebook.net/*"}

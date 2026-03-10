@@ -1,0 +1,1 @@
+{"bugIds":["2003447"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8606b336-fd56-47ea-ae12-9b4baab103d5","last_modified":1773134050545,"schema":1765764608424,"topLevelUrlPattern":"*://www.marklevinshow.com/*","urlPattern":"*://*.pdst.fm/*"}

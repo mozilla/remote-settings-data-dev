@@ -1,0 +1,1 @@
+{"bugIds":["1997558"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6f556d7b-b2a9-4006-9032-fc6a6ac60286","last_modified":1773134050416,"schema":1762567814165,"topLevelUrlPattern":"*://www.worldofbooks.com/*","urlPattern":"*://*.swymrelay.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2002297"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"10e5c59c-f653-426a-a018-aaa0a3f7f6c6","last_modified":1773134050348,"schema":1764209411157,"topLevelUrlPattern":"*://get.dailywire.com/*","urlPattern":"*://builder-assets.unbounce.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1706645"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"628f9967-04c2-47c8-90f2-7c74b205cc45","last_modified":1773134051292,"schema":1772331018241,"topLevelUrlPattern":"*://vk.link/*","urlPattern":"*://*.userapi.com/*"}

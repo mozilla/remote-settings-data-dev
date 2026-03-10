@@ -1,0 +1,1 @@
+{"bugIds":["1998372"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8e97f383-9b4d-46b2-b9b4-f8ab93527f30","last_modified":1773134050409,"schema":1762567814047,"topLevelUrlPattern":"*://b2c.voegol.com.br/*","urlPattern":"*://*.amplitude.com/*"}

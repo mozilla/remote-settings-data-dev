@@ -1,0 +1,1 @@
+{"bugIds":["1998686"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3f9f14c0-5449-465a-bb79-b10f675fa812","last_modified":1773134050379,"schema":1762567813679,"topLevelUrlPattern":"*://hellorayo.co.uk/*","urlPattern":"*://htlb.casalemedia.com/*"}

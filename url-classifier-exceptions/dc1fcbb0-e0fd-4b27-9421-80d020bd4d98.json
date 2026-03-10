@@ -1,0 +1,1 @@
+{"bugIds":["2012473"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dc1fcbb0-e0fd-4b27-9421-80d020bd4d98","last_modified":1773134050940,"schema":1770862210270,"topLevelUrlPattern":"*://www.avaccess.com/*","urlPattern":"*://*.hsforms.com/*"}

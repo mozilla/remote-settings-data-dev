@@ -1,0 +1,1 @@
+{"bugIds":["1937777"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"fb473e43-f9aa-4349-acb7-34e0e56e71c1","last_modified":1773134051285,"schema":1772331017995,"topLevelUrlPattern":"*://www.news247.gr/*","urlPattern":"*://player.glomex.com/*"}

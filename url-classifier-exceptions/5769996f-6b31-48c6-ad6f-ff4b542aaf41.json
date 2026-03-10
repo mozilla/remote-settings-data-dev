@@ -1,0 +1,1 @@
+{"bugIds":["1918616"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5769996f-6b31-48c6-ad6f-ff4b542aaf41","last_modified":1773134050729,"schema":1767665411289,"topLevelUrlPattern":"*://astronautique.actifforum.com/*","urlPattern":"*://pbs.twimg.com/*"}

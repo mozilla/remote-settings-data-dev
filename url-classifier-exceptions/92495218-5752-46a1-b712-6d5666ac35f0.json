@@ -1,0 +1,1 @@
+{"bugIds":["2017294"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"92495218-5752-46a1-b712-6d5666ac35f0","last_modified":1773134051112,"schema":1772331014939,"topLevelUrlPattern":"*://www.1011now.com/*","urlPattern":"*://pubads.g.doubleclick.net/*"}

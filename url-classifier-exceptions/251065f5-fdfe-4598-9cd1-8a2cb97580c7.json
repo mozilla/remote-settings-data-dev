@@ -1,0 +1,1 @@
+{"bugIds":["1911274"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"251065f5-fdfe-4598-9cd1-8a2cb97580c7","last_modified":1773134050682,"schema":1763777411313,"topLevelUrlPattern":"*://www.dell.com/*","urlPattern":"*://dcsf.my.salesforce.com/*"}

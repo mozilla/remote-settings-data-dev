@@ -1,0 +1,1 @@
+{"bugIds":["2007646"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6474e8fd-8992-4837-9cc9-f470eb2c0855","last_modified":1773134050704,"schema":1767665410567,"topLevelUrlPattern":"*://www.hrblock.com/*","urlPattern":"*://www.datadoghq-browser-agent.com/*"}
