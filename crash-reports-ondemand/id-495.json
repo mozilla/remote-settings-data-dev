@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlpFreeUserBlockToHeap | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["913bdb9674b20d502c1655c80cb99f89ca6535940768f05b1fcb5d9dc5057b4e"],"id":"id-495","last_modified":1773053001380,"schema":1773052968552}
+{"description":"gpu (Android beta): libusc.so","hashes":["1ec5024298565d221b467d50946e3c5283c89cff0ca7992f836d6e5928d016f8"],"id":"id-495","last_modified":1773395045692,"schema":1773395011188}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): @0x874e5f9e","hashes":["72cc009b0fd52d85f04585cd7936d6bd16931f1d0bda23a152702abaefa455b6"],"id":"id-486","last_modified":1773053001132,"schema":1773052953743}
+{"description":"content (Linux nightly): mozilla::Variant<T>::Variant | mozilla::Variant<T>::operator= | std::swap<T>","hashes":["746c2ec03148ac61af020c0d8f81a93c396b48c892c23271026278913a3975dd"],"id":"id-486","last_modified":1773395045455,"schema":1773394996840}
