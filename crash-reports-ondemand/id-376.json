@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["24157c3d6002aca77b301e335d77e747aa94a0005ab925bbddfef8b3e03e0ff9"],"id":"id-376","last_modified":1773395043542,"schema":1773394816959}
+{"description":"gpu (Android nightly): @0x0 | mozilla::wr::RendererOGL::MaybeCaptureScreenPixels","hashes":["23bbfc390774b49fed876c41f47ab0e7aadfec32533b5ebbf925e0d4a9c638b9","00e90f11e4d28a8da92e1bd725098dd8ebdecc9c22076a587b51391d55a2cf9d"],"id":"id-376","last_modified":1773480826470,"schema":1773480599099}
