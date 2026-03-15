@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::PortLink::SendMessage","hashes":["4497be7deb57ced3229d95e46cd0a16f6ba6c03cd2a09ab93378859b192c358f","7295587652508fee306e6dade175ad40029c023c42bb6b74ad11c324b56a666c"],"id":"id-235","last_modified":1773480828134,"schema":1773480378457}
+{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | mozilla::widget::filedialog::MakeFileDialog","hashes":["5f7bbbd31e8463a52c5c505a450dfa7e0f6d6a40dfcfb009c4d3f17b8d8ddcdb"],"id":"id-235","last_modified":1773566625599,"schema":1773566179307}
