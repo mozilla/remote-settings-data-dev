@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["72e82a3da38dfa6251ee084d5ca32034f5ffb535d36780f65f508d3c4f9ccf1c"],"id":"id-503","last_modified":1773913443514,"schema":1773913423508}
+{"description":"gpu (Mac beta): mozilla::gl::GLBlitHelper::CreateDrawBlitProg","hashes":["96857ffb3eb1556366fff5dba7ef082206155b9cfb1542165eb21469986ac61a"],"id":"id-503","last_modified":1773999817038,"schema":1773999794998}
