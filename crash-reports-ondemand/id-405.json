@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | base.odex","hashes":["690e27db4065c853262c05dbe880fdf2681fb83710ed3be088bbd3d488c88552"],"id":"id-405","last_modified":1774085626402,"schema":1774085450927}
+{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["3032a6960ed6cf19d666501976e3ab8ac4a83a68f1fd067a93c21aab2651c674","eda8ef8011fe4b1fe833d680f7fe2162f23c466dd9e3200cf073e68573b5a0a6"],"id":"id-405","last_modified":1774171449480,"schema":1774171274226}
