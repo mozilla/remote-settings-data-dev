@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libsrv_um.so","hashes":["30cdc1cc6d8672d48707a6868fd72a8baa226b5c091a4695899e3991c69a8747","415411a4062170fc66802a90df261e6a8288b84ba59ee3f2f37f3558aa0399a2","5de7fd8914cdc4ac95ab250240a2899333b3a8dd0cbef2eaeca79155753afe97"],"id":"id-486","last_modified":1774085629494,"schema":1774085577596}
+{"description":"gpu (Android beta): libusc.so","hashes":["d521a7ec402e0621eafffe86c0a49f89ca51f88586da9c06445b2516b13cae32"],"id":"id-486","last_modified":1774171451884,"schema":1774171402279}
