@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["eac6d56c0a46c4ff9e62409206c9570177770781f70eb7ba9381299815586b10","6790de4e32841b8ca2a6ddecaedf9391830f0d0605b2ad6d7590e8f0fb96e3d2"],"id":"id-501","last_modified":1774257841157,"schema":1774257825128}
+{"description":"utility (Mac release): AllocInfo::GetInChunk","hashes":["d37e46882a9562221f3d71e8bfa11bc5d5d0f13d7d2128550edbca02326ff454"],"id":"id-501","last_modified":1774344831971,"schema":1774344819739}
