@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): objc_msgSend | FigMemoryOriginSetBlockBufferInXPCMessage","hashes":["2dcacd24fe202af48db9ce2018a93127d794d240c20c04bafa34bdb2677888c2"],"id":"id-212","last_modified":1774257840122,"schema":1774257357593}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["c920ac1b1e97eb5e37321ada76640395834363763bab7b2b71c0fc3a71a31773","b3a763c13fe1e6572a7476421e0ca554cdcf3f5fc2f09e41fb17d773cd29a051"],"id":"id-212","last_modified":1774344831205,"schema":1774344353908}
