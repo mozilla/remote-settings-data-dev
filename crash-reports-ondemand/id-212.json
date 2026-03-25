@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["c920ac1b1e97eb5e37321ada76640395834363763bab7b2b71c0fc3a71a31773","b3a763c13fe1e6572a7476421e0ca554cdcf3f5fc2f09e41fb17d773cd29a051"],"id":"id-212","last_modified":1774344831205,"schema":1774344353908}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["82b79a471b3a03044715c35fba6c20ec10333ac6c45e79fc43586eea042eb358"],"id":"id-212","last_modified":1774431250983,"schema":1774430753856}
