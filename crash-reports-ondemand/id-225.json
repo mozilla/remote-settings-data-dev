@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["40d4114a666db05fb84de83891aad715b0d64f2245550497271b7916c89e7188","870ccc03052e5812baf3f1fdb7ed7cfcc9c4e231253bf8c6d5ba00435d109d3f"],"id":"id-225","last_modified":1774517044492,"schema":1774516578218}
+{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["1dcf31f4f927d0598e1389ac13fc464282877d4c336589b19736338dc9877530"],"id":"id-225","last_modified":1774600455231,"schema":1774599978634}
