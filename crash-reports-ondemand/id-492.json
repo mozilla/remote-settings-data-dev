@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | large | alloc::raw_vec::handle_error","hashes":["aef54311469e8eb7fd2e9029c5dc4aa7e119781d7d56190105f1ec8b47479996","984c15b3dc3ef3e5a2663553e86a8559a4c7289909d5534d414d3c66fa04a01b"],"id":"id-492","last_modified":1774600455487,"schema":1774600423720}
+{"description":"gpu (Android nightly): mozilla::layers::APZCTreeManager::SendSubtreeTransformsToChromeMainThread::$::operator()","hashes":["d93531c4a2711880cfb94d89c52df3265940a15159bb924850495b0bd6bea8ad"],"id":"id-492","last_modified":1774688620425,"schema":1774688585500}
