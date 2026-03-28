@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["bae72da1916e163b4f5f8d34b727f032dda03344b4d8cd33b4d5b78830909f01","2c140a8501257c92f3ea9111abd39deae9f95ad12ddb8d53fed91eb59244a5cd"],"id":"id-345","last_modified":1774600453568,"schema":1774600175628}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["04444695965ae343c81f361dc9ab2896d1e8a7050377d0c52e9bc28dbb152ca3"],"id":"id-345","last_modified":1774688618627,"schema":1774688346591}
