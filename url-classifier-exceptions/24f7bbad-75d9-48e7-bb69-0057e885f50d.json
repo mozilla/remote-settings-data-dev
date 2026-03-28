@@ -1,0 +1,1 @@
+{"bugIds":["2023614"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"24f7bbad-75d9-48e7-bb69-0057e885f50d","last_modified":1774663812055,"schema":1774663811338,"topLevelUrlPattern":"*://b.hatena.ne.jp/*","urlPattern":"*://*.st-hatena.com/*"}

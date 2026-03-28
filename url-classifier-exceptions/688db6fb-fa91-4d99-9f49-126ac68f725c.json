@@ -1,0 +1,1 @@
+{"bugIds":["2023815"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"688db6fb-fa91-4d99-9f49-126ac68f725c","last_modified":1774663812047,"schema":1774663811204,"topLevelUrlPattern":"*://www.redecor.com/*","urlPattern":"*://www.facebook.com/*"}

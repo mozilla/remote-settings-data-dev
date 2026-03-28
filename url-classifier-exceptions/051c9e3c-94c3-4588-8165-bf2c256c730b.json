@@ -1,0 +1,1 @@
+{"bugIds":["2022479"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"051c9e3c-94c3-4588-8165-bf2c256c730b","last_modified":1774663811997,"schema":1774663811613,"topLevelUrlPattern":"*://www.scheels.com/*","urlPattern":"*://cdn.optimizely.com/*"}

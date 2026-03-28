@@ -1,0 +1,1 @@
+{"bugIds":["2025784"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"13b3424a-9531-4684-a6e3-0610f72db0a4","last_modified":1774663812008,"schema":1774663810543,"topLevelUrlPattern":"*://www.thepanelstation.com/*","urlPattern":"*://api.ipregistry.co/*"}

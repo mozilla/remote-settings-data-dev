@@ -1,0 +1,1 @@
+{"bugIds":["2026626"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"67300358-e5d3-481e-be10-c484c2dcaac7","last_modified":1774663811989,"schema":1774396809601,"topLevelUrlPattern":"*://myrandstad.randstad.es/*","urlPattern":"*://connect.facebook.net/*"}

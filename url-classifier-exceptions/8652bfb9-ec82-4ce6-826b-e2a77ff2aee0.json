@@ -1,0 +1,1 @@
+{"bugIds":["2022147"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8652bfb9-ec82-4ce6-826b-e2a77ff2aee0","last_modified":1774663812073,"schema":1774663811741,"topLevelUrlPattern":"*://tv.verizon.com/*","urlPattern":"*://content.uplynk.com/*"}
