@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["0444691b661e83a9b6d847e8bebb5b3479bb3573ba08208815ea6ffb8aa7fe65"],"id":"id-130","last_modified":1774688620738,"schema":1774688013552}
+{"description":"gpu (Android beta): mozilla::gl::GLContextEGL::Cast","hashes":["3e96acea4cdbb9e26ae332229e69a99d1e52e476efc36249dea83c4e7752790b"],"id":"id-130","last_modified":1774773827235,"schema":1774773225021}

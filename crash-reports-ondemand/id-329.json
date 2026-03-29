@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): abort | amdgpu_ctx_set_sw_reset_status","hashes":["0d87e34f74877afc120dd176d0d21e2e31c9817490793461ff05716f0350cb01","fcaa70e7320ab1a363c84fa9ad8e4ec088c5d407c5ba6eb6c77134f88b006840"],"id":"id-329","last_modified":1774688620167,"schema":1774688321910}
+{"description":"rdd (Windows beta): <unknown in amdxx64.dll> | NDXGI::CDevice::DestroyDriverInstance","hashes":["ac96c9f1ff6e0feaba434fd7a27f150c2a8b492a11b13cf6309eea491665d247"],"id":"id-329","last_modified":1774773826898,"schema":1774773534872}

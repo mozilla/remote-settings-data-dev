@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["f5dcfbe4209b5cff6636de9ab99db9fb432f270a9e7afed48adee3e0b83db8bb","e82c2916dca11d933de183667f4b90b50df3a2e93b49bd8648e96aa56109b06b"],"id":"id-366","last_modified":1774688619848,"schema":1774688379060}
+{"description":"content (Mac nightly): JS::shadow::Shape::isProxy","hashes":["1b6c09feec4190965073581235ff694d2b99dca0ac97b8e2fe51f0a550eee5c7"],"id":"id-366","last_modified":1774773826614,"schema":1774773593795}
