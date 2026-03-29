@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | mozilla::layers::CompositorD3D11::UpdateConstantBuffers","hashes":["2c22e358e2a26d6c59584fa76bb4b8a03083443831de1a53281e3c16389c8f58","6651d593c014146971a43caebd9a8c67948570d97594ea31747670dbb88014cf"],"id":"id-342","last_modified":1774688618079,"schema":1774688342175}
+{"description":"content (Mac nightly): mozilla::Omnijar::Init","hashes":["9cb4e3136171c5d87434be4ed5335629832a93152c4371dad52e6466c0b6af5d"],"id":"id-342","last_modified":1774773825023,"schema":1774773554765}

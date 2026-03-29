@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): objc_release | -[__NSFrozenDictionaryM dealloc]","hashes":["48d70228a142b3b6c8a327f51a0f7758fb1029c98fbdff0f29297adee3071c96","68177eea1e0766591a89d409e3bc7d3eca5fbaf4da08f6c0866984428b18aea8"],"id":"id-489","last_modified":1774688617909,"schema":1774688580865}
+{"description":"utility (Windows nightly): ATL::CComPtr<T>::CComPtr<T>","hashes":["16e80a32313eb8d49e937c6a5357f809f404637795be5c522e5ee35e9ee408a6","fc2b4de1e98f9d6a0b0e74f886d94630a49600b6c7d880c0501f6b6ba458b0cd"],"id":"id-489","last_modified":1774773824860,"schema":1774773785298}
