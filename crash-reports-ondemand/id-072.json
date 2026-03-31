@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["e4fe61e5af96ddccc7deb1cab74e143ce4959dea2623c294030f2fabca2ad0b6"],"id":"id-072","last_modified":1774861442189,"schema":1774860731366}
+{"description":"rdd (Mac release): CoreFoundation","hashes":["d74a18aacf1254f6f63ce3a2b891120595440c4fca27857a4d0623361c073d44","364c9c82fea58472967716e4f38276ca7d059ded9cf7c7b29326d5234f8b8d1d"],"id":"id-072","last_modified":1774948450983,"schema":1774947733363}
