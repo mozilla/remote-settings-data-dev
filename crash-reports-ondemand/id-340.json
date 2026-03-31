@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::PresShell::ReflowForHiddenContentIfNeeded","hashes":["ed4420303665ef5721b9978a406e23d1ec8c74f5474f01a83b26aa76853ed12b"],"id":"id-340","last_modified":1774861443662,"schema":1774861151282}
+{"description":"gpu (Mac nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["8c7b57fa3fb7ef7c6457dc38a9656fe479e791364b6f6d1ac2062158cbb7b659"],"id":"id-340","last_modified":1774948452624,"schema":1774948171269}
