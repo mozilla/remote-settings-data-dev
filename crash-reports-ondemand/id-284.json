@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::jit::BacktrackingAllocator::installAllocationsInLIR","hashes":["031c5bc5c5ecee56ce4c3426f34b8c7d9a4aa4073f850eb179c8c4420ccac409"],"id":"id-284","last_modified":1774948450182,"schema":1774948078510}
+{"description":"content (Linux beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["47ee8a9e3413aa5fc411593cb4cad57bca01090864e0b6aedc524482e26fb31a","5a79afc42c0cb7ae261b2cd57cb8e8c81de99bf97e99ab84bdf3e0a8b9c9c735"],"id":"id-284","last_modified":1775034817417,"schema":1775034466746}
