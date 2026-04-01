@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["005c67a5416d9dfa925cb671a5dbeac0130e1fa0427679eecec13dc92da441a5","b3d2b036d5076c0c32bf14d7d5ac2ed4d8fb86fb336321296e44b75aa977a818"],"id":"id-135","last_modified":1774948452106,"schema":1774947836089}
+{"description":"utility (Windows nightly): SymCryptWipeAsm","hashes":["88200a07120ec675a3b54dcf2346f80f6ca835ebce69887d54aa2c3f5f20b79c"],"id":"id-135","last_modified":1775034819416,"schema":1775034227360}
