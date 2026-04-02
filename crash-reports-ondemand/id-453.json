@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): AcSignCore16.dll | oleaut32.dll | AcSignIcon.dll | <unknown in xul.pdb>","hashes":["2bb2b71b99a0ecc22f74d00ef3a30f224d88b7f2b681827705f9d0927cab4ea9"],"id":"id-453","last_modified":1775034820196,"schema":1775034735289}
+{"description":"main (Mac beta): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["a93a7a69af3baa6d1bd7ed5d6d7dfd76d3fa858327c1225f76d8bee28af406cb"],"id":"id-453","last_modified":1775121817999,"schema":1775121735050}

@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): RtlReportFatalFailure","hashes":["52ef2ec95f73ae88f98031c7ee0b308b49e485f63c37716a5bec0f5cc2b21dae","9e31bc298b6e0a6ad6394531e384b467fe0ee6734574d3e12ecc2d0276cb3940","ca6091aa5b513457df79ecad3443fc0f4aeeb67ef7276cc60d888269d7f26dae"],"id":"id-363","last_modified":1775034819627,"schema":1775034591719}
+{"description":"content (Mac nightly): nsIFrame::GetOffsetToCrossDoc","hashes":["97ffaf53a8a7c6d1790252b7c40b290873915442ffd453aa379dfada41542225"],"id":"id-363","last_modified":1775121817469,"schema":1775121591452}
