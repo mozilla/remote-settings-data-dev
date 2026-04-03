@@ -1,1 +1,1 @@
-{"description":"main (Android beta): libc.so | liblog.so","hashes":["b1424925ce099dd255b487bced00df7063ead5d96794c015efc9251fe3e3d388","fd0c499b91c193cc177bda7eb63a9eae004b0e6baddebd663e292754ae846662","6c380b8568aa16faf83dde512b95765cdef337ba5525348f0eebace0f5a469a4"],"id":"id-348","last_modified":1775121815932,"schema":1775121567927}
+{"description":"gpu (Android beta): libc.so | libart.so | libIMGegl.so","hashes":["0edc458d26b29f15f8ee8d3b6153ec45bfacd6e835d40602bff4047e3cfb0b0d"],"id":"id-348","last_modified":1775208205694,"schema":1775207979902}

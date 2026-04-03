@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::GLContextEGL::Cast","hashes":["3e96acea4cdbb9e26ae332229e69a99d1e52e476efc36249dea83c4e7752790b"],"id":"id-415","last_modified":1775121816297,"schema":1775121674446}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["ef7b232172c4f63c409895598d495f97c6b8b94e88f9012e5a7fdd3afe1ecea7","5c9bd0b784f761179f79b263b4a2b71c61bd7e6905737c1a89bb01f71900330e"],"id":"id-415","last_modified":1775208206435,"schema":1775208091964}
