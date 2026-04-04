@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): msmpeg2vdec.dll","hashes":["e80e39c42e4bb3dabb869e25e9512946fff662b631c7779c6b0f52016e91275f","9588030d25fb667454b15b2b5c1d9ec387542e2dc1da93bf91bd55c45c30dc42"],"id":"id-321","last_modified":1775208209038,"schema":1775207933341}
+{"description":"rdd (Windows nightly): msmpeg2vdec.dll | mozilla::MFTDecoder::Output","hashes":["016380ac1748c32beb29e8b16064229074a24d4247b480c328a6e38866be0055"],"id":"id-321","last_modified":1775294031569,"schema":1775293754947}
