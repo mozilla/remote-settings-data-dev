@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["7325857e0ea2d07a0c47d54413220763e36d96290e6cf92853b30f425108c2cb"],"id":"id-329","last_modified":1775208205612,"schema":1775207946801}
+{"description":"socket (Mac release): mozilla::detail::ProxyFunctionRunnable<T>::~ProxyFunctionRunnable","hashes":["6239afcf306ee5dc329d3b58c5f221edbc031c9ba1b157eb396ab73d84eb3ceb"],"id":"id-329","last_modified":1775294029038,"schema":1775293767416}
