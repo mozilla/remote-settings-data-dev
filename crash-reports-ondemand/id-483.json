@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): core::option::unwrap_failed","hashes":["354af1babeceba184b097b46698ce9d03f1ec8780db268709eb19a256ebe9844"],"id":"id-483","last_modified":1775294031591,"schema":1775294020464}
+{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenCommand<T>::~ThenCommand","hashes":["62533310b3f3ef2a5750829ed8e7e948ac6016bcb9ec02d9018e5df72fc313d2"],"id":"id-483","last_modified":1775379813063,"schema":1775379800876}
