@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["663e7614b437fe9d2e209eeaee7811c9920f63803552239a1a916ffb4aa9f9af","e6c39d9be2f94e82139f4773a5e144bd8ae270be480798b42de9b0de410a4ca3","6a4e020c2181ce700aca66528cfe4e016697483c4fc2bd07ff525f340fa0c1dd"],"id":"id-476","last_modified":1775379812725,"schema":1775379789480}
+{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["6059b8de0e836512f1f72fa4bad96b84f36ab71525580635354588b4ec3cddb5"],"id":"id-476","last_modified":1775465600860,"schema":1775465584313}
