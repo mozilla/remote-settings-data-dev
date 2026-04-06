@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): CanonicalizeXPCOMParticipant","hashes":["14b992b2810e040bfc21d513b43f7cea993cf32d882d01b311ae1ebfb78206a8","f456f1d7bcd61fa8a83f33760b78a282b7962bf93e9e3a6f14826feac2dc4b52"],"id":"id-312","last_modified":1775379811554,"schema":1775379517542}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["2f25731027ec3bc86eade6f67b029149be8c3db9fc731ed09d3e0f090275fb5a"],"id":"id-312","last_modified":1775465599609,"schema":1775465317919}
