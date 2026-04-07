@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libglib-2.0.so.0","hashes":["aad95e8f646bf4375801fc9bf520afc5306dd30cb7e688bf74924427824a162e"],"id":"id-432","last_modified":1775465602193,"schema":1775465513073}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["64da092cc245b885ad1862201284dfccd1c57949b01e59af67e547247198dfc9","1ba55950843b8c91d403f43a11a862d46a9f0545652ddefda3c1ae9e116258a4"],"id":"id-432","last_modified":1775559192545,"schema":1775559107718}
