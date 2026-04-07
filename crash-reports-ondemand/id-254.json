@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["7325857e0ea2d07a0c47d54413220763e36d96290e6cf92853b30f425108c2cb"],"id":"id-254","last_modified":1775465599383,"schema":1775465222547}
+{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["f8adc20f6cd86fa4be696e3fe312fff56eaed3d100807c0cf936ef2d64d9ac64"],"id":"id-254","last_modified":1775559189899,"schema":1775558818483}

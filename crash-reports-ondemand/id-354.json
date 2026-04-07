@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["f13198540131a61aa9e982f9f6d869117197fed91171834fc5d8e85c1645c912"],"id":"id-354","last_modified":1775465599535,"schema":1775465385052}
+{"description":"socket (Linux nightly): mozilla::NrSocket::sendto","hashes":["97c686b0562eddaf9f01dd1e4704709aa07d78049ab4d5fb914e5f968637352a"],"id":"id-354","last_modified":1775559190050,"schema":1775558978674}
