@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsThreadPool::PutEvent","hashes":["698fa4c62a253186b3462a032fd69b5f09ad879b74962ddf8aef52f3156e6ece"],"id":"id-138","last_modified":1775640196003,"schema":1775639638274}
+{"description":"socket (Mac release): mozilla::BufferList<T>::WriteBytes","hashes":["cfdebc69254d96a73a8a1a1f0d089406576f878ba90d33e00629d47afe73d78d"],"id":"id-138","last_modified":1775726544779,"schema":1775726026409}
