@@ -1,0 +1,1 @@
+{"Rule":"wayfair.*##[data-hb-id=\"Card\"]:has([data-node-id^=\"ListingCardSponsored\"])","id":"a85f5cb8-42f3-5a8d-aa8f-c721ee59c09a","last_modified":1775754684047,"schema":1775752037612}

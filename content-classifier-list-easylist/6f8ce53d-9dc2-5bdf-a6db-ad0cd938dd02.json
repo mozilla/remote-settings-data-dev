@@ -1,0 +1,1 @@
+{"Rule":"brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class] > [class]:has(> [data-testid=\"ad\"])","id":"6f8ce53d-9dc2-5bdf-a6db-ad0cd938dd02","last_modified":1775754672861,"schema":1775752003573}
