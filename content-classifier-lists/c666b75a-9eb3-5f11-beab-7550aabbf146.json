@@ -1,0 +1,1 @@
+{"Metadata":{"rule":"pixiv.net##.__top_side_menu_body > div[class^=\"sc-\"] > div[class^=\"sc-\"] > div[class^=\"sc-\"]:has(> div[style$=\"width: 728px; line-height: 0; font-size: 0px;\"])"},"Name":"easylist","id":"c666b75a-9eb3-5f11-beab-7550aabbf146","last_modified":1775745993603,"schema":1775742288063}
