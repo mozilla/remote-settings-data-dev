@@ -1,0 +1,1 @@
+{"Rule":"tripadvisor.*#?#[data-automation=\"relatedStories\"] div > div:has(a:has-text(SPONSORED))","id":"48cfbc86-a917-5b9a-aff7-4dbcb6c13741","last_modified":1775754736964,"schema":1775751566680}

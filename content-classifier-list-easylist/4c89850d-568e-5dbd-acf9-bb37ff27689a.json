@@ -1,0 +1,1 @@
+{"Rule":"otomi-games.com##.clean-grid-grid-post:has(> [id^=\"otomi-\"] + .clean-grid-grid-post-details-full) {remove:true;}","id":"4c89850d-568e-5dbd-acf9-bb37ff27689a","last_modified":1775754742313,"schema":1775752078725}

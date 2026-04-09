@@ -1,0 +1,1 @@
+{"Rule":"wish.com##div[class^=\"ProductTray__ProductStripItem-\"]:has(div[class^=\"DesignSpec__TextSpecWrapper-\"][color=\"#6B828F\"][data-testid] + div[class^=\"DesignSpec__TextSpecWrapper-\"][color=\"#6B828F\"])","id":"741d68af-a35b-5dc2-8ee6-dfba13a68144","last_modified":1775754731221,"schema":1775751488895}

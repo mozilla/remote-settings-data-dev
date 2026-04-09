@@ -1,0 +1,1 @@
+{"Rule":"skyscanner.*,tianxun.com##[class^=\"FlightsResults\"] > div:has([class^=\"Sponsored\"])","id":"64e2e2ea-bee9-5d0e-9c36-70f77eaf8f95","last_modified":1775754727463,"schema":1775752038658}
