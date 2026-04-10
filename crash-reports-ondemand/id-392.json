@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::detail::BumpChunk::assertInvariants","hashes":["fd7ab0a0cc9e6c22c3d2ed6066a468fb758f7296ac03a62e042a4b5cc94e6e6a"],"id":"id-392","last_modified":1775726542667,"schema":1775726423787}
+{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["bd482d6bbed1a5c47b012ce620957ec3fc10dee9c661ff14fa7cf7971198b248","77146d714f8cea295cc62085b0aff42ab1d96d4dcbfb09022679ce54cdb399a0"],"id":"id-392","last_modified":1775813006435,"schema":1775812872640}
