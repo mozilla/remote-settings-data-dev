@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::BrowsingContextGroup::EnsureUsesOriginAgentClusterInitialized","hashes":["8141651c5e33f76427626996d507d86d7014e9537bf62f884cda2d0f1cfebbbd"],"id":"id-232","last_modified":1775813005926,"schema":1775812599535}
+{"description":"utility (Windows nightly): mozilla::CollectSingleStepData<T>","hashes":["5d720885a9e38c66c926bc5c27f895658b4ba653157a1a6a914ac0223bbf409f"],"id":"id-232","last_modified":1775904807984,"schema":1775904396768}
