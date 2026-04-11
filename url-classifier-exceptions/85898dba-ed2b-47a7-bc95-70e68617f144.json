@@ -1,0 +1,1 @@
+{"bugIds":["2029128"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"85898dba-ed2b-47a7-bc95-70e68617f144","last_modified":1775873414425,"schema":1775873413417,"topLevelUrlPattern":"*://bubblecoco.cookappsgames.com/*","urlPattern":"*://www.facebook.com/*"}

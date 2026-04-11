@@ -1,0 +1,1 @@
+{"bugIds":["2028513"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bd232466-f0c5-425e-933c-10eef874668b","last_modified":1775873414444,"schema":1775873413765,"topLevelUrlPattern":"*://my-ne.com/*","urlPattern":"*://widget.trustpilot.com/*"}

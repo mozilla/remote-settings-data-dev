@@ -1,0 +1,1 @@
+{"bugIds":["2029132"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dc152209-afe8-41c5-bfac-a8bc4aecb28b","last_modified":1775873414411,"schema":1775873413183,"topLevelUrlPattern":"*://recruiting.adp.com/*","urlPattern":"*://connect.facebook.net/*"}
