@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::ipc::BigBuffer>::Read | mozilla::dom::PWebGLParent::OnMessageReceived","hashes":["8c29334a2cf8353e00a6fc261ff8dda9b9303377c70ed36132e0be8f78b3c346"],"id":"id-327","last_modified":1775985242802,"schema":1775984984243}
+{"description":"socket (Mac release): libxpc.dylib","hashes":["0cc60ffe0957af46df6e4bee294a7fba5cbe7f7d1a25b3f01a62cc9827a54116"],"id":"id-327","last_modified":1776071662690,"schema":1776071396012}

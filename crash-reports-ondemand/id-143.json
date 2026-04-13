@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["b6c07836683acc04df3d806ad42656876780a382d26dd8e8338e70dcbbc93f47","33d7d3fa60d87bd6f598a2b1a63ec201e62d532f6a8e509fadc8133b45dbdc5a"],"id":"id-143","last_modified":1775985242188,"schema":1775984663343}
+{"description":"utility (Windows nightly): mozilla::CollectSingleStepData<T>","hashes":["5d720885a9e38c66c926bc5c27f895658b4ba653157a1a6a914ac0223bbf409f"],"id":"id-143","last_modified":1776071662825,"schema":1776071073744}
