@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | ShutDownKill","hashes":["d49fc3e40e4ed9e824b025d769cb0d11ca278e7c848807afddf4297959a62a35","974c57f08e07d316a5302184831c234c0a0341f68de99f8ab2b875b51249a8b0"],"id":"id-237","last_modified":1776071662979,"schema":1776071239692}
+{"description":"gpu (Android beta): nsObserverService::EnsureValidCall | nsObserverService::RemoveObserver | gfxGlyphExtents::SizeOfIncludingThis","hashes":["9feaecfe43fa1482abb95964f17fc72516b7ca770c7878e2fd564003ee76b97c"],"id":"id-237","last_modified":1776158640618,"schema":1776158211661}
