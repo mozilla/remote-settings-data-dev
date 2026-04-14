@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): CanonicalizeXPCOMParticipant","hashes":["02b7f9ec9d0d0516a77d41b92a58fec78376ac5b181052d91eed25af51cc0102","cb62f5519e1fa02cc847a3304c38866b3a46fbfecc8195153e9dc5acc5ab419c"],"id":"id-402","last_modified":1776071664898,"schema":1776071527456}
+{"description":"socket (Linux release): mozilla::LogTaskBase<T>::LogDispatch","hashes":["14da902507e830df14426d34eeac1c7fcb652dcf6797b9e7bd5167254984adb4"],"id":"id-402","last_modified":1776158642980,"schema":1776158503892}

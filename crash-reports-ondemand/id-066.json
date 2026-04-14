@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libart.so | _JNIEnv::CallVoidMethodA | mozilla::jni::Method<T>::Call<T>","hashes":["10601f469e682fa1a964896770344051624f9d9de6a9a79f2be9fc1364c476c6"],"id":"id-066","last_modified":1776071664623,"schema":1776070938272}
+{"description":"content (Linux nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["926163800cf5fe1e6c091d8d27f00a3128b01aa64bd7bca71c6706c76fec160d","3aaff78725851afe64cafa6ffbfb6322bdb7bc5fc2d7dde7a8447d4f0ab64993"],"id":"id-066","last_modified":1776158642542,"schema":1776157921000}
