@@ -1,0 +1,1 @@
+{"Rule":"||cloudflareinsights.com^$domain=~cloudflare-quic.com|~cloudflare.com|~cloudflare.tv|~cloudflarestatus.com|~cloudflareworkers.com","id":"4ce315ae-71cf-5de8-af43-a690380c19c4","last_modified":1776255391004,"schema":1776255370758}

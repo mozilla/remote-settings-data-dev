@@ -1,0 +1,1 @@
+{"Rule":"||stripe.network^$domain=~frontierclimate.com|~link.com|~paystack.com|~stripe.com|~stripe.dev|~stripe.network|~stripecdn.com","id":"e5bab946-43e9-5f07-b4b0-2ef582a361ef","last_modified":1776255390476,"schema":1776255357660}
