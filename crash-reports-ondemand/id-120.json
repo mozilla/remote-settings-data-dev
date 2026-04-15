@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["dbe29eca36bfc8df909c247912b84d7a4afd60a82a2431dd68519859a4d2cbf5","e1b8adfc8083f6a546e04c360cded46e3b3dd1a26697819eb5272f299923e5ca","66aa87323f661c75d3da88103f5f31ce8849c6509338402d0165d43c8946dd62"],"id":"id-120","last_modified":1776158643334,"schema":1776158011078}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["2ca042e44d862e3d281242f9537e6d94adf7bb26c5bd465d24c6976a65388f2a"],"id":"id-120","last_modified":1776245655748,"schema":1776245013307}
