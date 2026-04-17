@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["74acdc82c7077a2b02f2dcba70ccc686916190f7911030739bca51903bafb4a2"],"id":"id-219","last_modified":1776331496826,"schema":1776331005918}
+{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["b6c07836683acc04df3d806ad42656876780a382d26dd8e8338e70dcbbc93f47","0dbc8eb4d8a3e72b63e5b6d29517295d34a3015839fbeb5232fa7e9801348f13"],"id":"id-219","last_modified":1776428653821,"schema":1776428184883}
