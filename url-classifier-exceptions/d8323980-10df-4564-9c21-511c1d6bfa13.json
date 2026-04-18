@@ -1,0 +1,1 @@
+{"bugIds":["2023584"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d8323980-10df-4564-9c21-511c1d6bfa13","last_modified":1776478211500,"schema":1776478210868,"topLevelUrlPattern":"*://www.tvaplus.ca/*","urlPattern":"*://micro.rubiconproject.com/*"}
