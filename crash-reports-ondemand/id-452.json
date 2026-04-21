@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["8866f347d5137fa245dd671d42a0a38ae08043c71edbf914b23492a8dd345129"],"id":"id-452","last_modified":1776676472373,"schema":1776676408832}
+{"description":"gpu (Android beta): libc.so | libvulkan_virtio.so","hashes":["5850990db2f4acbb234be2badef41018bbee032f240f6522afcb5715137a6fa6"],"id":"id-452","last_modified":1776763448876,"schema":1776763394501}
