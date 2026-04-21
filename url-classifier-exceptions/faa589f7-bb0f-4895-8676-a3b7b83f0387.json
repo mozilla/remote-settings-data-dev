@@ -1,0 +1,1 @@
+{"bugIds":["2032461"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"faa589f7-bb0f-4895-8676-a3b7b83f0387","last_modified":1776737410810,"schema":1776478211691,"topLevelUrlPattern":"*://devast.io/*","urlPattern":"*://api.adinplay.com/*"}

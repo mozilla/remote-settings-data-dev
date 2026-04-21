@@ -1,0 +1,1 @@
+{"bugIds":["2032432"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"369e618c-9e2a-48af-97af-ae7fb9539dc4","last_modified":1776737410818,"schema":1776737410419,"topLevelUrlPattern":"*://www.dailykos.com/*","urlPattern":"*://cdn.viafoura.net/*"}
