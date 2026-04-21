@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | NS_ABORT_OOM | mozilla::jni::ReportException","hashes":["862d5b68507dcf4479540576e42379db8a06d3d9814a8a6f3f67144d135d56ed","fa28a91e469dae1ea8e92917fb4c53f7d480253e0751ae636f834874cdd5e76e"],"id":"id-257","last_modified":1776676469616,"schema":1776676071748}
+{"description":"socket (Linux nightly): _r_log_init","hashes":["9877e7026b046edeb40d3beb34174498fb786cfefa538da1b904e4a26daf03df"],"id":"id-257","last_modified":1776763447274,"schema":1776763053693}
