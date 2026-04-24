@@ -1,0 +1,1 @@
+{"bugIds":["2023830"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"991792ea-5b32-4ad0-b485-d0a3b71e7947","last_modified":1776996611055,"schema":1776737411252,"topLevelUrlPattern":"*://mitanyan98.hatenablog.com/*","urlPattern":"*://*.st-hatena.com/*"}
