@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["ddfff12b10c02ce339dba07be626a160b9846c2332d7a18c27da9e51fee216cc"],"id":"id-447","last_modified":1776935647902,"schema":1776935596613}
+{"description":"gpu (Linux release): libnvidia-glcore.so.340.108","hashes":["9f5aaab11db9ba0d4454af6109a2a57e799de9ecfc7d987d8673fe75d9b6663e"],"id":"id-447","last_modified":1777019034704,"schema":1777018989474}
