@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): memcpy | js::CopyChars<T>","hashes":["dc2ecb0edfe40ced1f7a436a52aa138b909606ef350ff0f41fd540e0558a26b7"],"id":"id-169","last_modified":1777019034159,"schema":1777018501786}
+{"description":"content (Linux beta): servo_arc::Arc<T>::is_static","hashes":["a27e8bc77902f1a57f5b9ff07b6d50dd3fe37bf21e9e2355cff5961ab0824f31","bb50d5c88fd7586a504f9798faa1ac3470b67c980d47b23b4f06221dff412db9"],"id":"id-169","last_modified":1777107213855,"schema":1777106699181}
