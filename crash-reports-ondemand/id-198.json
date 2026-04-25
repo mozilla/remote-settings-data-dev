@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::option::unwrap_failed","hashes":["b92ed9154b57747ffe5beeefb83c640bdd2cfed46c43a05b136e4775ae32bc18","c3f5d8414b370b9dd6394190c6a9a78013347ac055b322a4b52ced9fda36188c","05a6cc4b18c1c9826dd8519d7598791e89746d0c6f1c26d928634b9aaf60fda8"],"id":"id-198","last_modified":1777019036312,"schema":1777018552124}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e764030a54a3b6273586d4b93643e86e5b001395213519129e6c1b1d498ccc3b"],"id":"id-198","last_modified":1777107215641,"schema":1777106748420}

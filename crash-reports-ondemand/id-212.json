@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | <.plt ELF section in libxul.so> | OriginalPromiseThenBuiltin","hashes":["c8656dd56b840a81e191dcfd3fc806931226c493e06d4157d59ccc2f426db2a1"],"id":"id-212","last_modified":1777019035834,"schema":1777018576476}
+{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["3ea5aa8d62e09288aa6648b6644a08080fd3a6c4fe3bf24a98ad943dcf0982d4"],"id":"id-212","last_modified":1777107215528,"schema":1777106771740}
