@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["8762e5d49d099114ac64e6bf38719d0bdd337862702169f1ef4f5843d5593d2b"],"id":"id-106","last_modified":1777107215689,"schema":1777106590980}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e764030a54a3b6273586d4b93643e86e5b001395213519129e6c1b1d498ccc3b"],"id":"id-106","last_modified":1777279444072,"schema":1777278806073}
