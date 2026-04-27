@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libgallium_dri.so","hashes":["b733c6d22fbf5777b9a20813dc677ab8b3b61f4c97f73a06e793432f4d6bcd89"],"id":"id-445","last_modified":1777107214458,"schema":1777107173361}
+{"description":"gpu (Android beta): mozilla::detail::MutexImpl::mutexLock","hashes":["fff18460e08c4e590ad7062c15bf2df51a9acd685f04bd140ad215f9b1606b66"],"id":"id-445","last_modified":1777279443023,"schema":1777279412317}
