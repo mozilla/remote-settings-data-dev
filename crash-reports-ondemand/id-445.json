@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::detail::MutexImpl::mutexLock","hashes":["fff18460e08c4e590ad7062c15bf2df51a9acd685f04bd140ad215f9b1606b66"],"id":"id-445","last_modified":1777279444452,"schema":1777279412317}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["67deb5c537e10cc321ea9ee471cc6befcbae09700b107ef7e37ca44a163e1e5e"],"id":"id-445","last_modified":1777368767244,"schema":1777368743948}

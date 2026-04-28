@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll","hashes":["4b941ae322bdbecb89ced711b06d132278dd4c3e8aeff70d6a1e0f5999ad838c"],"id":"id-360","last_modified":1777279443727,"schema":1777279259005}
+{"description":"socket (Linux release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["a8477358b33e3a9c9b17eef6970f85056503e56c5c7258bdbd3aebe58ce12626","23afac1d1416dd455be8ad24395f86f9911df6cdcc7db5a10bcb8bc3c3b93c3d"],"id":"id-360","last_modified":1777368766262,"schema":1777368598728}
