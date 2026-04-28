@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): nsThreadPool::PutEvent","hashes":["43b928de10e43800593b5b6f004204e94f0b324d24b650bdb3a816c5f984d3cd"],"id":"id-332","last_modified":1777279443057,"schema":1777279204026}
+{"description":"gpu (Android nightly): mozilla::StyleOwnedSlice<T>::AsSpan","hashes":["0c7e83ceca6359030c13787e426b0b8f572d152f74eddb3c202bd42385ead242"],"id":"id-332","last_modified":1777368764446,"schema":1777368553289}

@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["24feb2a8c0f1d80f996125831c80ce2b13be8cf502ee35e802f92a979201334d","dcf618ee7f0bbd2df9df27f36b846d0ec3753333d0f8ebd66d0f7d17ccc934f8"],"id":"id-107","last_modified":1777279442027,"schema":1777278807806}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["f507a682948f2689653bd1fef1d3db1cd0fad0ba1a028ff6eb63866d5d69f2eb"],"id":"id-107","last_modified":1777368763605,"schema":1777368186018}
