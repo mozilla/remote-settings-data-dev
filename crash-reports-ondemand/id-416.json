@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::SlimLinkedListElement<T>::LinkElements","hashes":["4a5ca3f58e075af57c71ac772d88a0468e493d34459ff63f2063c22b735d6ab8","893eec1d91a3f3f3e44a64c205b79f093de9377d25bc311bf8ec0afd5814f008"],"id":"id-416","last_modified":1777368764026,"schema":1777368695566}
+{"description":"utility (Windows beta): Microsoft::WRL::Details::RuntimeClassImpl<T>::QueryInterface","hashes":["56c9bfc3089750e2a51b7fcae1570082498985121a81a068c3f633c17b0706f5"],"id":"id-416","last_modified":1777539767829,"schema":1777539699070}
