@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | BackgroundThreadProc","hashes":["3d8f5517acdbe5953e47b5e9530f905639326f700aa6f2e1a3f99f8884c3ee4e"],"id":"id-186","last_modified":1777539769471,"schema":1777539313364}
+{"description":"utility (Mac release): __CFBasicHashRehash","hashes":["3fe058d1a4fca4396a3c730cf869b712844575cc55c2c038727522438cc4df37","2c0e025d121e82d458a6bd8e350aba93dc95c1920bab7b4634ebaa604dc0765d"],"id":"id-186","last_modified":1777626180122,"schema":1777625717739}

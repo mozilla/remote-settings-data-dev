@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): nsTSubstring<T>::AppendIntHex | mozilla::base_profiler_markers_detail::MarkerTypeSerialization<T>::Serialize<T>","hashes":["77cb8f5c91b33eb0ac90575504cf1931a375f52d30051002057b8532835f7b87"],"id":"id-188","last_modified":1777539770010,"schema":1777539317053}
+{"description":"socket (Linux release): nsAppShell::EventProcessorCallback","hashes":["df2c715934cc024edf0fc8d9844c988370d50d5037c6840239d7089498e3c17d"],"id":"id-188","last_modified":1777626180615,"schema":1777625720869}
