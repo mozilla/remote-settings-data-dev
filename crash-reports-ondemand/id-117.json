@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::MakeRefPtr","hashes":["b4f55aebf3424ed68768c0909e149c51f6bb01bfda66707026b37e2478ce8652"],"id":"id-117","last_modified":1777539767328,"schema":1777539200989}
+{"description":"content (Mac nightly): mozilla::SegmentedVector<T>::PopLastN | mozilla::dom::DeferredFinalizerImpl<T>::DeferredFinalize","hashes":["9e584aa3c191649f41daffd0a95aff2cf8375739055b32833969797a7ac8a2dc"],"id":"id-117","last_modified":1777626177959,"schema":1777625603908}
