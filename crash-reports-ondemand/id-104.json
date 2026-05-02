@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): PR_Close | mozilla::net::PollableEvent::~PollableEvent","hashes":["86eafca3acf24be7fa55dcbe1e015d0f7bce378626ced7728bab0ecb07b6e6c9"],"id":"id-104","last_modified":1777626179030,"schema":1777625582382}
+{"description":"content (Mac nightly): js::ObjectSlots::isSharedEmptySlots","hashes":["2161340b29c36f4552c3b02825a2050e26228eaad76eead08112a46ca5058383","3044ee73b97ac6dc8041a82fd2a4b09e3d1a267d6e3dc61edb636b87fc1c41d9"],"id":"id-104","last_modified":1777713174125,"schema":1777712582527}

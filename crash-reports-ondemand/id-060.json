@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::image::nsGIFDecoder2::ReadGIFHeader","hashes":["382a9e4a4f8397c284495402af033553913e8a970899ad9783c37babab34dd17","ac559e28e09c1290790d95c072448bed837e832e024b844e698d9755ec6cff6a"],"id":"id-060","last_modified":1777626178510,"schema":1777625511641}
+{"description":"gpu (Android nightly): mozilla::ipc::MessageChannel::DispatchSyncMessage","hashes":["55d4cde862e8eec1f4fa8fe8bd9af0daaa4846c978d1f1865b2eddd773b56530"],"id":"id-060","last_modified":1777713173668,"schema":1777712510574}

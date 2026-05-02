@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["ebd8460028779e7085c2c9a14f79647568112f284efc11c24d64b354456a6521"],"id":"id-422","last_modified":1777626178373,"schema":1777626113105}
+{"description":"content (Mac nightly): mozilla::Maybe<T>::operator-> | JS::loader::LoadedScript::IsUTF16Text","hashes":["7a1e4e3b80478327810561bba7b51fac5441ffe7f17756c77de7cc6c459dc0f9"],"id":"id-422","last_modified":1777713173555,"schema":1777713103365}
