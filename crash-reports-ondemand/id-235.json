@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): flhhlp.dll | LdrpSendDllNotifications","hashes":["5710dad777f71819555473a9522400bcd82168f45ab7fa48c1a5b597839c27fe"],"id":"id-235","last_modified":1777713174057,"schema":1777712795367}
+{"description":"socket (Mac beta): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["51c4bf711a0c100d6dde543f15882b3e037916843aa72ee78252e4b6dc9bf7aa"],"id":"id-235","last_modified":1777799593007,"schema":1777799209994}

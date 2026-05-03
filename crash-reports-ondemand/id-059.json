@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::AllocSite::zone","hashes":["dda22f193d666a098cd5017593c4109edfcfc2dfdd646761316f2c9ec6375292","04ad4a41851bfc2fc300b105deb254e929c7c1f7656bea8c73fb334a9ca70570"],"id":"id-059","last_modified":1777713173657,"schema":1777712509040}
+{"description":"socket (Linux release): huge_dalloc | <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::dealloc","hashes":["96ec6c54d9adfb6750d61ce9940ee05b67acf512fb8bd236aff8ff3990adac77"],"id":"id-059","last_modified":1777799592580,"schema":1777798917290}

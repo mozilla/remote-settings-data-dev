@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): WSPShutdown","hashes":["018eaf251df9e8e3d5209a3affa2dd5c6880d47d3ed9aa5e790279ebe83259dc"],"id":"id-108","last_modified":1777713173454,"schema":1777712588907}
+{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["8b5f3e8c623cdf4cf6ee95c0b83c9c2b0657da9a5f37c73d4d5362bda261e008"],"id":"id-108","last_modified":1777799592361,"schema":1777799000449}
