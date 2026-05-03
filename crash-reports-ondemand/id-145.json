@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["115f75af3f97ccab704266c6798154078fb08d8a25b57ac1cdb161259c126b61","a4807d827a53fa241008c68edab95ef025e75c97411e42bdaaa304161c166260","a14d14a117c850c1b174fa388f46a1c6dde1eeaa24eac12d9064fdcda9a79511"],"id":"id-145","last_modified":1777713175146,"schema":1777712648484}
+{"description":"content (Mac nightly): js::CopyChars<T>","hashes":["caccb8a89a1344fa094b2bd8ad8ee271c04507ea9dff71c616234650eb56243c"],"id":"id-145","last_modified":1777799594197,"schema":1777799060743}
