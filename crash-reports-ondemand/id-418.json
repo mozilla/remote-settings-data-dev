@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["d6039984382b4ea0d048966a4e8a99ea41429897817c3d53ba1d720fab5b9f31"],"id":"id-418","last_modified":1777799594407,"schema":1777799513767}
+{"description":"gpu (Android nightly): libc.so | mozilla::layers::CanvasTranslator::HandleCanvasTranslatorEvents","hashes":["06b64b4d4a1f4fa15463c3c5b5fb8d948f5972a9753599d63f597c671bda4272"],"id":"id-418","last_modified":1777884800085,"schema":1777884714575}
