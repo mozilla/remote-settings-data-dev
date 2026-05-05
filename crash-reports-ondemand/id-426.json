@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AllocInfo::Get<T> | BaseAllocator::realloc | MozJemalloc::realloc","hashes":["8b865ad01273e4eb105f6b578fa946e5421fd98835643778ab1fd8139ecbc38a"],"id":"id-426","last_modified":1777884798670,"schema":1777884727412}
+{"description":"content (Mac nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["db33693dff3374fda931a866a710c2d8800a977905a2733f7b38b4296b968d64","2a46d72b44526847a3221168f0762660704551e798cd889aaf0ff962693d0441"],"id":"id-426","last_modified":1777972403557,"schema":1777972325613}
