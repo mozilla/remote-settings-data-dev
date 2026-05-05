@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): WSPShutdown","hashes":["018eaf251df9e8e3d5209a3affa2dd5c6880d47d3ed9aa5e790279ebe83259dc"],"id":"id-453","last_modified":1777884800591,"schema":1777884772963}
+{"description":"rdd (Windows beta): RtlpReportHeapFailure | RtlpAllocateHeap | RtlpAllocateHeapInternal | RtlAllocateHeap | mozilla::nt::RtlAllocPolicy::maybe_pod_malloc","hashes":["4c1926122c1a76054665f4d115710ab5f919d2e4df6304769556004633f1d0b3"],"id":"id-453","last_modified":1777972405533,"schema":1777972370203}

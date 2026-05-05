@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): nsTArray_Impl<T>::Elements | nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::TakeInternal","hashes":["07f7f3ff91fd60e3fe6cae6d3946d38cc061bcfaab579992041ea92f28a6a851"],"id":"id-066","last_modified":1777884800862,"schema":1777884122611}
+{"description":"utility (Windows nightly): DirectUI::Element::_GetSpecifiedValue","hashes":["75ce95afd7c238c23b9ac9aac5310841d5df64de70a7c0d97e5656e9b8d44034"],"id":"id-066","last_modified":1777972405561,"schema":1777971723679}
