@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libufwriter.so","hashes":["995f90c317afc4988cd4d8faede50067c89b0542af8747ea2519c75bfa15be93","0cda292baa29ae49f9b0d561e5923528ac95d8751782b22ee8d45d6ad9617fae"],"id":"id-176","last_modified":1777972402895,"schema":1777971904859}
+{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["8d84e6d7eec4cd8b206501c20b9fab401c83370f190b8317e954795025ff76cb"],"id":"id-176","last_modified":1778060030659,"schema":1778059507203}

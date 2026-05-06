@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): CrashChannel::OpenContentStream","hashes":["1823dd0f052aba2bee9599b6f93d8622e849a5c26c22a1679e3fff74d9f87631","bee7878c0829119123ed9ac8477a21e81569ac6e54aa550b8d44355046a3868b"],"id":"id-236","last_modified":1777972403818,"schema":1777972006042}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::end | mozilla::ImplCycleCollectionTraverse","hashes":["c36591331eec637e5060a750237a41bdbec76374ce88db0048f143629e0fc7a8"],"id":"id-236","last_modified":1778060031533,"schema":1778059610625}

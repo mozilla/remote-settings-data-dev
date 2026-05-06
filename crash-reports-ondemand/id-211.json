@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): OOM | large | new[] | std::make_unique","hashes":["56ff6e41a243c1e8e7affa1341b48151c3aedb9e5cf7a825d6f91fe12b761855"],"id":"id-211","last_modified":1777972402682,"schema":1777971964031}
+{"description":"content (Linux beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["60b480557d938a2ff875018bbc4bef293b762201164b7d740b09c9565dc1e9b3","f79463fbba436ba4f7f199af978a37f1cb7e21c70dff3de9d087d5d37ab13faa"],"id":"id-211","last_modified":1778060030458,"schema":1778059566626}
