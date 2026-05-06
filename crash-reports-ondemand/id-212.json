@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::HashStringUntilZero","hashes":["b9653d5f08812118519e6155961b25571d2f892995079e454ade5c3d844a71e9"],"id":"id-212","last_modified":1777972404858,"schema":1777971965600}
+{"description":"gpu (Android nightly): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::ipc::BigBuffer>::Read | mozilla::dom::PWebGLParent::OnMessageReceived","hashes":["9f41a70ff39eb1028a57aa86d4936e4ea23d80b5e5e3b69870ec177c73183ed4"],"id":"id-212","last_modified":1778060032614,"schema":1778059568210}

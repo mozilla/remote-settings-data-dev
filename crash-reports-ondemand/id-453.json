@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpReportHeapFailure | RtlpAllocateHeap | RtlpAllocateHeapInternal | RtlAllocateHeap | mozilla::nt::RtlAllocPolicy::maybe_pod_malloc","hashes":["4c1926122c1a76054665f4d115710ab5f919d2e4df6304769556004633f1d0b3"],"id":"id-453","last_modified":1777972405533,"schema":1777972370203}
+{"description":"socket (Mac release): objc_msgSend | -[EXExtensionPointEnumerator nextObject]","hashes":["6adecb3ec142b7611cac5b3ceaa9c05ca516ded284d3799820935091bb31b24e"],"id":"id-453","last_modified":1778060033274,"schema":1778059989743}
