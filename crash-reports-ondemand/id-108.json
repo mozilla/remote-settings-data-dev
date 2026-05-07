@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::Arena::zone","hashes":["2b24d9327897efc42a6f24a07f8d32cdd9995dd86770953f24e874c5cc92bef3","95cc7efdc382162ec0f8066dfd88608191b0dc65b7396e0fbb95f97d7a48ba7e"],"id":"id-108","last_modified":1778060033282,"schema":1778059391856}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["7d38fb2c9ada115667a375b679cc4d2c9bf40f726f10ce4500d86f01d57d29e9"],"id":"id-108","last_modified":1778143409548,"schema":1778142791310}

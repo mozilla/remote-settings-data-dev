@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | large | NS_ABORT_OOM | nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::a11y::NotificationController::ScheduleTextUpdate","hashes":["48bb318421e87175ffef3e659f8baf67568a08e3f54c82340352952649c7d134"],"id":"id-148","last_modified":1778060033150,"schema":1778059459487}
+{"description":"socket (Windows nightly): r_assoc_fetch_bucket","hashes":["76de27582dc63e94120f0e21ca3160305e5cbab2e3217acc4899e8b58eb89937"],"id":"id-148","last_modified":1778143409393,"schema":1778142859199}
