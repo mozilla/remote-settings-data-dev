@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): hmpalert.dll | RtlpTpTimerCallback | TppTimerpExecuteCallback","hashes":["38fbd1d842a3c8d01663608555ae28426563a67b4c88733dc6786c52f9646efb"],"id":"id-370","last_modified":1778143408109,"schema":1778143227039}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["1b20105eaaa0b8de9bd3c971467d4e19c6aa98be377db8e8818531d7689cdada","c46621299603ede17fdffee55dc42a5e4d182b3a47a06aeca187178a8306cde7"],"id":"id-370","last_modified":1778229827901,"schema":1778229639287}
