@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["eb89f1d0e80d2c9168783315102cf47ee7d03e4724ddc862cd6eebff0ac45abd","5e4f7aa17765cc9979ca5e334a84d4fbdd64c1d368e0d63678dc7269059fb7be"],"id":"id-457","last_modified":1778229829111,"schema":1778229786408}
+{"description":"gpu (Mac beta): webrender::renderer::gpu_buffer::GpuBufferBuilderImpl<T>::write_blocks","hashes":["e142ae75afc3bc822994af4c84603e0780a232101af3f06023e233e827618dbf"],"id":"id-457","last_modified":1778316208826,"schema":1778316168525}
