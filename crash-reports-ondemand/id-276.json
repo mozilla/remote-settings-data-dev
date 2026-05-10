@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): nsThreadPool::PutEvent","hashes":["896bf6930a7c1b46619d6fa7ea7ab31ed1be6bdf2e64b2f3edf60c2b70d7b656","e3f394db4ace2c0869d1a027d2127fe7fffcd3974e6978590dc1c37b2ac851ca"],"id":"id-276","last_modified":1778316208960,"schema":1778315869000}
+{"description":"content (Linux beta): nsCycleCollectionParticipant::TraverseNativeAndJS","hashes":["8998d57ac5d665b0ef37e329bf98235fd5f7a194d8a6481ea8984ae030f9dc87","c1b5fb885379baf65b520a6cc67afa42435cc853db73dd0e6c56a914a01c0e6c"],"id":"id-276","last_modified":1778402064727,"schema":1778401689073}

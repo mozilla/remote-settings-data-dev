@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): <unknown in nss3.pdb>","hashes":["91fcbe5de409a7e3065047f0a595b9c1981260d603743b6bcfa60c1ac7c39849"],"id":"id-431","last_modified":1778316209541,"schema":1778316126829}
+{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["ca58d7b8df03e2cbb85b38426d4478d7419939ef2510e410234d88625012bbe5","c25fe37f0e50a34ada5b819ef057b23a623f36013bba83a953dfb0b9a5ed0b32"],"id":"id-431","last_modified":1778402065339,"schema":1778401975997}
