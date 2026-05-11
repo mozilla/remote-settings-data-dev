@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[NSObject doesNotRecognizeSelector:] | ___forwarding___ | __forwarding_prep_0___ | ___eapolClientCallback_block_invoke","hashes":["a475aad09a891869e57b608104ac63d34bfadb317c13d69ff2859d1202c50dcb"],"id":"id-047","last_modified":1778402064981,"schema":1778401290959}
+{"description":"socket (Windows beta): r_assoc_fetch_bucket","hashes":["ac95f3292765bb9845273ca02a74364b2e7c5d7f767effc2b6c53b5dee642272"],"id":"id-047","last_modified":1778488447976,"schema":1778487689574}
