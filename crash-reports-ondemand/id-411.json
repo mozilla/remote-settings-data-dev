@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libxul.so | libc.so | libRBGLESv2_adreno.so","hashes":["57fa0350cf82141629795aa22bc62642cd37eb1a86d9a274e4564ae223e835ab"],"id":"id-411","last_modified":1778402063211,"schema":1778401939055}
+{"description":"socket (Linux release): l_soname","hashes":["e46aa252a6cbeff4ff81b2e49ef503b0d2263358932f255c7cb1defbfd7488db"],"id":"id-411","last_modified":1778488446096,"schema":1778488317254}
