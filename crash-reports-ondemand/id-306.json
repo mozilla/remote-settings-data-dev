@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["32170906af34082955722d8b0233a5fc5b1b8c818711292e089637af50cb709c"],"id":"id-306","last_modified":1778488447419,"schema":1778488123515}
+{"description":"socket (Linux release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["79af02e7a0eb5967602555dc5972fcef787172e763a1014707bac0d535050720"],"id":"id-306","last_modified":1778575421704,"schema":1778575123942}

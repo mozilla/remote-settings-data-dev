@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::MonitorAutoLockBase<T>::MonitorAutoLockBase","hashes":["ce6570cc4574d82943908efe670a3694881117bd19178e868bbb288f650bd036","aa26eeca489e3ec2d1f4315b68c7e6990ed7c44551ad36431930543bd9148afa"],"id":"id-206","last_modified":1778488447037,"schema":1778487955329}
+{"description":"gpu (Android beta): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["d52ce144048dec12320b43f1cde73a4648bc9d737c1f1024aa2cbcf77b430eab"],"id":"id-206","last_modified":1778575421400,"schema":1778574960482}
