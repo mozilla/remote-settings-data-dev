@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["9c873bef359bd449523e50ac6d281fd10f790def184dbb512853bf25d609f6a3"],"id":"id-214","last_modified":1778575422031,"schema":1778574973798}
+{"description":"utility (Windows nightly): mozilla::detail::ProxyRunnable<T>::~ProxyRunnable","hashes":["a6be36fb276a3b33ab6bd1bdf1b7c1f29b2aeaf24ddfaeaacc69ba073bc1f4c7"],"id":"id-214","last_modified":1778662426657,"schema":1778661971853}
