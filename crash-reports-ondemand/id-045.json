@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["15d97e3bdfbe0a0c7d2d7b4c8cb8cb2c65f509199c4242ba5aa35b3174b8ead0","34cbf2f78f4b862892a5045eb41dcdca3dbbca0819099dc6e9f58c438e7f8a19"],"id":"id-045","last_modified":1778662426980,"schema":1778661685139}
+{"description":"socket (Linux release): firefox","hashes":["41de454340ba350a5cdcf811ec967aa29cb2d58323a584f2edae8d52f7bedb89","5d5dfcf04711c559dd6bcd17c1185424e625f7d16b2081841057d4a10b53eea3"],"id":"id-045","last_modified":1778750058045,"schema":1778749295368}
