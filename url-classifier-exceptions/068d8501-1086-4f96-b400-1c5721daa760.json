@@ -1,0 +1,1 @@
+{"bugIds":["2033451"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"068d8501-1086-4f96-b400-1c5721daa760","last_modified":1778724610378,"schema":1778724609965,"topLevelUrlPattern":"*://www.sportchek.ca/*","urlPattern":"*://canadiantire.tt.omtrdc.net/*"}
