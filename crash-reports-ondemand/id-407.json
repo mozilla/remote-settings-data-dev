@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["9d8ee2513b0ef5ed86c40d848c4cb0ddc70fb04727d63cf81fa222e4495da52d","29aaad703ec462a6647d22497e07b32bd911f4badee15c523fbbfaba4882dcba","0750af46e803f4723f03ed5984caddde045ca598cca8d9898c5fe25f0e53db7c"],"id":"id-407","last_modified":1778662424633,"schema":1778662299102}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["15ab6331a1264943320c91b98fd9f0cc5117ad4e850c4a159694716cc8388b24"],"id":"id-407","last_modified":1778750055107,"schema":1778749922550}
