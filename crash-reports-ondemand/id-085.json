@@ -1,1 +1,1 @@
-{"description":"main (Android beta): libc.so | libaaudio_internal.so","hashes":["f3f72ba3b6bbf1da2eccd4751571ab1f3f7903f2ae55bf2b2173c0ba64e6a612","42a342f6158b6131cadbadfb8ad25b0e0658fef81a9d4b0ad350ac0e8e9b1da9","c538e9aeb52ffde68a2dea042aa9349f804b58c3217db24e636ee2465b6c3752"],"id":"id-085","last_modified":1778859859543,"schema":1778859191440}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["6ca55434dd812cef69d327c8f7b7d0e14a3c5ba89e0ea434ddc65c56a562ff95"],"id":"id-085","last_modified":1778921035115,"schema":1778920368583}
