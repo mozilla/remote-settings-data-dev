@@ -1,0 +1,1 @@
+{"bugIds":["2034473"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9fd6a601-86cc-481e-9afa-b4eaa087ffcc","last_modified":1778897412682,"schema":1778897412281,"topLevelUrlPattern":"*://magentacloud.de/*","urlPattern":"*://*.tiqcdn.com/*"}

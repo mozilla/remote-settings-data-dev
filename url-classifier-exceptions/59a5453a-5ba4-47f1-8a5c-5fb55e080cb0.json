@@ -1,0 +1,1 @@
+{"bugIds":["2039536"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"59a5453a-5ba4-47f1-8a5c-5fb55e080cb0","last_modified":1778897412639,"schema":1778724610782,"topLevelUrlPattern":"*://www.boscovs.com/*","urlPattern":"*://libraries.unbxdapi.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2036700"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ddd3d1a5-a292-405d-a2a0-829d4d760afb","last_modified":1778897412664,"schema":1778897411896,"topLevelUrlPattern":"*://www.oppo-lab.jp/*","urlPattern":"*://*.st-hatena.com/*"}

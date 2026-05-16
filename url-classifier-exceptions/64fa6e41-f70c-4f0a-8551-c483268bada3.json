@@ -1,0 +1,1 @@
+{"bugIds":["2039209"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"64fa6e41-f70c-4f0a-8551-c483268bada3","last_modified":1778897412658,"schema":1778897411771,"topLevelUrlPattern":"*://blog.serverworks.co.jp/*","urlPattern":"*://*.st-hatena.com/*"}

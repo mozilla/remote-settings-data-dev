@@ -1,0 +1,1 @@
+{"bugIds":["2034428"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e4e4c53a-cbf6-4ebf-aa41-52f33b351528","last_modified":1778897412689,"schema":1778897412403,"topLevelUrlPattern":"*://www.spielaffe.de/*","urlPattern":"*://*.adscale.de/*"}
