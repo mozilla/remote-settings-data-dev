@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::detail::RWLockImpl::readLock","hashes":["af249fb2772ca9846750ad19ca70282a3552be95f989dc879f5b433d78c892a5","0abea029a6a12ce25810bb42b01d95cbeb7bfdad205dcd6f73e1b71801c3dae9"],"id":"id-158","last_modified":1778921035045,"schema":1778920488209}
+{"description":"utility (Windows nightly): RtlFreeHeap | ShellExtBridge118.dll | IShellExtInit_Initialize","hashes":["35afd583e50028e818a48232f95c9b14d3a5e93746303365f86a557330673d55"],"id":"id-158","last_modified":1779014028415,"schema":1779013471528}

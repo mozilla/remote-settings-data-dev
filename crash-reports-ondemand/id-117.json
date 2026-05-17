@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | nsCellMapColumnIterator::GetNextFrame","hashes":["95f45fa968efaf7698ec28660bad6b499b2b38bc600559074e973446a2b33b26","02815c73cd90c1d509222cf52db3f3d837c4fbf39bf8e15a62d6809afecbf03c"],"id":"id-117","last_modified":1778921034894,"schema":1778920421483}
+{"description":"utility (Windows nightly): buffer_replace","hashes":["a242715ffa9f980bf8860ff6200029c8ab8c55694d2c52ea4f761a0e132332bb"],"id":"id-117","last_modified":1779014028252,"schema":1779013405032}
