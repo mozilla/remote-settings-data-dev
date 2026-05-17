@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["75f99a3a81af460368fe75b5eb161d45a3789b5a065002ebb8f7fc3c06f09336","d8ba823550b1ca153f9a377ca8597c494b2bbbaf3826ac9e5d2c92ebadb403c5","0750af46e803f4723f03ed5984caddde045ca598cca8d9898c5fe25f0e53db7c"],"id":"id-378","last_modified":1778921037192,"schema":1778920863663}
+{"description":"content (Android nightly): nsWindowWatcher::OpenWindowInternal","hashes":["68b1425a399f65b418829478c93ebed9d41f8dbe1d78e7b31b8fe33e0ee1febc"],"id":"id-378","last_modified":1779014031060,"schema":1779013855354}
