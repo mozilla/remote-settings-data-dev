@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): nsTimerImpl::CancelImpl","hashes":["08155940fed871da04ad06442f07c0f82e61f797a1bacf60eb630943a0eb5676"],"id":"id-089","last_modified":1779014031429,"schema":1779013358228}
+{"description":"socket (Linux release): JS::Rooted<T>::registerWithRootLists","hashes":["ef9ba27da39d3e57891229c68dfd3c35d75efcc28263f8520cd27a4f359306b7"],"id":"id-089","last_modified":1779093264729,"schema":1779092571557}
