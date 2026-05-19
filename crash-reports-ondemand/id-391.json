@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | nsCellMapColumnIterator::GetNextFrame","hashes":["95f45fa968efaf7698ec28660bad6b499b2b38bc600559074e973446a2b33b26","02815c73cd90c1d509222cf52db3f3d837c4fbf39bf8e15a62d6809afecbf03c"],"id":"id-391","last_modified":1779093262703,"schema":1779093104254}
+{"description":"utility (Windows nightly): <unknown in ntdll.pdb>","hashes":["67e41a22c24d6ba74cfb852d375bd12c3dbf3826c54f05cee5e15b86012f42ed"],"id":"id-391","last_modified":1779180876376,"schema":1779180716776}
