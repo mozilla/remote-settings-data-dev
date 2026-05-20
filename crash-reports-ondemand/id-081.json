@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): js::frontend::ParseNode::getKind","hashes":["e7faa396b42344bbcf76749b56d8d184894420e2cb6389fd617227cae889bd5b","4fe5d5010f9969a9f6c80d8dc8d0ee29ad3e5f2a93e6c4286da08da13e450311","b3b0c6d3d5b23b3c1d11deb6fe362617a71a659fe9ce81ec451726eadff4bed1"],"id":"id-081","last_modified":1779180875842,"schema":1779180160898}
+{"description":"gpu (Android nightly): core::ops::function::FnOnce::call_once","hashes":["546bc99c79dc99589ac409cf95f591f43170b82b58589cd9f2cd5003b9d4c26c"],"id":"id-081","last_modified":1779267252686,"schema":1779266552184}
