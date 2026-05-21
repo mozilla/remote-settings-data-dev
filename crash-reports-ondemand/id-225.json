@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::PortLink::SendMessage","hashes":["63d61217abfb3864fdde038ae67b250736dd7d75958f98431643b00ce3400973"],"id":"id-225","last_modified":1779267253039,"schema":1779266803214}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["ac9af10db5f0b08bea6483a630efbce3ae21c7d71d19936caef69ab2e16ac8bf"],"id":"id-225","last_modified":1779352481289,"schema":1779352018559}
