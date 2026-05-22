@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): dispatch_mach_send_with_result_and_wait_for_reply","hashes":["0b9b5cd3f3a2c6435482aa3a6bd0154ef57148d81dbac1c780f9235aba2de2d7"],"id":"id-284","last_modified":1779352481575,"schema":1779352122579}
+{"description":"content (Linux nightly): nsIContent::GetPrimaryFrame","hashes":["8966358f2d4339ca2318c3607ee3ae2f4b1b985109772536b556e0c4b6e52804","d480d9cc88aa53cc078ac4ea3c187fb0c6f9b735b990a6f03a498b17c4f4c22f"],"id":"id-284","last_modified":1779435893172,"schema":1779435545672}

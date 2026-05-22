@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): std::shared_ptr<T>::shared_ptr","hashes":["d98529a85adfffcdafc81faa5bff0bdb48b531fd0a24955e9a754c8365c0b824"],"id":"id-389","last_modified":1779352481355,"schema":1779352322887}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["a6f7375e91645f33df157c7181297c8004b22c5031d3cdb9928a01c4a4ade2bd","14a453f8fd109f65e5de7e6f075cb31059fa8c436e77921209d3cf4ad70ec3b0"],"id":"id-389","last_modified":1779435892940,"schema":1779435737837}
