@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): core::ops::function::FnOnce::call_once","hashes":["546bc99c79dc99589ac409cf95f591f43170b82b58589cd9f2cd5003b9d4c26c"],"id":"id-393","last_modified":1779435895256,"schema":1779435744767}
+{"description":"utility (Windows nightly): base::win::internal::ScopedHandleVerifier::OnHandleBeingClosedImpl","hashes":["b22c66f20cc416ff86e0e6f7ed924a35e6e40059c9e581121e8093b69873dc8d"],"id":"id-393","last_modified":1779523450874,"schema":1779523307664}
