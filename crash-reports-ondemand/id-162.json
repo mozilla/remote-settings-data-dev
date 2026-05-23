@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): objc_retain | < as objc2::encode::EncodeArguments>::__invoke","hashes":["6bdf42fbfcd6354576d9ac9e8b15a2c9a9ecdb102e2bd965aac27ee10ebe5a21"],"id":"id-162","last_modified":1779435892591,"schema":1779435320058}
+{"description":"content (Mac beta): mozilla::BitSet<T>::Reference::operator=","hashes":["ee33dad01e8c3fca8388777901f8537519fc23bd736cfd09d0a0a35590956eca"],"id":"id-162","last_modified":1779523448643,"schema":1779522888003}
