@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["ddf2c62eff62466a24a694f55e253f3f9a92649c53130e10180f0f92f68413f3"],"id":"id-084","last_modified":1779523450717,"schema":1779522754099}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["7d6c6d21a031a54408a02859cc1d4a5227e1777b408244ca4aab737fd3e58069"],"id":"id-084","last_modified":1779612212937,"schema":1779611560402}

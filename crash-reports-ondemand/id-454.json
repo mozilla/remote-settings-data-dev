@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["1ccd6c2901b6e47c4f925fe83ab1e301867e725bad68dff5bf604da3c79949b1"],"id":"id-454","last_modified":1779523450668,"schema":1779523412967}
+{"description":"content (Android nightly): mozilla::detail::nsTStringLengthStorage<T>::operator unsigned long","hashes":["e0bfa4e4634892381c0b364985b3fbebae3bf999e6a18a29428265f82bd253ce","667cece2a42aca2d9b1036cee07cefedb7d7b895b391944c8a22d7059dcde0a3"],"id":"id-454","last_modified":1779612212893,"schema":1779612178154}

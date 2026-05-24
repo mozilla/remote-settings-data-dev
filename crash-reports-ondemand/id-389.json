@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JSScript::getScope","hashes":["7d708a01a4ba911bcf997cb3664b1f113f9153fbb9d7d062071f7fc936a8f8ba","84fb71b99a4bdc2169021ae21338355513d476971f6ee8b4e256aaa5e44af95e"],"id":"id-389","last_modified":1779523450665,"schema":1779523301123}
+{"description":"utility (Windows nightly): base::win::internal::ScopedHandleVerifier::OnHandleBeingClosedImpl","hashes":["b22c66f20cc416ff86e0e6f7ed924a35e6e40059c9e581121e8093b69873dc8d"],"id":"id-389","last_modified":1779612212891,"schema":1779612071733}

@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["5a6cfd372c42cbb6736bb3bd1d8aedd27c55905cdc9a3beeedc1c87365764a40","6da0b1639d3af84249ca0812d23b2c3a4506a67bdb57d0e0007cb8b1f1edd59b"],"id":"id-115","last_modified":1779523451136,"schema":1779522807468}
+{"description":"content (Android beta): mozilla::dom::binding_detail::GenericGetter<T>","hashes":["dca2ed4d11d4cfb06845e9ba6ff59542cc5cb27f6ae20755f479ff84777fcd57"],"id":"id-115","last_modified":1779612213332,"schema":1779611613662}
