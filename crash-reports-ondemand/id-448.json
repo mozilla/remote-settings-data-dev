@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["e6363e1d9510f0a45039257290af3639cb365a9b1992377a69b02a76b59750c6","d373d005cdf93e8f52bf416592b46583f3e28912819d27a202e31c41bf7c4323"],"id":"id-448","last_modified":1779612213228,"schema":1779612168389}
+{"description":"gpu (Mac nightly): mozilla::wr::Moz2DRenderCallback","hashes":["67a844215810ffcd182e6ba78a128a6abf643c0c28c11dcd5a90d21e3b149d06"],"id":"id-448","last_modified":1779699223579,"schema":1779699180533}
