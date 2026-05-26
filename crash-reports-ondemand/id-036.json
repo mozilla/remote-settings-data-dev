@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e59f8ff607b5b8734a35154d4acca5439416562eef00ae982b7221f6bcbd8fff","1a1416390d85fd60896409936722097d7ac65ef39100851cdc328bec10f5b6bc"],"id":"id-036","last_modified":1779699221053,"schema":1779698472618}
+{"description":"socket (Linux release): <name omitted> | free | r_assoc_destroy","hashes":["d8aff9fbe0e3de60d316a6814b91c17a3baf795fbee22958c43cd7566ae8e3dc"],"id":"id-036","last_modified":1779783818180,"schema":1779783072120}

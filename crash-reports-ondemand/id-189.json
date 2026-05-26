@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLESv2_mtk.so","hashes":["67c22151a95b1c0b3a2ab840737e5c511eb0bc18f5f5f5fdf47501ed326d7be1"],"id":"id-189","last_modified":1779699220820,"schema":1779698736017}
+{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-189","last_modified":1779783818051,"schema":1779783336021}

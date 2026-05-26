@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::TransformStream::SetBackpressure","hashes":["941086d109446683cab55e0afd52d215e1d8ea035bf09a7d83c8a642c8c8ab11"],"id":"id-328","last_modified":1779699220742,"schema":1779698973014}
+{"description":"content (Mac nightly): _sigtramp","hashes":["f20443988b3e22d177026f3f53f3259eb68a6ca9b63c03522693c7ec6ca3fd4e","3483a56303a50aad839d28679881404ff580299dcb20f6386d47703d0c4d80be"],"id":"id-328","last_modified":1779783817978,"schema":1779783571920}

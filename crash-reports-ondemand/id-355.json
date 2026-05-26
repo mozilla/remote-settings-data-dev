@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | ZfHookFileMmPlugin.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["41d41b329865a4e69412dbf072352552d0254df53ea22285f0bc93cb6838113a"],"id":"id-355","last_modified":1779699222018,"schema":1779699020013}
+{"description":"content (Mac beta): mozilla::IdleTaskRunner::CancelTimer","hashes":["f1d7afb2b860faeb7f06c9c993155cb354f749f4526a617f414b772671116d39","11333648aa26eedaf040cad01b87aab715bfb3b2686ee6a874dc77443f605b41"],"id":"id-355","last_modified":1779783819202,"schema":1779783618761}
