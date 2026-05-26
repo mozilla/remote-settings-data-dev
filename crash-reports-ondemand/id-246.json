@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::Navigation::UpdateEntriesForSameDocumentNavigation","hashes":["1892d3a3f4b92c5c8b61464fb3e1eba8d113b24fbc780a20ace08d0a9094c743","bcee1b897093e68383e6afb5b68fcd4cd28d8a11e767723fa9ce00427d55e8be"],"id":"id-246","last_modified":1779699222815,"schema":1779698833484}
+{"description":"content (Mac nightly): js::gc::MarkingTracerT<T>::eagerlyMarkChildren","hashes":["9dc0a660100ec7cf9e822ce23e1dbd2fde83f7182c68f99c520765e234df031b"],"id":"id-246","last_modified":1779783819921,"schema":1779783431510}

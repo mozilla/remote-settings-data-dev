@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::BrowsingContext::BrowsingContext","hashes":["0232f03d215a2cf8f3aaed616d0af583bc415a2720301b82ac104bc12be25e3e"],"id":"id-442","last_modified":1779699222834,"schema":1779699170314}
+{"description":"socket (Linux release): <bincode::ser::Compound<W, O> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["b72408bc7bd23da2db0e5ca86e40ed7b9b3dbdbff2613dae51c940eafd768b17"],"id":"id-442","last_modified":1779783819940,"schema":1779783769604}
