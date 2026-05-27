@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::dom::JSActorManager::ReceiveRawMessage","hashes":["0098d0928fe42b0c59fcf48bcb716b618cb82cf3eaf567c5edcd270c62f53bb7","69d710ea390c08ec07b7fdadede5155a51f9a59d658d6949a471deec8e138db5"],"id":"id-217","last_modified":1779783820434,"schema":1779783382690}
+{"description":"gpu (Linux release): abort | <.text ELF section in libnvidia-eglcore.so.580.159.03>","hashes":["3d6918d6a368eb7ef4018b9f21b582335925a269c9af549f7129e3135d2b70b7"],"id":"id-217","last_modified":1779871442819,"schema":1779870993748}

@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::wr::Moz2DRenderCallback","hashes":["67a844215810ffcd182e6ba78a128a6abf643c0c28c11dcd5a90d21e3b149d06"],"id":"id-290","last_modified":1779783820788,"schema":1779783507686}
+{"description":"gpu (Android nightly): webrender::spatial_node::SpatialNode::mark_uninvertible","hashes":["56439b0e8c0f23d019489082dd32758a06f649d4a67c91ee9c57471361a223db"],"id":"id-290","last_modified":1779871443235,"schema":1779871119185}
