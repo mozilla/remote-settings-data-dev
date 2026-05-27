@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::gl::GLBlitHelper::CreateDrawBlitProg","hashes":["958d77d4d4648501956b730693920223fe3e99939daab616ceadbe198667efa0"],"id":"id-047","last_modified":1779783818469,"schema":1779783090847}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["6f6959929c9755bc948f51ad6a8318e7641b9c7f2959a96f927a412122b20b2b","1f9692db8ba5e700e03860cca3d97c41dcd3379687eedf70b27506af51f8cc6c"],"id":"id-047","last_modified":1779871440762,"schema":1779870702070}
