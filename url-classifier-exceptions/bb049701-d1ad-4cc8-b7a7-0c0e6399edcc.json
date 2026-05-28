@@ -1,0 +1,1 @@
+{"bugIds":["2038997"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"bb049701-d1ad-4cc8-b7a7-0c0e6399edcc","last_modified":1779934209977,"schema":1779667220332,"topLevelUrlPattern":"*://expatexplorer.hsbc.com/*","urlPattern":"*://tags.tiqcdn.com/*"}
