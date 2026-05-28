@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): libxul.so | handle_response | _XEventsQueued","hashes":["ce161c6da1b8bcaf7e1df63a0a9e740971fef19d4169636b321e0e6b8c91e921"],"id":"id-087","last_modified":1779871443490,"schema":1779870769708}
+{"description":"gpu (Mac nightly): webrender::renderer::gpu_buffer::GpuBufferBuilderImpl<T>::write_blocks","hashes":["c44e7524438fa572fe211dddddd819f74c534457fbe689365871dc20576f1e9a"],"id":"id-087","last_modified":1779957834466,"schema":1779957167959}

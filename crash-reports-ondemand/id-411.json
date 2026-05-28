@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::dom::Function::Call<T>","hashes":["abcf2c628d866a5fe599df132b10b8b051fee68273efc4f4bc2c3c26215eeb2b"],"id":"id-411","last_modified":1779871443408,"schema":1779871335042}
+{"description":"content (Linux nightly): js::gc::MarkingTracerT<T>::markAndTraverse<T>","hashes":["91a7296c3ead2550a03f0957c357f045a3021b31ebcf09fa5cd45ed9103cc319"],"id":"id-411","last_modified":1779957834392,"schema":1779957720613}
