@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): AllocInfo::GetInChunk","hashes":["b5c9a6afb618506c38368505d2d65e4953b84ef9a09c54980bd239b4181c4eb1"],"id":"id-149","last_modified":1779871440887,"schema":1779870877076}
+{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-149","last_modified":1779957832018,"schema":1779957272827}

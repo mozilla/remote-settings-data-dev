@@ -1,1 +1,1 @@
-{"description":"socket (Linux nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["5b8404daac5ae3f6a079cfafe008812f8729d5a515540702b4ded06ef009cc91"],"id":"id-165","last_modified":1779871441048,"schema":1779870903921}
+{"description":"socket (Mac release): mozilla::LinkedListElement<T>::setPreviousUnsafe","hashes":["45f52f8937f4a9487e7f68c349be8d0b4006e0b0f53bfab1725eae5ce81bcd67","97d229e190fd4d96fde3406aaf05aff44f185f0f438e7e561a80fa0a8634e942"],"id":"id-165","last_modified":1779957832215,"schema":1779957298908}
