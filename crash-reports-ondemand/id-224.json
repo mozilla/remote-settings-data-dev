@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): notify_register_check","hashes":["cf274c6547316707a9283eded20386299a418c4dc2c05aa559c506a1cb79d670","923a695b3583a207689780f65dfc6e1bdbabc7f74fc0c97b7e6bb27581f9a080"],"id":"id-224","last_modified":1779957834225,"schema":1779957402168}
+{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["ae4a33bb1e8519de423d3d7d5dcc1f2ef1c998987051f409dbf55bd594b972d3"],"id":"id-224","last_modified":1780043634154,"schema":1780043186510}
