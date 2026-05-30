@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): __CF_IS_OBJC.cold.1","hashes":["05288dfe2fab9fdd97a34c70c7aa0b0d5b29cc02d945acbdee01251fc9faed3a","448e54448d34d73ddfdcced3fd49541ad910ebfc1cdab912d0c8935f751b769a"],"id":"id-474","last_modified":1780043634575,"schema":1780043624829}
+{"description":"content (Mac nightly): js::ObjectSlots::isSharedEmptySlots","hashes":["5f940a7a9fd547fa54038a65048ba606140070f4ad9b0522d61faf9c06d9d9f2"],"id":"id-474","last_modified":1780132421414,"schema":1780132410884}

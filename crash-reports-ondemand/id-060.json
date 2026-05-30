@@ -1,1 +1,1 @@
-{"description":"content (Android beta): <servo_arc::Arc<T> as core::clone::Clone>::clone","hashes":["14bf6c83b8f761773c3e3fb957da6f57c7d48c1391f8edabf5b7a8c884a42a37"],"id":"id-060","last_modified":1780043634483,"schema":1780042912055}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["1a431c84a8ba039fe5ff98902abb297f4ce5e37fb98bc7c53c8dcf7084618ed8"],"id":"id-060","last_modified":1780132422652,"schema":1780131709491}
