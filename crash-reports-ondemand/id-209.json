@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::wr::RenderThread::HandleFrameOneDocInner","hashes":["2d6ce05448d97427b115309dbc66ae722e12bb77aab9aceac4ea1b65bb7a185c"],"id":"id-209","last_modified":1780043632720,"schema":1780043160875}
+{"description":"content (Android nightly): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["3353da1d674fbe47eef5997eec53b3011d26671c96c8277eb5b6711fb6f16cec","0694dd0ffaf030935171d06829ad6d370cd3b886f0ab0cb36302e5e30fd46008"],"id":"id-209","last_modified":1780132420546,"schema":1780131962670}
