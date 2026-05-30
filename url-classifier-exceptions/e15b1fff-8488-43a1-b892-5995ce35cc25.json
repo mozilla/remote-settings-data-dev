@@ -1,0 +1,1 @@
+{"bugIds":["2035219"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e15b1fff-8488-43a1-b892-5995ce35cc25","last_modified":1780107012712,"schema":1780107011222,"topLevelUrlPattern":"*://ring.com/*","urlPattern":"*://apx-security.amazon.fr/*"}

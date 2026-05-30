@@ -1,0 +1,1 @@
+{"bugIds":["2035449"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4a2f253d-52fe-41c8-8861-7bd12d859fb2","last_modified":1780107012701,"schema":1780107011100,"topLevelUrlPattern":"*://wells.pt/*","urlPattern":"*://cquotient.com/*"}
