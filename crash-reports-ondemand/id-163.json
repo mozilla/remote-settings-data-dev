@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): OOM | small","hashes":["8f364fa15297f96c7fb728c47ded6a91fa26909273f4b7de3475ec9dc3721222","f8f2f80fc1875ef0441dd10c7a112e9e5d5e8ec3cb23500fd784d4fde73a172f"],"id":"id-163","last_modified":1780132422206,"schema":1780131884867}
+{"description":"gpu (Android nightly): mozilla::gl::GLBlitHelper::CreateDrawBlitProg","hashes":["b97f9d23be41b8f0d82e7d00329aadfc633db668dec93a36c717f6bd3e43f94f"],"id":"id-163","last_modified":1780306441674,"schema":1780305889588}

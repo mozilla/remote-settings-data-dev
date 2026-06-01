@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::EnvironmentIter::EnvironmentIter","hashes":["0e9eb00beb6f6e3f9bd2e01fa80231bea66f1665f468942223a744c2ad2c7934"],"id":"id-160","last_modified":1780132422450,"schema":1780131879611}
+{"description":"socket (Linux nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["123d86ed221a1f9e25b3ea70561f3abac928f3603689c5af0962dcc0afd8555a"],"id":"id-160","last_modified":1780306441917,"schema":1780305884544}
