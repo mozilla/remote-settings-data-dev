@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["3545e471f645db29af0b613ff34af2912360312fa50b52a017d35f094f69589e"],"id":"id-457","last_modified":1780132419420,"schema":1780132382289}
+{"description":"content (Mac beta): JS::shadow::Zone::hasAnyGCState","hashes":["6d00c1f2ed7ec9a3f95f4064500ed7b870064f221f811931f78246c43325f497"],"id":"id-457","last_modified":1780306439088,"schema":1780306402450}
