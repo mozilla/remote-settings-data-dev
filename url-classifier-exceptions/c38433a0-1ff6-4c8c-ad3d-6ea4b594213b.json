@@ -1,0 +1,1 @@
+{"bugIds":["2043162"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c38433a0-1ff6-4c8c-ad3d-6ea4b594213b","last_modified":1780366214631,"schema":1780272021759,"topLevelUrlPattern":"*://mais.sbt.com.br/*","urlPattern":"*://pubads.g.doubleclick.net/*"}

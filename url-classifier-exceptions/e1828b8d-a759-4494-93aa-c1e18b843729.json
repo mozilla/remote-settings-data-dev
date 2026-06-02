@@ -1,0 +1,1 @@
+{"bugIds":["2040910"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e1828b8d-a759-4494-93aa-c1e18b843729","last_modified":1780366214750,"schema":1780366214201,"topLevelUrlPattern":"*://www.manoramaonline.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

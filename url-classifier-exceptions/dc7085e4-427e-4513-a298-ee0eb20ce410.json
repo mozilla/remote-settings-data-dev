@@ -1,0 +1,1 @@
+{"bugIds":["2042685"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dc7085e4-427e-4513-a298-ee0eb20ce410","last_modified":1780366214686,"schema":1780366213248,"topLevelUrlPattern":"*://www.kingarthurbaking.com/*","urlPattern":"*://rapid-cdn.yottaa.com/*"}
