@@ -1,0 +1,1 @@
+{"bugIds":["2038743"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d74366f7-cccf-4b9e-9bff-081e3a299225","last_modified":1780452611125,"schema":1780366214970,"topLevelUrlPattern":"*://account.bellmedia.ca/*","urlPattern":"*://identity.mparticle.com/*"}
