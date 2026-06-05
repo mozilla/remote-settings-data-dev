@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): ATL::AtlComPtrAssign","hashes":["8cae9bae3ca281b772bd2579f219cce6fcbbebcc3f0fd10e931b217bc82fdd76"],"id":"id-203","last_modified":1780566819299,"schema":1780566352414}
+{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["30d467062073521b55d08605a185be57fc0df9ba56cb84337c6ebff55448017d"],"id":"id-203","last_modified":1780656829287,"schema":1780656352806}
