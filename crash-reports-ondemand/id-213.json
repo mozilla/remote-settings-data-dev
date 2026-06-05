@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["647c29019520d66c19ab83d1f7014b2e773a8a4edd9ba61f8041e748ef903d9c"],"id":"id-213","last_modified":1780566820553,"schema":1780566370121}
+{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::ProcessRuntime","hashes":["2959058e55806cc43b21c4081232fd8a61bed76e17a4471e367a15382e768616","cce1567b8f317f9cc82ae37f085879bceead41601313b1fb5c74a1cfd0533e6a"],"id":"id-213","last_modified":1780656830610,"schema":1780656370597}

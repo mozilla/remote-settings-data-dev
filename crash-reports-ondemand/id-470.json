@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::net::HttpChannelChild::ConnectParent","hashes":["e6f8e0fbcce1ce1143a1b2468cb3de81228609dec9a4100ab93076e22726c132","a404b58cbfb0a7690ba8999687fe9e03ddff52f02aad388f3a8c2f34d226e0a6"],"id":"id-470","last_modified":1780566821143,"schema":1780566804807}
+{"description":"socket (Linux release): mozilla::InstallSyscallFilter","hashes":["378e6d894528666d457209a54a18417bcefbc5e138790fae9cb28cc9756b7792","1e13b541d2293943aba8589047ab47ba16c64486be9292b6754d1b15a7de050b"],"id":"id-470","last_modified":1780656831287,"schema":1780656806514}
