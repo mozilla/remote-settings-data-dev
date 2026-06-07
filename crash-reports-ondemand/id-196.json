@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | large | NS_ABORT_OOM | mozilla::AudioSegment::Mix","hashes":["cf84e9e97ad3094c7badf06332a8e4ea54a5a0c3d9c6a9fc53fe23ea15bfca31","30a3a24c77dfc7c20ffdb6e14bd886ae094238b6ec0474063119b5aac4a7fec2"],"id":"id-196","last_modified":1780656830628,"schema":1780656341433}
+{"description":"utility (Windows beta): CThumbnailLookupTable::IsThumbnailAssigned","hashes":["6d57a4f9982038779e6fa487083843f700f3db1ade60132e0db11766a432e31e"],"id":"id-196","last_modified":1780822431994,"schema":1780821942914}
