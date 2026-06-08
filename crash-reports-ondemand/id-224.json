@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["d552682fe5cb574798d1ee70f6281a202f34c5244ac3b3028be9b2c6ed5f0c89"],"id":"id-224","last_modified":1780822432326,"schema":1780821991833}
+{"description":"utility (Mac beta): @0x0 | mozilla::ProfilerChild::RecvStop","hashes":["a02eff8b98448b5dc2fe504a8750366fc63232652516032efd408700eb307062"],"id":"id-224","last_modified":1780908874143,"schema":1780908419933}
