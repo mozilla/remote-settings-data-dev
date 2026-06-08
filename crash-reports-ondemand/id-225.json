@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::ipc::WeakActorLifecycleProxy::AddRef","hashes":["82c51c2ae8b3b263fa4099fd054e94c074e3ed32b85203013cb40b01cf14eccb"],"id":"id-225","last_modified":1780822430235,"schema":1780821993500}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["a73e41ac5e8121e340edac2d4bdb5cefdf2c33cb78147ad09a162b1052840f1b"],"id":"id-225","last_modified":1780908871568,"schema":1780908421654}
