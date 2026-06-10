@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | memcpy | mozilla::detail::SprintfAppend::append","hashes":["080ba59d87a47a919fc6485bc3e6d3aacbf0e5a8b9f0a49673b95b9e76d9d274"],"id":"id-460","last_modified":1780908873500,"schema":1780908827970}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["23d82e0346f01da977db727835044ef715f3ed6817c476475fd6469e34c3c961"],"id":"id-460","last_modified":1781084668524,"schema":1781084617339}
