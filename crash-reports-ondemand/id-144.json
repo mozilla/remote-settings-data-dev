@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::InCollectedNurseryRegion","hashes":["5b757ac06bea126648b5660da3caf978b49123f9aafdec09226e72ceb5e405ca","66d619c0d42aad402a2fcdfc67dc2732997ebaf58e3bd5a0722d4152bfe09134"],"id":"id-144","last_modified":1780908871675,"schema":1780908275459}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["b3a6097b94d5ec132d2915ce2eb10c4065cefe04571851e04061be2ef681f24b","0996557b28d5b62cd7b405c1b6961b808671bd7e66c9efce9bb52cd2ab2f68ac"],"id":"id-144","last_modified":1781084666713,"schema":1781084069645}
