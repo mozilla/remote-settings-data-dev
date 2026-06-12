@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <style::values::generics::Optional<T> as core::clone::Clone>::clone","hashes":["2cbd32c5245043837f08ee2dc9011a6027e31d81832ee1aa2a49d465978a68a1"],"id":"id-123","last_modified":1781168679121,"schema":1781168033160}
+{"description":"gpu (Mac beta): core::option::unwrap_failed","hashes":["2996e52c4bd2d13493b970ea72045a2bb2756103c7bc917c25c358536a0d16b7"],"id":"id-123","last_modified":1781254500152,"schema":1781253836551}

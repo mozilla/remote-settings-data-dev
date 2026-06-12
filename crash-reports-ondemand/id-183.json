@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["8bd1ff86915b86b59dc8e9031d0db419205c8ff37b830435ddc6e831408ecfde","41e0b789da570e169ef78842fec1edae0e2e654dbab67d2e15868a7e5e614281"],"id":"id-183","last_modified":1781168678486,"schema":1781168143501}
+{"description":"gpu (Linux release): abort | <.text ELF section in libnvidia-eglcore.so.580.159.03>","hashes":["61e3152ac983340ceeff1a5fcd4715c558fa945a554fe243afb6d2e03e666178"],"id":"id-183","last_modified":1781254499656,"schema":1781253943918}
