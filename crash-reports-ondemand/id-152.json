@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): core::option::unwrap_failed","hashes":["a6fd73bcdcf06681606b9a2bb4abcc0c243736d5a0a1b8c4b6234d8a57d43070"],"id":"id-152","last_modified":1781168680997,"schema":1781168085676}
+{"description":"content (Android beta): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["d1036ede950416cd27f7841fa8ef85ba02acd57afc8004f280a94028a85c1af7","0a2cee678d64c06610ad1b415ec0d805b9cf4fc1563c9131757198feebc9e7cb"],"id":"id-152","last_modified":1781254501646,"schema":1781253888091}

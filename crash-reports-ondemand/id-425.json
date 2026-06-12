@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::MozPromise<T>::ChainTo","hashes":["a5118cc877797da76b4c2c7e27bf373a1594073f5c49ef6a61affb54385191e3"],"id":"id-425","last_modified":1781168680798,"schema":1781168583371}
+{"description":"socket (Mac release): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["202b66cdcf57c7df28dcaa025408a76fbaf898407104a26eef3e6f6cd952e3fa"],"id":"id-425","last_modified":1781254501499,"schema":1781254397928}
