@@ -1,0 +1,1 @@
+{"bugIds":["2044934"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f8a6396a-d615-443f-958b-1b7e9c401cf0","last_modified":1781230218840,"schema":1781230217542,"topLevelUrlPattern":"*://theprovince.com/*","urlPattern":"*://www.npttech.com/*"}

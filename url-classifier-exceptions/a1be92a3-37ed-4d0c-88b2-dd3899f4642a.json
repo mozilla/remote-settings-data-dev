@@ -1,0 +1,1 @@
+{"bugIds":["2046429"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a1be92a3-37ed-4d0c-88b2-dd3899f4642a","last_modified":1781230218793,"schema":1781230214032,"topLevelUrlPattern":"*://13tv.co.il/*","urlPattern":"*://www3.doubleclick.net/*"}

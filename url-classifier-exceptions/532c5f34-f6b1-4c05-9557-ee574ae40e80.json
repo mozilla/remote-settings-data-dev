@@ -1,0 +1,1 @@
+{"bugIds":["2046409"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"532c5f34-f6b1-4c05-9557-ee574ae40e80","last_modified":1781230218909,"schema":1781230214640,"topLevelUrlPattern":"*://app.strengthlog.com/*","urlPattern":"*://www.google-analytics.com/*"}

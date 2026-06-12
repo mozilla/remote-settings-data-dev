@@ -1,0 +1,1 @@
+{"bugIds":["2046100"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ceed7ea2-94ad-4c93-a27b-159f84b397fb","last_modified":1781230218939,"schema":1781230215083,"topLevelUrlPattern":"*://onio.club/*","urlPattern":"*://*.cbox.ws/*"}

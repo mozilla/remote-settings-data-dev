@@ -1,0 +1,1 @@
+{"bugIds":["2046420"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d66689f2-75b6-4c25-81f6-b4cebc3ad9cc","last_modified":1781230218876,"schema":1781230214324,"topLevelUrlPattern":"*://shop.muji.tw/*","urlPattern":"*://*.91app.com/*"}

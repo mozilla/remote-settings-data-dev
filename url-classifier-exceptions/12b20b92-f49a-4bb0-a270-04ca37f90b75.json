@@ -1,0 +1,1 @@
+{"bugIds":["2046424"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"12b20b92-f49a-4bb0-a270-04ca37f90b75","last_modified":1781230218858,"schema":1781230214171,"topLevelUrlPattern":"*://noithatmego.com/*","urlPattern":"*://bizweb.dktcdn.net/*"}

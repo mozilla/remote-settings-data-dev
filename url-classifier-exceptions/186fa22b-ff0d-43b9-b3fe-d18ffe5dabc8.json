@@ -1,0 +1,1 @@
+{"bugIds":["2046429"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"186fa22b-ff0d-43b9-b3fe-d18ffe5dabc8","last_modified":1781230218829,"schema":1781230213879,"topLevelUrlPattern":"*://13tv.co.il/*","urlPattern":"*://cdn.taboola.com/*"}

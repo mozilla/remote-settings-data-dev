@@ -1,0 +1,1 @@
+{"bugIds":["2046409"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"130fac71-f085-4f5f-a3e9-3ada8e583a14","last_modified":1781230218920,"schema":1781230214779,"topLevelUrlPattern":"*://app.strengthlog.com/*","urlPattern":"*://connect.facebook.net/*"}

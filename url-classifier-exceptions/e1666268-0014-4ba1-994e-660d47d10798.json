@@ -1,0 +1,1 @@
+{"bugIds":["2045675"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e1666268-0014-4ba1-994e-660d47d10798","last_modified":1781230218833,"schema":1781230216054,"topLevelUrlPattern":"*://www.simpmusic.org/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

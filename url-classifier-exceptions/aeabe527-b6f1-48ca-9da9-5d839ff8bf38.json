@@ -1,0 +1,1 @@
+{"bugIds":["2043167"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"aeabe527-b6f1-48ca-9da9-5d839ff8bf38","last_modified":1781230218984,"schema":1781230218491,"topLevelUrlPattern":"*://www.pantamera.nu/*","urlPattern":"*://cg.optimizely.com/*"}
