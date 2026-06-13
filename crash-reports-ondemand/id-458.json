@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["3113ce2a7bad9e0e4f8c8b6e3731dbab431e39be5bad83eb04807c638a43d82c","d37e7e9035ea20e30d5e798aeaf2f98d184608ea5a73ffb9b211f4450487c1c9"],"id":"id-458","last_modified":1781254501675,"schema":1781254459020}
+{"description":"content (Android nightly): mozilla::MozPromise<T>::ChainTo","hashes":["a5118cc877797da76b4c2c7e27bf373a1594073f5c49ef6a61affb54385191e3"],"id":"id-458","last_modified":1781341485776,"schema":1781341440651}
