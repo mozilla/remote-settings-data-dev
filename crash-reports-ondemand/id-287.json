@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libmpvr.so","hashes":["d18334fc80d8f9836036d2f49da6b666e6dfd440394d4afe633bae8f40769dcf"],"id":"id-287","last_modified":1781254500103,"schema":1781254136458}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["f11147f55138ee1e9c4a174942481e7a1b34452afea47fc6d08818b3de12205a","c12bcb7753bbcd5705dc630627ee8e0b99c6e88f8a50a2c2b789e55772428153"],"id":"id-287","last_modified":1781341484187,"schema":1781341129790}
