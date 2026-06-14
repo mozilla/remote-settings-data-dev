@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): stackoverflow | CComCatalog::GetClassInfoInternal","hashes":["668780315ef5f0975104f5bf11c59fee194d624fb60974dd21991594a595faf2"],"id":"id-341","last_modified":1781341484831,"schema":1781341230030}
+{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["f70fe9fe5913e2e97c11c4aeaae7f9724277b532cdf5afcf9f4204a7182ced8a"],"id":"id-341","last_modified":1781426691411,"schema":1781426433245}

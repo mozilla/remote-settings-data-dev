@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::AllocSite::zone","hashes":["c2cd2617583f65da1aee43d2c7adf0f61ed447dc2fdd96438686bdc453f05d5c","e06600b7ec5cb77b7709ecf25162f76bd08788ea7b487deaac45d9355b6eb845"],"id":"id-413","last_modified":1781341484612,"schema":1781341359054}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["56a8aa11f1a6fb064851c0af96462cf6094520acbfa077d1adf9c030d6989b82","0996557b28d5b62cd7b405c1b6961b808671bd7e66c9efce9bb52cd2ab2f68ac"],"id":"id-413","last_modified":1781426691211,"schema":1781426565284}
