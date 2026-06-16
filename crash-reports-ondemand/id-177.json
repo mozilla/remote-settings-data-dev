@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::MonitorAutoLockBase<T>::MonitorAutoLockBase","hashes":["ff5391ba99414daefa984437b4e44ce79adda098bb6617294be02da13211f472","a89c5d0dc6f0f65e96767ec875a0ce4144f9b9c8b1c338a04389f763f345d19c"],"id":"id-177","last_modified":1781426693634,"schema":1781426133822}
+{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["0be2a4976f8151ecd2729a7183e63b86b55c87ea963988394214ee2976849aa3"],"id":"id-177","last_modified":1781602513685,"schema":1781601933157}
