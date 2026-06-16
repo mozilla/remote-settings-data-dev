@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::ThreadSafeWorkerRef::Private","hashes":["2f1a491cfa8ee0c320d64270fe10ca0a1869461fa8f6cf172cf2d92a61e3bee2","448b415304057c9984d74197bfe179a609f1ee70c7897ad0302471e7f0810380"],"id":"id-315","last_modified":1781426691689,"schema":1781426383634}
+{"description":"content (Linux nightly): js::gc::Cell::storeBuffer","hashes":["671d55655a5a31fa76aadc8de3469e86f057ff1badea8c703262539dca4bdc44","a860747bdf9a279ae9b4aa2b0088ee67af9eec504370c0ec55f544de54b81bc5"],"id":"id-315","last_modified":1781602511663,"schema":1781602191815}

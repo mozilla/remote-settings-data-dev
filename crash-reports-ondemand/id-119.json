@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::ContentCache::AssertIfInvalid","hashes":["59d195485b17b4aec73c82b56f29f70d0598486986598e6663816502fa28c183","bd55d168cecd9c58c57bcf5a6aa21bb401e085f502aa2e524bd7ed740f3829b5"],"id":"id-119","last_modified":1781426690314,"schema":1781426028454}
+{"description":"socket (Mac release): mozilla::ipc::NodeChannel::OnMessageReceived","hashes":["63c6ebef9fa2af8667375cdc2d77fd8a9759568182ce607a195c85fdb3aab500"],"id":"id-119","last_modified":1781602510106,"schema":1781601829013}
