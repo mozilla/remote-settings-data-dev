@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["f70fe9fe5913e2e97c11c4aeaae7f9724277b532cdf5afcf9f4204a7182ced8a"],"id":"id-270","last_modified":1781602510678,"schema":1781602106353}
+{"description":"main (Mac beta): JS::shadow::Zone::hasAnyGCState","hashes":["3af5616e0bf1a535decb925d13012f5d4e8a077c38ac69aad1598a7755b79798"],"id":"id-270","last_modified":1781687096089,"schema":1781686697851}

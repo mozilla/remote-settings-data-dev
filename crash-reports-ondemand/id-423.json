@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): libnvidia-glcore.so.340.108","hashes":["3c8e9d2dc2717d0892c674af5dd3e1d6d87062bf9825a378a958c92c817dab29"],"id":"id-423","last_modified":1781602511644,"schema":1781602398167}
+{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["9e4dbc22a1556f7ae143544ed132064d3675de5954ea95a198462643f81948ab","1a837d128ed65b793e8632b65048dab752c48394f4bcb9b95705fc1ef9f2de4e","2ff7ba0fe5cfc799bedbe59d971de9c0b7033d3625abe1e799a53d335b2cf332"],"id":"id-423","last_modified":1781687096806,"schema":1781686978288}

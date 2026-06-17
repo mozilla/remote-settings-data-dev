@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsComponentManagerImpl::Init","hashes":["cbfd850e86b3974e72c1d473b414a199308b7840899590d156544989be80e27f"],"id":"id-236","last_modified":1781602511196,"schema":1781602043802}
+{"description":"gpu (Mac nightly): wgpu_core::storage::Storage<T>::remove","hashes":["35fcb040686edf59fd0808393c9a9eee019f6ad35f629c675f70b818ae494033"],"id":"id-236","last_modified":1781687096490,"schema":1781686636422}
