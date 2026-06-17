@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): arena_dalloc | <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::dealloc","hashes":["9640f3cab1127ca423d0f2a185a17e36a0bcd1a462322074ca1da520f8857299"],"id":"id-463","last_modified":1781602513642,"schema":1781602470680}
+{"description":"content (Android beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["7180b94c89b7fdd1a072ab6e3b54b63b5e7e20bcae5974d4d762b33c8b30b70d","982660ed3e4ca9837bc8eb4f4ce0887eb0e9e9456c361194edea3b16652c5792"],"id":"id-463","last_modified":1781687098495,"schema":1781687050551}

@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): JSScript::getScope","hashes":["1dddbd2c2e373b01eb6e4d570285b49976bcb2768970e76c9716b04ebf89cc23","53be5fd4fe5a9b94dc669c4c0541b1fbf976e042292d2b4a9bb33223c46a25b1"],"id":"id-328","last_modified":1781602512840,"schema":1781602216459}
+{"description":"content (Mac beta): JS::shadow::Zone::gcState","hashes":["51d2f868263d45ffd97462ef7d4ad065a20f6be5b5889fbfa2cf251a6992357f","a5233b1f1bef3ef41e67c4e196fb5545ae93c3b8ada72d8b6f07bd659c7c96a2"],"id":"id-328","last_modified":1781687097908,"schema":1781686801555}

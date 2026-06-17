@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): _dispatch_main_queue_drain.cold.5","hashes":["99ddf8eb091b5dae0a821220e0c0041707b028c80a8e4eda6f7e84ee1ffc9eec"],"id":"id-452","last_modified":1781602513761,"schema":1781602451192}
+{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["87994c48a2e64818de39c28f375f2b0345a58eb0b6cf3b4a77c9adabe26447aa","9abc1258d0f3d0f3a2486bcac82b35bf55a0aa3445a1af5099c9e8a7e102998f"],"id":"id-452","last_modified":1781687098582,"schema":1781687030795}
