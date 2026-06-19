@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::hit_test::HitTester::hit_test","hashes":["ebe33affd860a0bd4fb5f82fd7ea42865d0b49802f114006a0170aa54ee0ff79"],"id":"id-023","last_modified":1781687098667,"schema":1781686253545}
+{"description":"socket (Mac release): mozilla::StaticMutex::Lock","hashes":["e6c2cea84ca3f8f86dcd9665f758a284f429d6a0c7e97a14b38d22f46beab92f"],"id":"id-023","last_modified":1781863525898,"schema":1781862653079}

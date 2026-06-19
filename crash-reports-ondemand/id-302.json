@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["1c9184367a9e1a62b1ad87d2d77764af30e9582a83a0b986c1e3a41e88a7bf63","626a79bf3aec4f18aadd7e9e1db162130a97d8ff0aa8cc01b7e07c5429ba722d"],"id":"id-302","last_modified":1781687097668,"schema":1781686754515}
+{"description":"socket (Linux release): AllocInfo::GetInChunk","hashes":["af69fe7a734b6c2874be04736f7344feb51dca7c374444145a78a6a64cac215b","3d7d5901265936edb19617322f7d7e88c39f3352a36cee2510dc1a8197804f16"],"id":"id-302","last_modified":1781863524882,"schema":1781863162561}
