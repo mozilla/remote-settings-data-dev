@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): objc_msgSend | hook.dylib","hashes":["cc0dae8db28ca212d10b678df9e27442d33f553cee9e10f5030a36cdab8bd444"],"id":"id-465","last_modified":1781687096326,"schema":1781687053836}
+{"description":"main (Mac beta): mozilla::dom::ContentParent::StorePendingLoadState","hashes":["d67766571ed04c3b36f1bfde0d298c3389ae141a4cf79c97b114938ad2a3d15b"],"id":"id-465","last_modified":1781863523359,"schema":1781863480373}

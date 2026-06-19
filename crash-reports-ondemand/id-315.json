@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["3d6fa0ed376da70955750baa2c2a63fa69abd7bb9529056174fe00944404cbc4"],"id":"id-315","last_modified":1781687096821,"schema":1781686779584}
+{"description":"socket (Linux release): firefox","hashes":["89b1cc422ecda7771e2e7852c1a7b33e81a9c61d62bbe30af896f18bdfcdaad6"],"id":"id-315","last_modified":1781863523893,"schema":1781863185934}
