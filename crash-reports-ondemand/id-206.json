@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): core::option::expect_failed | <std::collections::hash::map::HashMap<K, V, S, A> as core::ops::index::Index<&Q>>::index","hashes":["e971ed0d9a43e1c3a3908f93bc2495dc5efa2bac9739bfaf4948493abce9661d"],"id":"id-206","last_modified":1781950481147,"schema":1781949986067}
+{"description":"gpu (Mac nightly): wgpu_core::indirect_validation::draw::calculate_src_offsets","hashes":["680ac5f83b6edbe2b3e802d833d989aa4a2417bcac97e98453ef3956a592ae01"],"id":"id-206","last_modified":1782034471874,"schema":1782033972649}

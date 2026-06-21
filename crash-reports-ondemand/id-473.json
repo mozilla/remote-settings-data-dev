@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): wgpu_core::command::memory_init::<T>::initialize_buffer_memory","hashes":["86ebd3390d9aab011408ada7abd5c9eb668f0f018a994939598ccd83d5638591"],"id":"id-473","last_modified":1781950481931,"schema":1781950465675}
+{"description":"socket (Mac release): mozilla::StaticMutex::Lock","hashes":["e6c2cea84ca3f8f86dcd9665f758a284f429d6a0c7e97a14b38d22f46beab92f"],"id":"id-473","last_modified":1782034472619,"schema":1782034458541}

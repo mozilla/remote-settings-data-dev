@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["a3cf379707fcdf920282c2f4c4da8a8c5c160935e7f057dd9dae5e2b3830d31a"],"id":"id-208","last_modified":1781950481236,"schema":1781949989496}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["79239fb3ef13e2152ac1e596b7dcf274d89d6895e7807f55539303e1b776a345"],"id":"id-208","last_modified":1782034471936,"schema":1782033975993}
