@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::nsTStringLengthStorage<T>::operator unsigned long","hashes":["f3963d0bcb884b58f9794ecaa73629bf40ed3a7bd4f5440ecda8b94f2b1ee9e7"],"id":"id-464","last_modified":1781950480354,"schema":1781950450231}
+{"description":"gpu (Mac nightly): wgpu_core::command::memory_init::<T>::initialize_buffer_memory","hashes":["86ebd3390d9aab011408ada7abd5c9eb668f0f018a994939598ccd83d5638591"],"id":"id-464","last_modified":1782034471313,"schema":1782034443118}
