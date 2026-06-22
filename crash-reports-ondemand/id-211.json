@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0f5151e99905d13ecd470cbb5913d985c4d23118ee67faaedd13fa99707a40ed"],"id":"id-211","last_modified":1782034472109,"schema":1782033981125}
+{"description":"socket (Linux release): sftk_InitGeneric","hashes":["297ac1921b5ecd2497a02dd51c94ef224f0e205bf3c1a5c5480d6e9488ba627f"],"id":"id-211","last_modified":1782116669086,"schema":1782116186074}
