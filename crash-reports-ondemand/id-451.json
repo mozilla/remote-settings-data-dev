@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): objc_release | -[EXExtensionPointEnumerator nextObject]","hashes":["35e08e447bd0fc8ac1a6be05ecb78dd8a9cd69a0ceee5f8a251ea513a9ddebc8"],"id":"id-451","last_modified":1782034470970,"schema":1782034419306}
+{"description":"gpu (Mac nightly): wgpu_core::command::memory_init::<T>::initialize_buffer_memory","hashes":["86ebd3390d9aab011408ada7abd5c9eb668f0f018a994939598ccd83d5638591"],"id":"id-451","last_modified":1782116667152,"schema":1782116615834}
