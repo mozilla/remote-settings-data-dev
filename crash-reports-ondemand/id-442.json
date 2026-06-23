@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): OOM | small","hashes":["9d0d898b5b65e7fcb156a98f4e1ad87e67b54c38049209b910cd7a25b07b41c9","60c66e25b3059a388851fdefb2db62f9affb245b9d52e7ad6d34c10863fb10c0"],"id":"id-442","last_modified":1782116668106,"schema":1782116600551}
+{"description":"rdd (Linux nightly): mozilla::MozPromise<T>::ThenValueBase::DoResolveOrReject","hashes":["edc2f72ca2b109ed37cbdf3bf0a85820887d008c6457fbad5b31edd18f7d89a0"],"id":"id-442","last_modified":1782205431687,"schema":1782205367140}
