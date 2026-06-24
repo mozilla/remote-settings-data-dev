@@ -1,0 +1,1 @@
+{"bugIds":["2048222"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f072c9f0-c396-4be7-abe8-09104ec36ffb","last_modified":1782267010969,"schema":1782267010582,"topLevelUrlPattern":"*://torder.net/*","urlPattern":"*://bizweb.dktcdn.net/*"}
