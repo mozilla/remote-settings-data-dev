@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["6bef20a40d2a21e0fcd685d34b414810a7230bfd3e4de309d607523772eddc5f"],"id":"id-329","last_modified":1782205431725,"schema":1782205159572}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["1e813eb4e11987d07102678bba06dead9aafb88c8db3293f7315fe53b51b60c2"],"id":"id-329","last_modified":1782297228415,"schema":1782296967867}
