@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): xul.dll | nss3.dll | ucrtbase.dll | kernel32.dll | ntdll.dll","hashes":["0571b7623b7d1b046eecc9483f79d5b6797cddcb7091748e531f56e6adc29492","4a098d2ae9172379aa80aeaa732656a5b79578390f54d4694480cf63f60296d1"],"id":"id-192","last_modified":1782297226927,"schema":1782296736322}
+{"description":"socket (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["0be499c944c505bf24b13d86c929393f09d43f404cd224d61be24542f81bf59b"],"id":"id-192","last_modified":1782376403934,"schema":1782375929784}

@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ipc::MessageChannel::AssertWorkerThread | mozilla::ipc::MessageChannel::MessageTask::Run","hashes":["6b1ac7d4b9bf65eb56293231070bc05b3fdded2e776aaf8c0aef227a65308bc8"],"id":"id-366","last_modified":1782297227473,"schema":1782297044724}
+{"description":"socket (Linux release): core::ops::function::FnOnce::call_once","hashes":["b6ced9880ef0f85244196644a312ef19aa65ef4340c6112fd04cab1d011216ee"],"id":"id-366","last_modified":1782376404358,"schema":1782376227464}
