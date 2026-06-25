@@ -1,0 +1,1 @@
+{"bugIds":["2050004"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"57d5b841-4f96-477b-b1a8-b986d7ac72af","last_modified":1782353413283,"schema":1782353413045,"topLevelUrlPattern":"*://order.online/*","urlPattern":"*://*.cdn4dd.com/*"}
