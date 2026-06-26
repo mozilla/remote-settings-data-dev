@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["0def774ec3b062218a60d86f17f9eed0a6fd16c897f780d8f696397c5288c06a","04a78fd79fa8c81ce01f1d99d25810c88d55493e3a30a095092c3118f7d1aff7"],"id":"id-225","last_modified":1782376404341,"schema":1782375983978}
+{"description":"socket (Mac release): mozilla::TransportFlow::GetLayer","hashes":["8516ec67c4ab7111a99bec691b61900d3670a66fd75dc9961b76c070a79267a0"],"id":"id-225","last_modified":1782462817124,"schema":1782462390008}

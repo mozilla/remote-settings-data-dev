@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): nsWrapperCache::HasFlag","hashes":["25b6af7881ac261b44decc8476239b909881c5f14b1a4865677c12e533d74ec7"],"id":"id-440","last_modified":1782376404556,"schema":1782376351233}
+{"description":"content (Mac beta): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::Vector<T>::operator[] | js::frontend::ParserAtomsTable::getParserAtom","hashes":["585caf153e31b5da1523b03c7e2b0ce7de05f5c055e8ed78cca47c6ace35eb48"],"id":"id-440","last_modified":1782462817436,"schema":1782462766783}
