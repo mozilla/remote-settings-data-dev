@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["4253876737e5be84b4c728db58dd9b82fad751ae636687799b613b063816853c"],"id":"id-441","last_modified":1782376405089,"schema":1782376352811}
+{"description":"utility (Windows beta): xul.dll | nss3.dll | ucrtbase.dll | kernel32.dll | ntdll.dll","hashes":["0571b7623b7d1b046eecc9483f79d5b6797cddcb7091748e531f56e6adc29492","4a098d2ae9172379aa80aeaa732656a5b79578390f54d4694480cf63f60296d1"],"id":"id-441","last_modified":1782462818115,"schema":1782462768638}
