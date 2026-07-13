@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::ipc::MessageChannel::MessageTask::Post","hashes":["607874edd20ee022564797468e60fe7e683263a764a3e9e19ffe85abf76772db"],"id":"id-392","last_modified":1782462818643,"schema":1782462685265}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["ba3b03db4183fed8c9545dc26b47ed0fd970bbe5e9d03f25295fd7cce12178aa"],"id":"id-392","last_modified":1783935222059,"schema":1783935081902}
