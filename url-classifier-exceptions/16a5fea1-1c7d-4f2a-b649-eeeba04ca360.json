@@ -1,0 +1,1 @@
+{"bugIds":["2048928"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"16a5fea1-1c7d-4f2a-b649-eeeba04ca360","last_modified":1783044613201,"schema":1783044612898,"topLevelUrlPattern":"*://account.deezer.com/*","urlPattern":"*://connect.facebook.net/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2052203"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9f4d4f0d-93b8-45c3-9390-c57f789fc47d","last_modified":1783131011057,"schema":1783044613744,"topLevelUrlPattern":"*://www.boredpanda.com/*","urlPattern":"*://insight.adsrvr.org/*"}

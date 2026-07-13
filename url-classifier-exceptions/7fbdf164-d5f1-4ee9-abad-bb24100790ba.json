@@ -1,0 +1,1 @@
+{"bugIds":["2050829"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7fbdf164-d5f1-4ee9-abad-bb24100790ba","last_modified":1783044613188,"schema":1783044612563,"topLevelUrlPattern":"*://www.bearboss.com/*","urlPattern":"*://cms-static.cdn.91app.com/*"}

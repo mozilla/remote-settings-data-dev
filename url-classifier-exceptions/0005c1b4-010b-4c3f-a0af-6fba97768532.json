@@ -1,0 +1,1 @@
+{"bugIds":["2051668"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0005c1b4-010b-4c3f-a0af-6fba97768532","last_modified":1783044613140,"schema":1783044611615,"topLevelUrlPattern":"*://www.unimart.com/*","urlPattern":"*://swymstore-v3premium-01.swymrelay.com/*"}
