@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): objc_msgSend | _dispatch_call_block_and_release","hashes":["efc74d79a53e84e0eb20eed39a3ed83e6d5426659784024609d9d6bab00ef5f1","dfdb208acb2795901eef4de25b510d5c571a548e72de2b9f80c5ca0a2348c2a8"],"id":"id-376","last_modified":1783935220794,"schema":1783935055181}
+{"description":"utility (Mac release): <ron::ser::Compound<W> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["6d5037390c0afd3ebfe90321ffa0a6eaed8ccf1794b4a8c61b2dfe4f4ed52648"],"id":"id-376","last_modified":1784022211861,"schema":1784022047516}
