@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): gralloc.rogue.so","hashes":["699809c2f2cf8a7d580c7d965201753b3d0b616abf8ff8d64a3912719253910b","39ff17a7e1cab256a78f8eb586b1e3da6335023be3e5ffc52a09a0f9212149a7"],"id":"id-303","last_modified":1784022213244,"schema":1784021923160}
+{"description":"utility (Mac release): <ron::ser::Compound<W> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["6d5037390c0afd3ebfe90321ffa0a6eaed8ccf1794b4a8c61b2dfe4f4ed52648"],"id":"id-303","last_modified":1784114016751,"schema":1784113731980}

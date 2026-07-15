@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::Http2Session::VerifyStream","hashes":["a5ae0b0b18f810d91978ef39fd2094343eeb2d4e54df34a9406ad3b8791f5ffb","8835a893c88ec74ecd7585cfc094d65cf6d7e503d2cfcb0ef13f638a1b133bc7"],"id":"id-271","last_modified":1784022213199,"schema":1784021870385}
+{"description":"main (Mac beta): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["b0d9c9a41ab34991b83617e0875f56161a0f61e6c51899bfede7b2051e3d83ce"],"id":"id-271","last_modified":1784114016704,"schema":1784113676038}
