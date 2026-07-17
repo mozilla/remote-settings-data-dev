@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::NodeController::OnEventMessage","hashes":["1df68344bb8b0f0f5d4c31b2b850c01cbd58846dc75c285a39f124f7ceebbbf7"],"id":"id-405","last_modified":1784200439727,"schema":1784200319515}
+{"description":"main (Mac nightly): mozilla::PresShell::DoFlushPendingNotifications","hashes":["b52215c32803423998e1680dc533b48b4756c69704cc0c967c419fb477336466"],"id":"id-405","last_modified":1784279610915,"schema":1784279490477}
