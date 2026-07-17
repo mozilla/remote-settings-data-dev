@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RegGetValueW","hashes":["9f18a1a5a2d9925d14f6c679679137432e0408ccf6c770ce00f3bd7181e09ea1"],"id":"id-455","last_modified":1784200441136,"schema":1784200405454}
+{"description":"utility (Mac release): <ron::ser::Compound<W> as serde_core::ser::SerializeStruct>::serialize_field","hashes":["6d5037390c0afd3ebfe90321ffa0a6eaed8ccf1794b4a8c61b2dfe4f4ed52648"],"id":"id-455","last_modified":1784279613293,"schema":1784279574779}

@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): <.text ELF section in libnvidia-glcore.so.595.71.05>","hashes":["675bf0e0b57b096fcbc9597a5389aa4608ce4e6d7a2889944002bf99718934a3"],"id":"id-298","last_modified":1784200441462,"schema":1784200140934}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["a68f18a446f1219ebd64f66bc2982dfc508e6a5920d38670fbc2a7aed4190c4e"],"id":"id-298","last_modified":1784279613654,"schema":1784279314074}
