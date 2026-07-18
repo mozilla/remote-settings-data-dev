@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): js::gc::AllocSite::zone","hashes":["e03a6df4f2cbc45c1746023a9e3e5595498a1b73ff136bf67203e55b7bfadc9c","e38fd41aa14ade74b887259dcc58e426b3cdcbb7b98c0afdeb4c7b1df927f27c"],"id":"id-382","last_modified":1784279613260,"schema":1784279453026}
+{"description":"main (Mac nightly): JS::Heap<T>::exposeToActiveJS","hashes":["8d206e8db04c111e779bee539939d7dacc5cad37ea7df72e7cf99feb55e44db8"],"id":"id-382","last_modified":1784379844032,"schema":1784379693117}

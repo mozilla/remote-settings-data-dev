@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::SetThisProcessName","hashes":["784f5b3c9570678d29bf182448e251673f05ae96b95668103c31b5bc0b215d6b"],"id":"id-449","last_modified":1784279613668,"schema":1784279562681}
+{"description":"socket (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["24d3fea130c6d1d180d976240e7d4cbeb4897e302ce2659a43846bf670b8d946"],"id":"id-449","last_modified":1784379844426,"schema":1784379805030}
