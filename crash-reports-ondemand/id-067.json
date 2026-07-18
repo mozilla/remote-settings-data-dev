@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libglslcompiler.so","hashes":["ff66959b6de234c71f050e0077ae67edfe7af64d3aaf1418e1f05e015e2e76c2"],"id":"id-067","last_modified":1784279612523,"schema":1784278926953}
+{"description":"gpu (Mac nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["0ee3949a2aa3538f258142e92f09ffa3837f174887b2924226c9d093b1d6cef0"],"id":"id-067","last_modified":1784379843248,"schema":1784379124163}
