@@ -1,0 +1,1 @@
+{"bugIds":["2053121"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b4aca4bb-0ed1-4b03-aaa0-07c03a223e2a","last_modified":1784340613650,"schema":1784340611746,"topLevelUrlPattern":"*://store.minepeak.org/*","urlPattern":"*://headless.tebex.io/*"}

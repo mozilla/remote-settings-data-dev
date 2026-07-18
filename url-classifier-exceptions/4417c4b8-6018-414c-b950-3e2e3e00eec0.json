@@ -1,0 +1,1 @@
+{"bugIds":["2053353"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4417c4b8-6018-414c-b950-3e2e3e00eec0","last_modified":1784340613574,"schema":1784340611560,"topLevelUrlPattern":"*://netbank.nordea.fi/*","urlPattern":"*://tags.tiqcdn.com/*"}

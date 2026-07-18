@@ -1,0 +1,1 @@
+{"bugIds":["2054971"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"34605219-4096-44f7-87f9-ff9fd1a3e2d8","last_modified":1784340613582,"schema":1784340609164,"topLevelUrlPattern":"*://www.vodafone.de/*","urlPattern":"*://tags.tiqcdn.com/*"}

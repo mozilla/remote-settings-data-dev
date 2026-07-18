@@ -1,0 +1,1 @@
+{"bugIds":["2054893"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ee7bf4e0-07f2-4a4b-92d4-39ce4349977a","last_modified":1784340613600,"schema":1784340609367,"topLevelUrlPattern":"*://www.nfl.com/*","urlPattern":"*://p.nfltags.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2053168"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"420858b1-2d87-4879-90e4-0a41fd7a958e","last_modified":1784340613645,"schema":1784340611657,"topLevelUrlPattern":"*://www.rte.ie/*","urlPattern":"*://tag.aticdn.net/*"}

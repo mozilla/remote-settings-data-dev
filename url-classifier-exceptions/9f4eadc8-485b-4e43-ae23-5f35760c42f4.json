@@ -1,0 +1,1 @@
+{"bugIds":["2052835"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9f4eadc8-485b-4e43-ae23-5f35760c42f4","last_modified":1784340613579,"schema":1784340613137,"topLevelUrlPattern":"*://www.etrade.wallst.com/*","urlPattern":"*://etrade.api.wsod.com/*"}

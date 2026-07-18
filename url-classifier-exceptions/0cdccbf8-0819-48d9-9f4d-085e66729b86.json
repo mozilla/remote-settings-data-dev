@@ -1,0 +1,1 @@
+{"bugIds":["2054467"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0cdccbf8-0819-48d9-9f4d-085e66729b86","last_modified":1784340613627,"schema":1784340611115,"topLevelUrlPattern":"*://client.minitable.net/*","urlPattern":"*://*.ingest.sentry.io/*"}
