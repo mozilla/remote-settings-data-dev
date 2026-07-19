@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["5849bdc0daa7f9731100457230930572f9acb41de999b8a61bf751d18df7bb19"],"id":"id-458","last_modified":1784379844208,"schema":1784379819256}
+{"description":"utility (Mac release): mozilla::ipc::MessageChannel::SendMessageToLink | mozilla::ipc::MessageChannel::Send | mozilla::ipc::IProtocol::ChannelSend | mozilla::ipc::IPDLResolverInner::ResolveOrReject","hashes":["5aa527c0ad5461a7ff99b3008899ca199884853544d035db9eddbbcaa968f507"],"id":"id-458","last_modified":1784452392646,"schema":1784452370679}

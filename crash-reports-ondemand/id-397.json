@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::Omnijar::Init","hashes":["7ffaaaa528d8607e52724ce1a7af54f87bbb8b37325dc2d08fd3bb584cf1c60d","37949b1c1d5cfaf0b2219fe138be52d2ccc5e5c2f66e0ca108a0c87309dab4dd"],"id":"id-397","last_modified":1784379844772,"schema":1784379718449}
+{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["3ba4c38de76b819323a9a9c34a794ea25fa843b4f3e2199019dbe9edfa5318eb","4633e677cd13bef6019a6bc610d8a68f057fe5c9178a3ac1c151cfb394feb753"],"id":"id-397","last_modified":1784452393087,"schema":1784452270871}
