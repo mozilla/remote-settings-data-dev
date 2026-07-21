@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): objc_exception_rethrow | __NSWindowGetDisplayCycleObserverForLayout_block_invoke","hashes":["f22450a30ddfd19f974cb4a4e0644f1c721ca74e5b518beb310b95a51e1b09ca"],"id":"id-426","last_modified":1784536399792,"schema":1784536322413}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["a57fac3025e3ce0d3d9f0fe86908e23dc2fc0170588159691ed2e28af5a56771"],"id":"id-426","last_modified":1784623422269,"schema":1784623336295}

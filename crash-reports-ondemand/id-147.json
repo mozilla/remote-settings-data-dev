@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::detail::VectorImpl<T>::new_<T>","hashes":["3c83df6df0fdd4262dd9e25ff42a22140e8d69f657fcef045edbdbc22a44e55c","cf64f65bb831b88ed6ed5493872928f9934efae1a7abc4ccc12b836bfe2e2198"],"id":"id-147","last_modified":1784536398929,"schema":1784535848366}
+{"description":"gpu (Mac nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["0ee3949a2aa3538f258142e92f09ffa3837f174887b2924226c9d093b1d6cef0"],"id":"id-147","last_modified":1784623421312,"schema":1784622878574}
