@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::net::PSocketProcessChild::OnMessageReceived","hashes":["80949d61749f59203dad9c62b6593d4520ab7671dd279164def37e2e80de915f"],"id":"id-451","last_modified":1784623420071,"schema":1784623377292}
+{"description":"utility (Mac release): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | CopyableTArray<T>::~CopyableTArray","hashes":["6f83772dca067b84c264943b7fd14c2e471180a0a90e2fc222f0f76e5b33259b"],"id":"id-451","last_modified":1784795620884,"schema":1784795577922}
