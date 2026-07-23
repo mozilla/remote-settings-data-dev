@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["b4b4d55f08199c03ba765a9781cb2a03fb40417cc50727623b4295fcc5691d8b"],"id":"id-398","last_modified":1784623422423,"schema":1784623291523}
+{"description":"gpu (Android nightly): mozilla::gl::GLContextEGL::Cast","hashes":["1945c28d8cb91b0faa2ab40b64324986978b99e24408e66708e8ca7c43c0dfc8"],"id":"id-398","last_modified":1784795624258,"schema":1784795489408}
