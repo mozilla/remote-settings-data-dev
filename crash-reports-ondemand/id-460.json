@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): arena_t::GetNewEmptyBinRun | arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["acadeb47a474f5c3e6eea6cf385d831ada353c336db7cb203649eda41937dae7"],"id":"id-460","last_modified":1784879016064,"schema":1784879000863}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["635f49e40c4c0cc02d5275cf5611643c390e42085e97d21d1389ed03619ce68d"],"id":"id-460","last_modified":1784965993592,"schema":1784965973864}
