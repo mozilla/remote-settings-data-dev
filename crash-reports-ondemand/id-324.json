@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::net::PSocketProcessChild::OnMessageReceived","hashes":["80949d61749f59203dad9c62b6593d4520ab7671dd279164def37e2e80de915f"],"id":"id-324","last_modified":1784965993373,"schema":1784965746565}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["bad4f4c9ea3be4ecbcbea1e05c2020c113afae84f49e0e0e075485fc914031c0"],"id":"id-324","last_modified":1785053012655,"schema":1785052753692}

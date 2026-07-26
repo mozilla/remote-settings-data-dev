@@ -1,1 +1,1 @@
-{"description":"main (Android nightly): libart.so | libhwui.so","hashes":["1ff82137f00ed78679cec106615d969e7a36402e5c57f18c2485ee90f8ce2d8f","740878432074dd131f63bdbafdea7724d98f2c961fa0aa869b162102611882a9","21c34687ce6eef8ac13a76962e569152acb1ec3f50340c575b97a99dc6f9e9ed"],"id":"id-433","last_modified":1784965993545,"schema":1784965928569}
+{"description":"content (Android beta): libc.so | _ZL6memsetPvU17pass_object_size0im","hashes":["9302ae5f6a071bb00b5da5573b73aadd07fb3bded8fdb6d1c507ff1b71918424"],"id":"id-433","last_modified":1785053012818,"schema":1785052949200}

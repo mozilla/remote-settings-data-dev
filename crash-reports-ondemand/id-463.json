@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): @0x0 | mozilla::wr::RenderCompositorOGLSWGL::MaybeCaptureScreenPixels","hashes":["04dec3ba1f72465c70db5f094279721aa639394da0a65fcbc844816347ed26db","cd582754a44f45991834f6e49c0df9f74edecf3a942916c22d0dc253bed5670a"],"id":"id-463","last_modified":1784965993989,"schema":1784965978657}
+{"description":"gpu (Linux release): libxul.so","hashes":["ef4b8fb260a42495ebe0a468fb043ef50a19f2458e031c9dffdf5345210a6659"],"id":"id-463","last_modified":1785053013160,"schema":1785052997914}
