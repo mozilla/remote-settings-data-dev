@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["15e359dd769c16939f7524576eceec090cb36eb1e73fb9d65484951a266a93d4","b2f3e5862feef48bf016730f3c25d8e08fc8f2e8a209ba39c4124e6129f1ca11"],"id":"id-138","last_modified":1784965995539,"schema":1784965437253}
+{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["879394747b8b4078f1637f0dbc34f46dd1cca969910ea7ebaeb65c617cb4e72a","fcc34f02677b93eb1498ed6a59336920836758dde239c8ac9f69f2909933e787"],"id":"id-138","last_modified":1785053014778,"schema":1785052441923}
