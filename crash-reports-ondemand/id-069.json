@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): arena_chunk_t::arena_chunk_t | arena_t::InitChunk | arena_t::AllocRun | arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["6e514964414b1fd91c6148a0d940ab7858c3369e79e31c7e2b5b0ef8fb849cd0"],"id":"id-069","last_modified":1785053014593,"schema":1785052325234}
+{"description":"utility (Mac release): mozilla::ipc::Shmem::Segment::Release","hashes":["13c1869bd18044507ff95153de4cf18d26828034c1925f9d3f07c5d3844db2ed"],"id":"id-069","last_modified":1785139410272,"schema":1785138726412}

@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <f32 as core::ops::arith::Sub>::sub","hashes":["85bb0c05b063596ed1054dc7cf2a1cfd04eaa31ea35870f68e0a23c88e08256a"],"id":"id-338","last_modified":1785053014518,"schema":1785052776258}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["24b2a39874241007a74d6fda36b6caeff7c8de3af1ede6d8801707a22a5fa26b","4653be0bfa58037d9f7250c32e587b6db3c338517a6efa60fcb05e65c720356c"],"id":"id-338","last_modified":1785139410199,"schema":1785139172638}
