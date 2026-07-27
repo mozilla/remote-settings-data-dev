@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::gc::ChunkMarkBitmap::markIfUnmarked","hashes":["0efcff26e47e05ce725907502d42f300ddc095f50266a06475ee71ba4024d486"],"id":"id-289","last_modified":1785053012792,"schema":1785052695469}
+{"description":"content (Windows nightly): JS::shadow::Shape::isProxy","hashes":["e75648b31ddd4b27b131d60d24f0e4c44ab90c61bc16db095a2f30564c533599","7c2f46112066711824fc7039307fe941992683da2256109a4e9785e463c6db90","eaf454002b6d7d61fe99ddeb6045a79f7dbcec3473405d5062f33dbb6680398a"],"id":"id-289","last_modified":1785139408366,"schema":1785139092835}

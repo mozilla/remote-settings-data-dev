@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): mozilla::SetCurrentProcessSandbox","hashes":["5580eb8115271fc3a93ba07e87c20b36b5fe4272ea8c940a38943cbced52ae40","340743b5782a9d7eee58362f9f4e6a115a624bbd5aa4a2fb017a411484ae8800"],"id":"id-395","last_modified":1785053013114,"schema":1785052884040}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["2041f8e760a3cb4b3bca388b8399a6e3f7a13a1995ab27aa71eeba5e9af9e1dd"],"id":"id-395","last_modified":1785139408655,"schema":1785139278380}

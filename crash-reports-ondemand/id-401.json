@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): _dispatch_mach_send_and_wait_for_reply.cold.5","hashes":["443d4e3f16ec418b262f08b09b51ece7fb9970aa499961f2335d4f7e531133d1"],"id":"id-401","last_modified":1785053012790,"schema":1785052893814}
+{"description":"main (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["87e9f3f92ff108893d20871472da4018f1ff6268f8d8adc2333caa5af8891fcb"],"id":"id-401","last_modified":1785139408364,"schema":1785139288395}
