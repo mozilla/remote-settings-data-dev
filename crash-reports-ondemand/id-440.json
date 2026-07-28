@@ -1,1 +1,1 @@
-{"description":"main (Android nightly): libart.so | libhwui.so","hashes":["21c34687ce6eef8ac13a76962e569152acb1ec3f50340c575b97a99dc6f9e9ed","740878432074dd131f63bdbafdea7724d98f2c961fa0aa869b162102611882a9"],"id":"id-440","last_modified":1785139410153,"schema":1785139352882}
+{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["5dc3606c777684a8de2b4ef2e0c4dee142c54b7dc8551827738a599ab92beb7c"],"id":"id-440","last_modified":1785227609783,"schema":1785227561590}

@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): -[GeckoNSApplication reportException:]","hashes":["d97011d7036d7511b21dc6ec8f4af258797813beadc7a73a16ecd72198bd55ad"],"id":"id-317","last_modified":1785139410409,"schema":1785139138760}
+{"description":"main (Mac beta): mozilla::Maybe<T>::value | mozilla::dom::quota::OriginInfo::LockedTruncateUsages","hashes":["a796674ec1596d564e4decfa0b1c385b7d6f28cb2de6acaa67d47b281bfb227d"],"id":"id-317","last_modified":1785227610003,"schema":1785227343313}

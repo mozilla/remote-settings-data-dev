@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): TppRaiseHandleStatus","hashes":["4edf5144a0502083925c07dc32ebe39b72825a34f9bca87a8ff514ea363e6a83"],"id":"id-412","last_modified":1785139409913,"schema":1785139307086}
+{"description":"main (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["87e9f3f92ff108893d20871472da4018f1ff6268f8d8adc2333caa5af8891fcb"],"id":"id-412","last_modified":1785227609583,"schema":1785227515385}
