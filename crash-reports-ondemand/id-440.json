@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["5dc3606c777684a8de2b4ef2e0c4dee142c54b7dc8551827738a599ab92beb7c"],"id":"id-440","last_modified":1785227608413,"schema":1785227561590}
+{"description":"socket (Linux release): PrefWrapper::IsType","hashes":["0d6f6fe97aba7b26d13a1726b2a9a6a8029216cea613f02cefc990edc981cf1b"],"id":"id-440","last_modified":1785313403793,"schema":1785313356722}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StructuredCloneHolder::CustomFreeTransferHandler","hashes":["cd0b8a545e35b9c59ae0e92ba067853340f36d34abe95fd38d8c27890121cd96"],"id":"id-381","last_modified":1785227607792,"schema":1785227464046}
+{"description":"main (Mac nightly): mozilla::net::LoadInfo::SetReservedClientInfo","hashes":["6b61100a946f38421048635c5ad3c552e97334e10f7231ea445d9949e37a5edb"],"id":"id-381","last_modified":1785313402937,"schema":1785313258036}
