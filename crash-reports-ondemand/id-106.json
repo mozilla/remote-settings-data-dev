@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["9bdb70249b5624443ca5c17402a827497baccee59f8e85c8eec5ce3b5703ab11"],"id":"id-106","last_modified":1785313405744,"schema":1785312790472}
+{"description":"rdd (Windows nightly): add_spatial_candidate","hashes":["a4edc7cb1636d26cc225c2e7d4033cb1137b7842240491c993c06d663f15708f"],"id":"id-106","last_modified":1785400413346,"schema":1785399790785}

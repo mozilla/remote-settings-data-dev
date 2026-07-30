@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpReportHeapFailure | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | dav1d_free_aligned_internal | close_internal","hashes":["60501c0fa7a386ab293732c083d74b3b9e5ab293378072ef8860d2e1c0bdfacd"],"id":"id-395","last_modified":1785313405189,"schema":1785313281078}
+{"description":"utility (Mac release): mozilla::ipc::Shmem::Segment::Release","hashes":["13c1869bd18044507ff95153de4cf18d26828034c1925f9d3f07c5d3844db2ed"],"id":"id-395","last_modified":1785400412906,"schema":1785400293398}
