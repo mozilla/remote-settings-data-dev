@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::LoadInfo::SetReservedClientInfo","hashes":["42ac9cd1105b767ee17159d412cca1c14ee9abe75ff32aa3f4e54cc6cdcf72f9"],"id":"id-418","last_modified":1785487401113,"schema":1785487339302}
+{"description":"rdd (Mac release): mozilla::ipc::ActorLifecycleProxy::~ActorLifecycleProxy","hashes":["90fe67ac9169d606c8beb58192dd69a2378812cebf49569aedf91568ab5925e3"],"id":"id-418","last_modified":1785573214869,"schema":1785573149561}

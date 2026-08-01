@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::ChunkMarkBitmap::markIfUnmarkedThreadSafe","hashes":["2409cde58281c959a6d820824cedc9cedae5d1442bbf11874a3615e806212865"],"id":"id-336","last_modified":1785487402817,"schema":1785487197743}
+{"description":"content (Linux beta): mozilla::layers::SurfaceDescriptor::get_SurfaceDescriptorBuffer","hashes":["0b58a19b9fba3aef8cfee2fdbf02bfe5b038f701cbf9cc2a4114b0f7450b152d"],"id":"id-336","last_modified":1785573215433,"schema":1785572989952}
