@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::StoreBuffer::CellPtrEdge<T>::trace","hashes":["adcd5ebcbebe274774e9c554e2e4e6dffd6939f4f96c91c46c23c91f49ac490f","6bf0ce59215fc07835520d50f7343013f91e4c02988d00c95ee1e6981d0b42cf"],"id":"id-320","last_modified":1785573214867,"schema":1785572963180}
+{"description":"content (Mac nightly): JS::Value::isMagic","hashes":["3e24e9fef2b3dcea5e84b8cfd35f63a05bcc22eee70fd945cc9ec3a36730f3a8"],"id":"id-320","last_modified":1785658986206,"schema":1785658758350}
