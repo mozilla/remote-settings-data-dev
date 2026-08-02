@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::SetUpReadableByteStreamController","hashes":["d0c896a12cb20eabdd737d8a294e4c78c40e36c975bf82c649f64464665d1c85"],"id":"id-382","last_modified":1785573213330,"schema":1785573088887}
+{"description":"content (Android beta): mozilla::dom::Navigation::InnerFireNavigateEvent","hashes":["9e7cbc34a2804248450dc530d4020586c4a04a3c05f635a0aa266fc19d6cefc1"],"id":"id-382","last_modified":1785658984477,"schema":1785658861352}

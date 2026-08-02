@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpReportHeapFailure | RtlpFreeHeapInternal | RtlFreeHeap | LocalFree","hashes":["14e0e9522f1879eff5dec3cd5b7cee7333f970b120b104e5d2b0cbbef324a40e"],"id":"id-372","last_modified":1785573213263,"schema":1785573070218}
+{"description":"content (Android nightly): mozilla::CycleCollectedJSRuntime::TraverseJSHolders<T>","hashes":["bf9e22e024149275adb69216e3c1719268361af23f8b5083c6475ed0c35a98ad"],"id":"id-372","last_modified":1785658984411,"schema":1785658845519}
