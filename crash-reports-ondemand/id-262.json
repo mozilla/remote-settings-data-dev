@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | webrender::renderer::Renderer::draw_frame","hashes":["68365eb0b7c54dc6fe325bfaa92c0f1e79014802c386fee85ac8470b348a9d68"],"id":"id-262","last_modified":1785658984350,"schema":1785658660562}
+{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["17f4846946f1c081ac9aa7f1d10c5154c665e4296d19de0ad8f62cdaaf829c13"],"id":"id-262","last_modified":1785745999193,"schema":1785745654043}
