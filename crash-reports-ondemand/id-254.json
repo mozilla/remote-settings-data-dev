@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::InputToReadableStreamAlgorithms::PullCallbackImpl","hashes":["476eb197aebc5db75c8e3da7fe6a5f9c5d934abed064fbbc5aafcab1d0799c33"],"id":"id-254","last_modified":1786005734646,"schema":1786005418909}
+{"description":"socket (Windows beta): nr_socket_local_connect","hashes":["f5788eba90f43433af1fdc7199a1810e54149c47e3d50dc80e347b5c2d1b163e"],"id":"id-254","last_modified":1786092787536,"schema":1786092447990}
