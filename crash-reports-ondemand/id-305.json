@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): js::ProfilingStackFrame::initLabelFrame","hashes":["605723df5aa5dd34106a2b738c0e9be2241d8918e7f62940e582c8ea0fd5b9fa"],"id":"id-305","last_modified":1786092787314,"schema":1786092535632}
+{"description":"content (Linux nightly): mozilla::detail::InvalidArrayIndex_CRASH | js::gc::TenuringTracer::traceObject","hashes":["dbe296cddc0f77a74f54b37ff33b7e6303555832f1b5e166868d3e98b0c94097"],"id":"id-305","last_modified":1786178562824,"schema":1786178318031}
