@@ -1,0 +1,1 @@
+{"bugIds":["2056861"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"471e341e-c81e-463a-b894-ff5adb6ad4cd","last_modified":1786155010298,"schema":1786155009905,"topLevelUrlPattern":"*://www.scottishwidows.co.uk/*","urlPattern":"*://tags.tiqcdn.com/*"}
