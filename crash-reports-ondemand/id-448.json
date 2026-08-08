@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLESv2_samsung.so","hashes":["d993685c17d24c931dbb2b847f78691e811eb966c302e835900d8c926364d7ff","5496b1acdf23e50807c5af43c73ec169c4246433e43058313d9ce6b08be62793"],"id":"id-448","last_modified":1786092789314,"schema":1786092780519}
+{"description":"gpu (Mac beta): webrender::picture::PictureInstance::propagate_bounding_rect","hashes":["0d44392c633c7af89dce5d97a9d20b2675eb1ef1faaa846b6134537b39124299"],"id":"id-448","last_modified":1786178564582,"schema":1786178547029}
