@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): nsMenuX::MenuChildChangedVisibility","hashes":["fa069eeee91fa7fcc3605019b05181c053acd68e3f7778da1d013ebf4a7091ff"],"id":"id-289","last_modified":1786178564805,"schema":1786178292538}
+{"description":"gpu (Mac beta): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["551766a82f59d11d1067a7b63448f683dddf2e2d2aae6704c0ea3f405895073d"],"id":"id-289","last_modified":1786264367179,"schema":1786264067502}
