@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): libsystem_kernel.dylib","hashes":["926c81553655151f585de818c2e38ae3f1516d2f61d48f72df2892092eabd4c5","7fc83c9b8e669e1af652d870fec5a46708f6ebf6cf67d4b1de32512129fa9ef5","db3c8153364577a4400aa619a8aa6c4ada4a6809f0f9b6446ea694f9b5878401"],"id":"id-256","last_modified":1786178563104,"schema":1786178241060}
+{"description":"main (Mac beta): mozilla::PresShell::EventHandler::DispatchEvent","hashes":["6f6620b7da706a6e1a6ce12f6b04a730819adb34e46f4cffca4ce151ad732156"],"id":"id-256","last_modified":1786264365300,"schema":1786264015206}

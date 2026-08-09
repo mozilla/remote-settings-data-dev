@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["3507f093fce3f6f922779c1e8e1e2ed72ef1d029055d9d0572b671d9f39bcc39"],"id":"id-253","last_modified":1786178563045,"schema":1786178236497}
+{"description":"gpu (Mac beta): webrender::picture::PictureInstance::propagate_bounding_rect","hashes":["0d44392c633c7af89dce5d97a9d20b2675eb1ef1faaa846b6134537b39124299"],"id":"id-253","last_modified":1786264365139,"schema":1786264010721}
