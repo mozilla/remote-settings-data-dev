@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): syscall | probe.so","hashes":["5ae79b7a72d8be4082165f3deaa027fa8e02c9c1bdc79ee5d7fd4a8ec5fd23c5"],"id":"id-287","last_modified":1786264364638,"schema":1786264063994}
+{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StructuredCloneHolder::CustomFreeTransferHandler","hashes":["bd285c037323a45e41359bfb7a62a7cd9f42ed880158c89364766287c3ea453d"],"id":"id-287","last_modified":1786350160907,"schema":1786349875354}

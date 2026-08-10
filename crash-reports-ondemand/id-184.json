@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::Vector<T>::operator[] | ProfileBuffer::MaybeStreamExecutionTraceToJSON<T>","hashes":["cd9f65a2f02fb069e035501719b200e4043b9b314d87e777bbdddc21a0bf7094"],"id":"id-184","last_modified":1786264364877,"schema":1786263899930}
+{"description":"main (Mac beta): google_breakpad::ExceptionHandler::WaitForMessage","hashes":["9f0af040fbedd1082344f29ebe45c50d3f5c4c7f40038f98f7b1244820445851"],"id":"id-184","last_modified":1786350161119,"schema":1786349705668}

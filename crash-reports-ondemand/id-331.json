@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsPIDOMWindowInner::GetExtantDoc","hashes":["49f02200244448aa286264149ba030341c078fc3fd6dd4fb8b1b06d15582f4d0","b4680b8f9ec9f21136278e26a21006bb0eb51e93f8f96cccf7ef62bfce99dbad"],"id":"id-331","last_modified":1786264365084,"schema":1786264135088}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["d9a090ee06333d2c9a0c2424b9a23aa1e1634bc314acf5c7333d1cdcc88aae84"],"id":"id-331","last_modified":1786350161330,"schema":1786349944795}
