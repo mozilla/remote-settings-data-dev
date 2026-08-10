@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["61288cb59a6ff0b0b5c7c99ddfe084e61b30348a01a12efdca5180d4330e5a04"],"id":"id-327","last_modified":1786264366802,"schema":1786264129065}
+{"description":"rdd (Windows beta): <unknown in amdxx64.dll> | NDXGI::CDevice::DestroyDriverInstance","hashes":["0a9a95bc7edb257377a0eece97c9b2b7e2278d4e07f6daf9c0a8a721b3d500a0"],"id":"id-327","last_modified":1786350163249,"schema":1786349938357}

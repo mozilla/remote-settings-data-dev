@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["653d5d5acdb3a8871305eeef623c3be4d5f86417f7155fafd16332ad3f2fa2a2"],"id":"id-384","last_modified":1786264367072,"schema":1786264234782}
+{"description":"utility (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["08bfca08e9ca505b2cc50b685d6e5d6cef36efb69d45537ec305216557374a6a"],"id":"id-384","last_modified":1786350163468,"schema":1786350034397}
