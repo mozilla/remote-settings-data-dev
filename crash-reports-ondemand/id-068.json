@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): webrender::render_task::RenderTask::new_dynamic","hashes":["885172988c082d62516ea37105e0f422d41180036c9cb02639e1039d93642db8"],"id":"id-068","last_modified":1786350163590,"schema":1786349519809}
+{"description":"gpu (Mac beta): webrender::picture::PictureInstance::propagate_bounding_rect","hashes":["0d44392c633c7af89dce5d97a9d20b2675eb1ef1faaa846b6134537b39124299"],"id":"id-068","last_modified":1786437812550,"schema":1786437136511}

@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::~nsTArray_Impl | mozilla::MP4SampleIndex::Release","hashes":["af2344ad803a065cbbfee8913e46494f349c0eadb77148c3049ff03a98284f7a"],"id":"id-394","last_modified":1786350163418,"schema":1786350051193}
+{"description":"socket (Linux release): destroy_assoc_chain","hashes":["29cd5242e9a22be84a25a23f43ff9bc9bb0aa97aae651519a54cc8d06e96d871"],"id":"id-394","last_modified":1786437812228,"schema":1786437707134}
