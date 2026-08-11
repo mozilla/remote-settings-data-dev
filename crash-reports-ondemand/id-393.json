@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): libgobject-2.0.so.0","hashes":["fa2da05f6a07c8b7a84b00127557936dfc86d23b82903d1421de15f189b0f1e4","98fcc248eb62753dfb8ede2e41e0b2fbbdab0dc259d07948bba61ea8246e67d4"],"id":"id-393","last_modified":1786350160888,"schema":1786350049078}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["7a36c5a8564378548e26a593b1f2c5dff732b3a58424508f0329ce4ba0f1d72a"],"id":"id-393","last_modified":1786437809904,"schema":1786437705509}

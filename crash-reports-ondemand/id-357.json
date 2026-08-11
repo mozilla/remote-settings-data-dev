@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["b099ee9f28d7acfdc11a8922cfc028eec1d8f9992d01d3cc09fa9076febe39e1"],"id":"id-357","last_modified":1786350160955,"schema":1786349988923}
+{"description":"main (Mac nightly): nsCycleCollectionParticipant::CanSkipInCC","hashes":["fefa76d70a7540523e2116622e41d989d17a9377e5f5964f5c864f7262e4481e"],"id":"id-357","last_modified":1786437809973,"schema":1786437643361}

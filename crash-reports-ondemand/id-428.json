@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JSScript::getScope","hashes":["7a2eb79e7c01539f01dd288f525b14100225f6cbc83642c6b98d254af4c7d34c"],"id":"id-428","last_modified":1786350161446,"schema":1786350104805}
+{"description":"gpu (Mac beta): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["551766a82f59d11d1067a7b63448f683dddf2e2d2aae6704c0ea3f405895073d"],"id":"id-428","last_modified":1786437810342,"schema":1786437766328}
