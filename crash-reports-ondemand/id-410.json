@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::PresShell::DoFlushPendingNotifications","hashes":["caa60b94a90c5eb669c4f4f983a5502113c960dc8e0ef3982fbff2acde6a70c3"],"id":"id-410","last_modified":1786437810140,"schema":1786437735157}
+{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["b099ee9f28d7acfdc11a8922cfc028eec1d8f9992d01d3cc09fa9076febe39e1"],"id":"id-410","last_modified":1786524251774,"schema":1786524181027}
