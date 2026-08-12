@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): nsTArray_Impl<T>::SetCapacity<T> | nsTArray_Impl<T>::nsTArray_Impl | nsTArray<T>::nsTArray | nsTArray<T>::nsTArray | mozilla::ArrayOfRemoteAudioData::Fill","hashes":["c20cc3db476fdbbce187c8fcae24ae241bbe56bbe897376cc14742f2b58cff03"],"id":"id-438","last_modified":1786437812061,"schema":1786437784113}
+{"description":"content (Linux nightly): mozilla::StyleArcSlice<T>::AsSpan","hashes":["e76b1bc8e18ee01d84c217424d70535331fc43aea3e01320b2d033e0d2904454"],"id":"id-438","last_modified":1786524253900,"schema":1786524229548}
