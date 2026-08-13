@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): IPC::MessageReader::FatalError | mozilla::ipc::shared_memory::HandleBase::FromMessageReader","hashes":["55fd933f1bb6d907560eb4b6f327791e0bfd95c4680178dc4ac3888bb6a479bb"],"id":"id-332","last_modified":1786524254713,"schema":1786524037315}
+{"description":"gpu (Linux release): abort | <.text ELF section in libnvidia-eglcore.so.550.163.01>","hashes":["a3018bb9551673a18160d8b0b76feb1d5b021ad13cad806ebd5621d0a5766f0e"],"id":"id-332","last_modified":1786610645698,"schema":1786610425591}

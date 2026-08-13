@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["08d53f9e0530b387d9ab8f1f313ebf3b8797caf75128b85b3d377c0ed2d1c1ba","c3e3455f8a828a5eefa7aa08e5576e74cc3ff3bc60fcd3f4924f6cc8bc364ebc"],"id":"id-406","last_modified":1786524254625,"schema":1786524174201}
+{"description":"main (Mac beta): mozilla::net::Http2Session::VerifyStream","hashes":["ec2b8a83319fb4bd23a1fac48faf229a67a77a13b7ffed865bcaca5bdc0d0411"],"id":"id-406","last_modified":1786610645632,"schema":1786610556384}
