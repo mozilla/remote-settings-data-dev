@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::MessagePump::Run","hashes":["8aba3d1563e91963b7b581be5e01dbf1cd749fa79014aa6a853ddb73ac5e4d79","300e0c449192116630735513ef0d669771c42e884f2c1c1680cc7c7a28787538"],"id":"id-353","last_modified":1786610645596,"schema":1786610461365}
+{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["b099ee9f28d7acfdc11a8922cfc028eec1d8f9992d01d3cc09fa9076febe39e1"],"id":"id-353","last_modified":1786697148737,"schema":1786696962671}

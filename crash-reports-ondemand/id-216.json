@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): __prctl","hashes":["21dfa5b821180c0136fb4297d03c94da28cbb56b277e635a5af4fe9aa175b080","f8162ef852b2de71a63fbfbaca95ee6395fe60b945ebc13f581c5cb9b230fbc2"],"id":"id-216","last_modified":1786610644994,"schema":1786610217274}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0c35c73c925c6e92e0ad3be4a9acc7ddd2911e8cfbfc5313d64fd03927f4bd4f"],"id":"id-216","last_modified":1786697148286,"schema":1786696667143}

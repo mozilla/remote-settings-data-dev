@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["c630f4d3319f1d5380fca2f7f62ddc3062e1a588dc23fbf6f4e5e4cdc03365f9"],"id":"id-357","last_modified":1786610644839,"schema":1786610468048}
+{"description":"socket (Linux release): nsCharTraits<T>::length","hashes":["db61c21303966a81894ab7b73f94f58f2af1411d7f7ecfe06881564dec41b83d"],"id":"id-357","last_modified":1786697148186,"schema":1786696969341}
