@@ -1,0 +1,1 @@
+{"bugIds":["1979626"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6273528f-b7a1-4fbf-b677-7c89fc118a97","last_modified":1786673409445,"schema":1786500612115,"topLevelUrlPattern":"*://www.bbc.com/*","urlPattern":"*://pub.doubleverify.com/*"}
