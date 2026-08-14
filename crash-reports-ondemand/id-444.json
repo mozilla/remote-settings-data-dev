@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsTArray_Impl<T>::end | nsTArray_Impl<T>::cend | nsAutoTObserverArray<T>::NonObservingRange","hashes":["8adb22f7cf146e717ccaf0db4b775c2775a1ed789d2b75707ff032c272b0e11d"],"id":"id-444","last_modified":1786610642952,"schema":1786610622494}
+{"description":"utility (Windows nightly): CDefFolderMenu::GetCommandString","hashes":["9b12a4255afaadae908be2f0882cfdf7919a89eb16235e3d7b62fca7d5310a0b"],"id":"id-444","last_modified":1786697146586,"schema":1786697122454}
