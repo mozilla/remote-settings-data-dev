@@ -1,0 +1,1 @@
+{"bugIds":["2063524"],"category":"baseline","classifierFeatures":["tracking-protection","tracking-annotation"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"29549ca9-acb9-4a41-846a-fa0208e953ce","last_modified":1786759819365,"schema":1786752023704,"topLevelUrlPattern":"*://web.knrm.nl/*","urlPattern":"*://cdn-eu.clickdimensions.com/*"}
