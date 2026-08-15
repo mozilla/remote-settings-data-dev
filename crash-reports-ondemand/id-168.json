@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::RemoteMediaManagerParent::RecvDeallocateSurfaceDescriptorGPUVideo","hashes":["408dcf181e0fb36e86528985ae2e10613b92cbc218ceea0d1bbb6064d9ab1cd9"],"id":"id-168","last_modified":1786697147356,"schema":1786696537889}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["3fe2ba7fa93e8f2dd1fc33269e455d6d0c45c23f7d8ea1a9cc5284fa3a8baba9"],"id":"id-168","last_modified":1786783438288,"schema":1786782916149}

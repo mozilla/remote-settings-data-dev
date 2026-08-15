@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): rddhook.so","hashes":["4af41e2c2596035fe038680157636da48c0c846ad3a21e94be88ea031a256e36"],"id":"id-329","last_modified":1786697146625,"schema":1786696919785}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["8a75a3460f0237305d5568982ca79ebab995431b387dbb16ea2f586c2ae130ca","df9489821cfcb7cd8172fb2fc9a051b54f205bb0b394ce394ff4ef57f8012ef1"],"id":"id-329","last_modified":1786783437380,"schema":1786783203628}

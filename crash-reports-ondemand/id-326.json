@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): NvGlEglGetFunctions","hashes":["3112e1e955d887b2fc6260b2005596c36a47856a2d819e8660bf481440389d71","e60832f315dbf2f35274a427b654e97d34171d954e3472d5340a95d9c39025d5"],"id":"id-326","last_modified":1786697147002,"schema":1786696914656}
+{"description":"socket (Windows beta): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["2633688a2c4485d54f42635c66454307efa5c783b9b809e323bfaf6c194d4b6c"],"id":"id-326","last_modified":1786783437812,"schema":1786783198669}
