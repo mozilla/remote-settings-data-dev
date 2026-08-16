@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["c9e05c6ac20320db0503964ddd0fa083b71aa365cefb1977302adebc070c0bca"],"id":"id-442","last_modified":1786783436948,"schema":1786783409768}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["7a36c5a8564378548e26a593b1f2c5dff732b3a58424508f0329ce4ba0f1d72a"],"id":"id-442","last_modified":1786868609984,"schema":1786868587347}
