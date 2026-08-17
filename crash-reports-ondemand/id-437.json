@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::RecordedScaledFontCreation::PlayEvent","hashes":["427a12c3707ee766bfde273b0dcec5595be94257ccc3692a91929068b215bea4"],"id":"id-437","last_modified":1786868610210,"schema":1786868579084}
+{"description":"main (Mac nightly): mozilla::base_profiler_markers_detail::MarkerTypeSerialization<T>::Deserialize","hashes":["73c8e16a5a089535eecf0349177fa0bfb74daf3af2ec174e358de4fe1a4c23cb"],"id":"id-437","last_modified":1786955657789,"schema":1786955632040}

@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): memcpy | mozilla::BufferList<T>::WriteBytes","hashes":["2b7d320a4d65d66410dd7218215409bcee261bd98392612a9caf33bf967bc1d5","dc88558c7ffddb52cc5040ff3a64c764c0bc768c79f30b22c1ca8ab35407c902"],"id":"id-041","last_modified":1786868610489,"schema":1786867881808}
+{"description":"socket (Linux release): huge_dalloc | SECITEM_FreeItem_Util","hashes":["01255698e1bf572c17dd5e48a65ebab8951874ac5355997e156e5eb40f1b5c42"],"id":"id-041","last_modified":1786955658051,"schema":1786954887969}
