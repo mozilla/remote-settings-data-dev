@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): NewArrayBufferObject<T>","hashes":["5cc2f5c36dba385bd65b91ffa9b595c163f0637d44f745514a698cc027af916a","e28696f16621db11ebde929c1ef561b3e40ae65ef0a9bedd3874a6552700345e"],"id":"id-287","last_modified":1786955659509,"schema":1786955354288}
+{"description":"socket (Mac release): <std::collections::hash::map::HashMap<K, V, S> as core::default::Default>::default","hashes":["e67d736ba389062d521dac45cee30a593c14ee7d0317bb1134bee71052a06260"],"id":"id-287","last_modified":1787042547966,"schema":1787042286772}
