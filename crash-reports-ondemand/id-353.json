@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["7e3ec47d3b3e8c2d10808c4e842077e39f82107820358eba7dd409f9e685bac3"],"id":"id-353","last_modified":1787042548371,"schema":1787042394969}
+{"description":"main (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::net::SSLTokensCache::TokenCacheEntry::AddRecord","hashes":["b72c5e43a1b11129c03d916c1e8b6644c65fcc4f9d37a0b6e6a0e181329d908b"],"id":"id-353","last_modified":1787128955955,"schema":1787128799995}
