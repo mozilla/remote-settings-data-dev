@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): AllocInfo::GetInChunk","hashes":["0bd28883eb92659ce51627bc7cf152cff72dcd236cfc56c7e9f8de553beb664f","b3e79e7532965bb2590a21dd98398ba2f56562b6d1e8ab1b867ff38f130a5d60","fa07dc51b05f8ad135ca25a48c232e5777b23f6cc88e576f004f943bc7f422cb"],"id":"id-288","last_modified":1787128956175,"schema":1787128692825}
+{"description":"content (Linux nightly): JS::shadow::NumNativeObjectFixedSlots","hashes":["2ab3d8e6f19354a342f6a913ea1905f58bfe3468c868595e91ea58668cbf08a9"],"id":"id-288","last_modified":1787215927318,"schema":1787215675975}

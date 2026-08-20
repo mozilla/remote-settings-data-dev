@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | <std::collections::hash::map::HashMap<K, V, S, A> as core::ops::index::Index<&Q>>::index","hashes":["4217a5935544997ad13fc4e355d1d4e7e4c767b1f2e817e6b145534aa9f55ab7"],"id":"id-399","last_modified":1787128955862,"schema":1787128875538}
+{"description":"gpu (Android beta): libGLESv2_powervr.so","hashes":["9281027299cd51604e2b0ce210f218d953f943dcc43d34c4a87329869c0e5b2a","1ab9fe5716014e8ffb22c3e88ef7c45774a0131496011ba77bed964b5c4c4701"],"id":"id-399","last_modified":1787215927029,"schema":1787215854506}
