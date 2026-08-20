@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["148b9444d678704035a7c6d64512531338f083d754183705d6e8709bf381d3a5"],"id":"id-410","last_modified":1787128954323,"schema":1787128894925}
+{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["cf7167af1b5af4cbdf726a69c72ed6e48047eebc12afbf7cb0a8ae37a2b09f8b"],"id":"id-410","last_modified":1787215923740,"schema":1787215871313}
