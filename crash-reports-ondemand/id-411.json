@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | prcore.dll | remote_eka_prague_loader.dll | inproc_agent.dll | BaseThreadInitThunk","hashes":["39eb6c423fc475dec12f0dc18e479ca5b69dc258c7a457e56e96669bfc705218"],"id":"id-411","last_modified":1787215926607,"schema":1787215873043}
+{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["b125dd3d1d0c992612321a3e835fc98ccbe76f3b518a705647efbe8663e2f953"],"id":"id-411","last_modified":1787300523354,"schema":1787300490394}
