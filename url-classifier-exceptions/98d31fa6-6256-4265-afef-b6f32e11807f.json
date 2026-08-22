@@ -1,0 +1,1 @@
+{"bugIds":["2064402"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"98d31fa6-6256-4265-afef-b6f32e11807f","last_modified":1787364609291,"schema":1787364608565,"topLevelUrlPattern":"*://jeetbuzz.com/*","urlPattern":"*://img.j189eb.com/*"}

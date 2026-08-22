@@ -1,0 +1,1 @@
+{"bugIds":["2064092"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"16a4617b-c453-4c1f-ae7e-6968a6ea4fdd","last_modified":1787364609306,"schema":1787364608868,"topLevelUrlPattern":"*://newsletter.echolox.com/*","urlPattern":"*://pages.convertkit.com/*"}

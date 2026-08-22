@@ -1,0 +1,1 @@
+{"bugIds":["2064699"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"299258fd-2129-4128-9dfb-bedeac084d7f","last_modified":1787364609281,"schema":1787364608361,"topLevelUrlPattern":"*://www.rei.com/*","urlPattern":"*://edge.curalate.com/*"}
