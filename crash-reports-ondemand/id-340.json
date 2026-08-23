@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): LdrpIncrementModuleLoadCount","hashes":["a5908c1c9375e0b32c115419661f643ac6b80ad349e91382139285a459d13d04"],"id":"id-340","last_modified":1787388129434,"schema":1787387971112}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | prcore.dll | remote_eka_prague_loader.dll | inproc_agent.dll | BaseThreadInitThunk","hashes":["39eb6c423fc475dec12f0dc18e479ca5b69dc258c7a457e56e96669bfc705218"],"id":"id-340","last_modified":1787479922326,"schema":1787479758892}
