@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): libc.so | memcpy | js::NewAtomCopyNDontDeflateValidLength<T>","hashes":["dda101eef113a74abdd05571653cb5693e9ad9bbf9837104c6d773c8c548892f"],"id":"id-379","last_modified":1787388128220,"schema":1787388035873}
+{"description":"content (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["5b0634da800b58e2089e8e2c2ecb2d71f99e74864c573eb85d7f29b647f6402d"],"id":"id-379","last_modified":1787479921051,"schema":1787479824034}

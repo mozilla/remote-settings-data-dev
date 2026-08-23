@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libglslcompiler.so","hashes":["2549f82d8d13334a1fee5c39bd646e74258fad7f2b1dbdb4641778f7bb9699bd"],"id":"id-129","last_modified":1787388128524,"schema":1787387629154}
+{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["c6d2ac757681bc115f9c1d9c36769a2c6fe302bf24633e6ab2a18175ed3b2643","9717207db8f69133706802f6ac13cca5f767ed4924cd76ba23af2e56b6b65ba2"],"id":"id-129","last_modified":1787479920496,"schema":1787479421881}

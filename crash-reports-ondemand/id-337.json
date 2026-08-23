@@ -1,1 +1,1 @@
-{"description":"content (Android beta): selectors::parser::collect_selector_hashes","hashes":["d9839b72a0735064cacabdc6b272d51c08284d45cea82b80d414811ac54aba7a"],"id":"id-337","last_modified":1787388127721,"schema":1787387966519}
+{"description":"socket (Mac release): nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray_Impl<T>::AppendElement<T> | mozilla::MediaTransportHandlerSTS::GetIceStats::$::operator()","hashes":["ef0ffd940791fef79a15444b0b3f967b8b720f51857017979b5a27b7fa2f6337"],"id":"id-337","last_modified":1787479920413,"schema":1787479754378}

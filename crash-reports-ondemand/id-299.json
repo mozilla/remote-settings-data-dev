@@ -1,1 +1,1 @@
-{"description":"content (Android beta): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::~nsTArray_Impl | mozilla::OldItemInfo::~OldItemInfo","hashes":["8604e0764b38b80812478eac126b1f5f2c7af334f42f24c7efdb21f3af37a8af"],"id":"id-299","last_modified":1787388128087,"schema":1787387903183}
+{"description":"content (Linux nightly): mozilla::CycleCollectedJSRuntime::TraverseJSHolders<T>","hashes":["2205b54c056906b82c766d63ec66eb7629341cf7bc7d18c4843d086a1ac228c1"],"id":"id-299","last_modified":1787479920888,"schema":1787479694391}
