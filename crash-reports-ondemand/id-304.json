@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::dom::TimeoutManager::RescheduleTimeout","hashes":["14f91b80b66d3731ad5a1197b0b78b9e36b8b7c3c153c97ac65bf9eaa4cf7190"],"id":"id-304","last_modified":1787479922383,"schema":1787479702404}
+{"description":"content (Android beta): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::~nsTArray_Impl | mozilla::OldItemInfo::~OldItemInfo","hashes":["8604e0764b38b80812478eac126b1f5f2c7af334f42f24c7efdb21f3af37a8af"],"id":"id-304","last_modified":1787561535764,"schema":1787561303797}
