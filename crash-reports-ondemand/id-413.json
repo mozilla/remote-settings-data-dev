@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::CheckedInt<T>::value | mozilla::media::TimeUnit::operator<T>","hashes":["44664ade6174e26ca06fa785dc15bde54828b1c910bc4081570df3fcdf324ad0"],"id":"id-413","last_modified":1787479921026,"schema":1787479877392}
+{"description":"content (Mac beta): js::gc::MarkingTracerT<T>::processMarkStackTop","hashes":["ee8f75a13cefe3d2f3b337046dbb09ce5a895b179658aa37ccdcd515f4a97abf"],"id":"id-413","last_modified":1787561533795,"schema":1787561479739}
