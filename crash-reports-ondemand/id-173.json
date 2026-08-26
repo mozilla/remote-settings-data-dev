@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::Maybe<T>::operator* | mozilla::MediaChangeMonitor::Decode","hashes":["c42aab6dc515368ad2dae96ccce4a12b2eb289a9441f637bac932974d6ef999d"],"id":"id-173","last_modified":1787561534369,"schema":1787561094626}
+{"description":"content (Android nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["bcb2773e93df2aabd1873eae87ef180d8e5d1a889e9c74510a5a8981389b7341"],"id":"id-173","last_modified":1787736773601,"schema":1787736301213}
