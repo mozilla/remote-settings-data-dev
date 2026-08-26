@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ipc::MessageChannel::AssertWorkerThread | mozilla::ipc::MessageChannel::MessageTask::Run","hashes":["34195f97d68391b094aac4357fd8dbc1a32ee1ed680168148e8238c8235a495b"],"id":"id-325","last_modified":1787561535297,"schema":1787561337323}
+{"description":"main (Linux beta): mozilla::widget::WlLogHandler","hashes":["52a30f60a3fb21f459aede0af4dd7ea7497f20e8aa51af23a035e614f0bc89cb","634db355d735f6ff4052b09abf9a9ac63624f79465a54a6292a3a8b38443f6bd"],"id":"id-325","last_modified":1787736774556,"schema":1787736551340}

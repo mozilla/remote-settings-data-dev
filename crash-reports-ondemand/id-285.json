@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): Abort | NS_DebugBreak | nsDebugImpl::Abort | _NS_InvokeByIndex","hashes":["0af3ec30ad24b3396739e4786bb2ba7e1d4d7b53c0a8b1ea1f6030b1b0f4f37c"],"id":"id-285","last_modified":1787561535259,"schema":1787561274209}
+{"description":"content (Mac beta): js::gc::Arena::getAllocKind","hashes":["e37091b36946fdaad550051c58881629bdde669ddf1ab971c9c7cb9bcbb67758"],"id":"id-285","last_modified":1787736774519,"schema":1787736484359}
