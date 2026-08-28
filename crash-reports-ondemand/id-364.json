@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): dyld::loadPhase5","hashes":["ce6b02b26faea3d1ced99cd2e41a33f23b0ff83daa9614ce361d01c745f3b42b"],"id":"id-364","last_modified":1787736773260,"schema":1787736628591}
+{"description":"socket (Mac nightly): Abort | NS_DebugBreak | mozilla::Logger::~Logger","hashes":["1cff4d9d648a3d2e206acc2a3e5c348dd4f405ce01066a4a87d8bb1b57ec83e2"],"id":"id-364","last_modified":1787908983758,"schema":1787908818275}

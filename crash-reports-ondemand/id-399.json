@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::LogModule::ShouldLog","hashes":["014e73fa23a2997e9e095cdb76b821c23d9c72277a772481327fcd82e2050cd6"],"id":"id-399","last_modified":1787736773099,"schema":1787736687035}
+{"description":"main (Android nightly): java.lang.IllegalArgumentException: at org.mozilla.geckoview.GeckoRuntime.init(GeckoRuntime.java)","hashes":["f51149bd5abf1c670e22389015289dfcaf290b61479c9e8bfe369b9a7891ae8d"],"id":"id-399","last_modified":1787908983653,"schema":1787908878799}
