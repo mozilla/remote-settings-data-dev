@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::CheckedInt<T>::value | mozilla::media::TimeUnit::operator<T>","hashes":["85bb5884a39c6daa4810db40093ff4d5ebd1e48f814351a4c3c7da57ddd4cad2"],"id":"id-393","last_modified":1787908983108,"schema":1787908868096}
+{"description":"socket (Mac release): nsIEventTarget::nsIEventTarget","hashes":["9000e568bac5ce757df6eab3db118af9e9c3ec6feb0f31c46ea8a759f229725e"],"id":"id-393","last_modified":1788079464097,"schema":1788079350150}

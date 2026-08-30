@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x5270030","hashes":["826c0f1e1c3577a40e4ef49b19f451dfded2464156345feeaad590ed11acf711"],"id":"id-204","last_modified":1787908983863,"schema":1787908552208}
+{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["f4ebece8015e63227d251131bff52b631c29f3093b5c32bea26677034a03989d","52d635be4db140467368d9a8f2af902401dafb6a4c1a0b7167ade979f82fdba8","2cbd79429c980622412e68b8b810be988703004927853a99132760016229335e"],"id":"id-204","last_modified":1788079464901,"schema":1788079021251}

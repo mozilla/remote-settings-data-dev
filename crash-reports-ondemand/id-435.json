@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): <unknown in ntdll.pdb>","hashes":["4e9472847210965918f181a1675dc0f17fa293b8a131fd42df25c83900d4dd25"],"id":"id-435","last_modified":1787908983311,"schema":1787908939868}
+{"description":"socket (Mac release): nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray_Impl<T>::AppendElement<T> | mozilla::MediaTransportHandlerSTS::GetIceStats::$::operator()","hashes":["d1ecf4f232dae74d5b643b2dbee78f956fee186f9dda28579d878992578f7143"],"id":"id-435","last_modified":1788079464311,"schema":1788079421772}

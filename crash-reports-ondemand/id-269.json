@@ -1,1 +1,1 @@
-{"description":"socket (Mac nightly): __CFStringAppendFormatCore","hashes":["58a4853b6a4f45b83fce9c2be04e5a88570f88cbfd0742a59e71a48a01e22727"],"id":"id-269","last_modified":1787908983612,"schema":1787908659581}
+{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["9319ccb50bee72c25d54020738a19d092fbe35f71578b0927ea3fc83d4b6c3cd","fdc84fc3307027e721a8c49793e29ec7acf9e984f6e4a341ef925959467012c9"],"id":"id-269","last_modified":1788079464650,"schema":1788079139911}

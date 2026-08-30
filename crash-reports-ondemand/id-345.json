@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::frontend::ParseNode::getKind","hashes":["32ccb0908a58b97ea74768bbb0b90cef859b730fed4d01d26b88d494b4b561bd","ee2930709f966262e0991216c17245fe82600aea63410a42f513970b0b4b62ba"],"id":"id-345","last_modified":1787908983939,"schema":1787908782557}
+{"description":"content (Linux nightly): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::Clear | mozilla::dom::HTMLInputElement::SetFiles","hashes":["58484ea3ff83a034275f63542fd04a299fdcabcc7608142bd6c8a5c1e4ed23f4"],"id":"id-345","last_modified":1788079464972,"schema":1788079270894}
