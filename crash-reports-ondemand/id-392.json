@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::detail::VectorImpl<T>::new_<T>","hashes":["af749e9b87b9a83a465b9a78e40013aedff4dcc06a5d3061ea489eea26a64a97"],"id":"id-392","last_modified":1788079466525,"schema":1788079348563}
+{"description":"main (Mac nightly): AsyncShutdownTimeout | quit-application | Extension startup: {4f391a9e-8717-4ba6-a5b1-488a34931fcb},RemoteSettingsExperimentLoader: disabling,XPIProvider shutdown","hashes":["050a2239824e0f8aeb8515b2ee2b4f040847d9d4810387154ba73e1a69a36747"],"id":"id-392","last_modified":1788165799434,"schema":1788165676793}
