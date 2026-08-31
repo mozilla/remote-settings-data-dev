@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x50b0030","hashes":["8e5671435daa02d5ca33d96e869397627e233c289bf6810a80c860b1479d13d5"],"id":"id-437","last_modified":1788079464176,"schema":1788079424881}
+{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["1b4443ccbc331c301efc9a513cfc6e31a6980af53ea9801d5d4831b06219f3cb"],"id":"id-437","last_modified":1788165797213,"schema":1788165750076}
