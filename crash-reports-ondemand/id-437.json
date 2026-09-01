@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["1b4443ccbc331c301efc9a513cfc6e31a6980af53ea9801d5d4831b06219f3cb"],"id":"id-437","last_modified":1788165799366,"schema":1788165750076}
+{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["1c86e0929248c8081d575f4d429d5a90f044ea91660924a8e7bba2b065ca2c6d"],"id":"id-437","last_modified":1788253383580,"schema":1788253336041}

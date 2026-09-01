@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["1c86e0929248c8081d575f4d429d5a90f044ea91660924a8e7bba2b065ca2c6d"],"id":"id-178","last_modified":1788165799725,"schema":1788165320648}
+{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change | AddonManager: shutting down.","hashes":["73123e3e679c4012e74fc94ee4c9452319e932467c8a5a2aa62637988acf4580","e71b1528f4179b89d0686fae00f1de2d0715d3eb4d4d4edbe1f2aba6cd9e43b1"],"id":"id-178","last_modified":1788253383952,"schema":1788252897554}
