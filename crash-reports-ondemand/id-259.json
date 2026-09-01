@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): js::GCData<T>::get","hashes":["b7d7ac575de0226bc18c4c25ab971ba96f4f2780c2ba3962291bac220b8901db"],"id":"id-259","last_modified":1788165797973,"schema":1788165453021}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["b0cc3506677e6a2e808e463aa6c3ab90834c770c7e9ec2e56909025617fc98bb"],"id":"id-259","last_modified":1788253382027,"schema":1788253027568}
