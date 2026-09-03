@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): AcSignCore16.dll | oleaut32.dll | AcSignIcon.dll | _tailMerge_hid.dll | nsTArray<T>::AppendElement | mozilla::FrameProperties::AddInternal","hashes":["05d56bee019d5e729c3094b813f9063c6e97b6dfd76b5a7caf4d4ee9c8908054"],"id":"id-176","last_modified":1788253381955,"schema":1788252894475}
+{"description":"content (Linux nightly): nsCycleCollectionParticipant::TraverseNativeAndJS","hashes":["74e386c156e477143ba39731589f5f90dc0d80802f1948990614ebb2be9603f0"],"id":"id-176","last_modified":1788424988498,"schema":1788424513907}
