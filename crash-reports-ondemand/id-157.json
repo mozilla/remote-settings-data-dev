@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["f4ebece8015e63227d251131bff52b631c29f3093b5c32bea26677034a03989d","bba3fe3a1abce26872411481fbb29390f6ac803f1ba3dd65e964ba3bc928f07b","52d635be4db140467368d9a8f2af902401dafb6a4c1a0b7167ade979f82fdba8"],"id":"id-157","last_modified":1788253384229,"schema":1788252865413}
+{"description":"content (Mac nightly): CrashChannel::OpenContentStream","hashes":["89d7d73bfc64d0bc49678215b7e4124f7d331a94a62c67f99fe7157a3a34908f"],"id":"id-157","last_modified":1788424990239,"schema":1788424480774}
