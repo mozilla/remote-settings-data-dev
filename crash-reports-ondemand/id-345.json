@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["d09351392f711ac4b9f1e1d31f7e62d3e40e22f973b1741ec7af9a9b747d7cb7","ebc0483c7634f975f6fe264149acdaed9e48e632af5dd9c2314b97ad13f809ab"],"id":"id-345","last_modified":1788424988467,"schema":1788424796635}
+{"description":"socket (Windows nightly): CreateRectRgn","hashes":["e7be381785de514c8607a3abf258145d9c510a61229a18a661984a1037361985"],"id":"id-345","last_modified":1788510790988,"schema":1788510601649}

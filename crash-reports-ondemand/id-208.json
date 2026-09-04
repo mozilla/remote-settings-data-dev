@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): pthread_mutex_lock | mozilla::RecursiveMutex::LockInternal","hashes":["084e3bbba3315519ed2fe8186efd225e0414a15a92009155a0754d45e167aeb1"],"id":"id-208","last_modified":1788424987888,"schema":1788424567579}
+{"description":"content (Mac beta): JS::GetTenuredGCThingZone","hashes":["69e2e5407539978324a1dee67cee6738be2601ee6759f52e4b979dfbd7820c87"],"id":"id-208","last_modified":1788510790399,"schema":1788510366305}

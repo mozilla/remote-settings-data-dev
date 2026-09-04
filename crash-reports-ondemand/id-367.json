@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::SegmentedVector<T>::PopLastN | mozilla::dom::DeferredFinalizerImpl<T>::DeferredFinalize","hashes":["3984505d3ae4b83c6adebf7cbae9f101b2af6ac3bc0571e4f478a050bc86a45d"],"id":"id-367","last_modified":1788424988033,"schema":1788424834449}
+{"description":"content (Android nightly): mozilla::dom::MediaSource::Detach","hashes":["03583d144a2af40b688dbb8d3bd75a80795086844723a701a827960b312f3aa3"],"id":"id-367","last_modified":1788510790545,"schema":1788510655177}
