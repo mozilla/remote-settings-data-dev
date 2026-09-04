@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsTSubstring<T>::Finalize | nsTSubstring<T>::Truncate | nsTSubstring<T>::Assign | nsTSubstring<T>::Assign | nsTString<T>::operator=","hashes":["63df8df031c7ab699ab9dec0b307cfc52c76b19bcca90eb826019040e409a0ab"],"id":"id-377","last_modified":1788424989821,"schema":1788424851894}
+{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["1c86e0929248c8081d575f4d429d5a90f044ea91660924a8e7bba2b065ca2c6d"],"id":"id-377","last_modified":1788510792525,"schema":1788510675632}
