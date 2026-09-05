@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): elf_get_dynamic_info","hashes":["bcc56cc66dcc904df8ea8e01a19927df6b9bf2268c8e60ec88c6c9b0fb540c30","1f296dc79bfa264e955ba5a6571d83aafad9ff4c73dd5269ef5dd855b8b1a063"],"id":"id-352","last_modified":1788510792845,"schema":1788510626520}
+{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["f54cb8ee54d7897a784b99680da6d5c0e3374f9922ca229d4dc7b32f1dc18ca6"],"id":"id-352","last_modified":1788597728878,"schema":1788597586489}

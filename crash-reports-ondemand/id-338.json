@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::WritableStreamClose","hashes":["06abccd32f244cf17c922e54bd92a242b7c641edb8277c99375fec15fd34a3a9"],"id":"id-338","last_modified":1788510792818,"schema":1788510589306}
+{"description":"content (Mac nightly): webrtc::CloneSenderVideoFrame","hashes":["e91d778a3c716f51d9302fd45efc3f240979e650db8f61a4707af47f298926b8"],"id":"id-338","last_modified":1788597728852,"schema":1788597564905}
