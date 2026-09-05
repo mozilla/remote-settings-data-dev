@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | mozilla::gl::GetAndInitDisplay","hashes":["614390584710c4eb3fedd60cd3721a6ae0a247f380f88dd3587178e68816fd1f"],"id":"id-324","last_modified":1788510791083,"schema":1788510566240}
+{"description":"gpu (Mac beta): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["3167d418f09766182ed22ddaeca87e192bb55b5c55e35c0fb97debe2d7671c6d"],"id":"id-324","last_modified":1788597727392,"schema":1788597541284}

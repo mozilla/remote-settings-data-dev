@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::frontend::ParseNodeVisitor<T>::visit","hashes":["140f3eb5628387ff154ec7e6d80d85ec3ff7516c6656db84358daa8fc533a9d7","ab81a2bcfa27347ad5d3c880e5a5af08be4bdb2125e6fadd8623da8f429ba961"],"id":"id-344","last_modified":1788510790381,"schema":1788510600037}
+{"description":"content (Mac nightly): js::frontend::ParseNode::getKind","hashes":["c269cca5394a3835f617f12d62ff941479251d396fa64a2767c273c3399f21e9"],"id":"id-344","last_modified":1788597726641,"schema":1788597573892}
