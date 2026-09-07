@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::Shmem::Shmem","hashes":["580a2a847a1c2362a99bbe8b0ba0d150d155663f508f1e368bc9a5d5c5b0cb6a"],"id":"id-385","last_modified":1788597728512,"schema":1788597639591}
+{"description":"utility (Mac release): mozilla::Maybe<T>::ptr | mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["83c900d624e3f03c2c523bdb52788d8e1a51a4f4c6b30a9d5bc8418e8f033dd4"],"id":"id-385","last_modified":1788769951841,"schema":1788769853234}
