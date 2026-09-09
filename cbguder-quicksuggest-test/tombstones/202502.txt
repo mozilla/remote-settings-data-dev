@@ -1,0 +1,3 @@
+1738964167749	sponsored-suggestions-US-tablet
+1738964167752	sponsored-suggestions-US-phone
+1738964167755	sponsored-suggestions-US-desktop

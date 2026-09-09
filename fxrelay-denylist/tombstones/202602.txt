@@ -1,0 +1,16 @@
+1770733211215	account-booking-com
+1770733211218	auth-services-adobe-com
+1770733211221	www-google-com
+1770733211223	www-reddit-com
+1770733211225	appleid-apple-com
+1770733211227	www-youtube-com
+1770733211229	mail-google-com
+1770733211232	onlyfans-com
+1770733211234	secure-indeed-com
+1770733211236	secure-soundcloud-com
+1770733211238	signin-aws-amazon-com
+1770733211240	www-amazon-co-uk
+1770733211243	www-amazon-com
+1770733211245	www-amazon-de
+1770733211247	www-tiktok-com
+1770733211250	discord-com
