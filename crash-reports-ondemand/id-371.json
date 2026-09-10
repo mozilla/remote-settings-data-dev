@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::binding_danger::TErrorResult<T>::IsJSContextException","hashes":["a0ee4caf11a47d2033e4a33208dcecb6e65eceb2047f5d3e633a4571ef462979"],"id":"id-371","last_modified":1788858136566,"schema":1788858018429}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | UserCallWinProcCheckWow","hashes":["c4f6c6d513bd06400b926deab01cf1f0f5cd98cf4cbc7c3bdccec0baa5bad7ee"],"id":"id-371","last_modified":1789031529860,"schema":1789031413583}

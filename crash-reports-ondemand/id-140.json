@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::SetUpReadableByteStreamController","hashes":["17f5a9844a6c590defa48b21f9527356c91841b5e910c671bf951c84e1302bce"],"id":"id-140","last_modified":1788858137332,"schema":1788857638415}
+{"description":"main (Mac beta): mozilla::dom::workerinternals::RuntimeService::CrashIfHanging","hashes":["32d485b0db76249250a907674743bfa9a4877bdc32dee0c77162a1850562cb82"],"id":"id-140","last_modified":1789031530555,"schema":1789031045187}
