@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libxul.so | libc.so | libglslcompiler.so","hashes":["53807c4d4964b800e6ab4e45cdd56a37dc9b0e661f07241a2af426faf61ddda5"],"id":"id-426","last_modified":1789031532431,"schema":1789031502685}
+{"description":"gpu (Mac beta): mozilla::gl::GLContext::LockSurface","hashes":["708f7fea55a08132b05708b7df7e8b056e2fece93e7a53f8e62f8a5ed8d89261"],"id":"id-426","last_modified":1789125779986,"schema":1789125740644}
