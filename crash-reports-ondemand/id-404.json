@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::MediaFormatReader::UpdateReceivedNewData","hashes":["41e19a14913d370976641e5437dd5050bbf65001fec7e0fcf325baf9cf407217"],"id":"id-404","last_modified":1789289527888,"schema":1789289458073}
+{"description":"content (Linux nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["47885320573966f5c7524eb6d50d8ceef5dd3ee86140322200ad32f1a66f4cec"],"id":"id-404","last_modified":1789376617507,"schema":1789376543592}
