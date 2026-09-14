@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["e58f9ea34967d4bbe17afea46fa73a7d96c2fdb6233a0aab4fd28d2bec5530ea","7df0edb4ca51f5c86aff656b498f83b53629ae2a14e5b2b60a7eb656b9f733bd"],"id":"id-363","last_modified":1789289525600,"schema":1789289391186}
+{"description":"content (Linux nightly): js::SharedPropMap::lookupChild","hashes":["0d64a9bfe4e5b0df438a0bb40429ca869f2cb701abe2e3cb1d13c71dbebf44e7"],"id":"id-363","last_modified":1789376615418,"schema":1789376466800}
