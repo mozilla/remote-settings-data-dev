@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsAttrValue::GetEnumString","hashes":["dd55c8d09043d5d027e720c290a6ede860d5b4071c32fcd417dd8bafb0c41d78"],"id":"id-402","last_modified":1789376617270,"schema":1789376540271}
+{"description":"gpu (Android beta): libufwriter.so","hashes":["5b4ca0341262ff2d5396ac32ac68bdb43a4758ea61f2443d39a7fc20911d685c","9f819f3016535b8ac03fc15a592917268c4755b01cbcc3de71c348d713ea2e04"],"id":"id-402","last_modified":1789463577252,"schema":1789463507014}
