@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): libsystem_notify.dylib","hashes":["c7002dc3aeecd09461058bc3a51517b1dd43dd460f2863adeefb1925c4373c5d"],"id":"id-387","last_modified":1789376616049,"schema":1789376512667}
+{"description":"socket (Mac release): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["6772e66c8d90d53fd12352d9d3ed77ffa1dcfeab2641bd9752a28323ac5e22c3"],"id":"id-387","last_modified":1789463575707,"schema":1789463482704}

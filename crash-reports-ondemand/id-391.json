@@ -1,1 +1,1 @@
-{"description":"rdd (Mac beta): mozilla::detail::MutexImpl::mutexLock","hashes":["8f04ee479f0a5bd2c5ab2753edc2b5e29d03db29a7310f38d0a1449bcd8c5b75"],"id":"id-391","last_modified":1789376616151,"schema":1789376519501}
+{"description":"gpu (Mac nightly): mozilla::gl::GLContext::LockSurface","hashes":["23a1bbd28d75ed0343bdf18c282574e3c8d7ce4a638a66d7eeb93397daf2c251"],"id":"id-391","last_modified":1789463575814,"schema":1789463488858}
