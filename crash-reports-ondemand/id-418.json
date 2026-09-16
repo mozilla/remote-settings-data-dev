@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): _sigtramp","hashes":["8b22e321e1d67d0fce576e7743e90ee4eded087f5e24a2bb269895caa02f3a87","2a999842d829133f5a21ac53f3d4761662a451796006dd42df38c5e0b4aee5e6"],"id":"id-418","last_modified":1789463575637,"schema":1789463532992}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["1539a304fa414ad20fb2d035d774485cbe3055798fdcf869df53bbc25f4b2583"],"id":"id-418","last_modified":1789550512663,"schema":1789550480365}
