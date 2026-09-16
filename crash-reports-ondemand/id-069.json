@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libglslcompiler.so","hashes":["60e51fc0f6ec67d3744b071a755d935c294e7edaaa359175a703adb7e001873d","0404ae6b0047c466e9f2cf011190bd477637b2e3f5771cc96e53c7ef284f7da4","9781d75165def966ff2f122dfef7587a50d12a6f7005721471ec82ed0af989e9"],"id":"id-069","last_modified":1789463578199,"schema":1789462942054}
+{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["5d7a360ff8bb0f0c042ce35e338340975dc6e9482864c58bd8dccb6c8a35946a"],"id":"id-069","last_modified":1789550515681,"schema":1789549922794}

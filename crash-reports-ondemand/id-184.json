@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll","hashes":["9701f08285382e64270bc6a5ad4818a67c8f7615e1205db32d2d79197e564483","7744753fd1303e57c5aeb0c5a5f60019a5516d4c65e0501af72750d0d9a12e51","249e8d4a57def315c29acf30c74dc7ec1e53dd805a645f959ec20d67a88a7950"],"id":"id-184","last_modified":1789463576971,"schema":1789463138770}
+{"description":"socket (Mac release): mozilla::detail::ListenerImpl<T>::ApplyWithArgs<T>","hashes":["9360cdda85e81729ec436c48ca0aec24f698d9bda83a59f0caac11df29bea2cc"],"id":"id-184","last_modified":1789550513822,"schema":1789550105970}
