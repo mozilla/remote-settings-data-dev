@@ -1,0 +1,1 @@
+{"bugIds":["2071855"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ca8ab59e-28b3-4b4b-97eb-eda30e3c0d30","last_modified":1789524612159,"schema":1789524611120,"topLevelUrlPattern":"*://itvplus.net/*","urlPattern":"*://bizweb.dktcdn.net/*"}
