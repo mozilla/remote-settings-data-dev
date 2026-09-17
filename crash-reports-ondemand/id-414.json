@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::SetUpReadableByteStreamController","hashes":["256472d7c18b3d89359c2dc7294c7350197f39542462d772b5dd9c864264fe26"],"id":"id-414","last_modified":1789550515630,"schema":1789550474226}
+{"description":"content (Linux nightly): mozilla::ipc::IProtocol::CanSend","hashes":["c9b31c3af1ce88e7bf04dd39ea99fa6ae2f977a1eecbe471825298ac8d0a8651"],"id":"id-414","last_modified":1789635726582,"schema":1789635693305}

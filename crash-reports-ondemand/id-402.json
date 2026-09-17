@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libglslcompiler.so","hashes":["9781d75165def966ff2f122dfef7587a50d12a6f7005721471ec82ed0af989e9","0404ae6b0047c466e9f2cf011190bd477637b2e3f5771cc96e53c7ef284f7da4","60e51fc0f6ec67d3744b071a755d935c294e7edaaa359175a703adb7e001873d"],"id":"id-402","last_modified":1789550514113,"schema":1789550455040}
+{"description":"gpu (Android nightly): webrender::visibility::update_prim_visibility","hashes":["a16fb6ceccd0fae8f2d429fa2e554b12ff0d16a702211e157e0637816ffa2c57"],"id":"id-402","last_modified":1789635725644,"schema":1789635670472}
