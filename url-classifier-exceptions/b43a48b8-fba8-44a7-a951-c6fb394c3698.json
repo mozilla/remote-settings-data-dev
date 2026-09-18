@@ -1,0 +1,1 @@
+{"bugIds":["2072235"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b43a48b8-fba8-44a7-a951-c6fb394c3698","last_modified":1789697412506,"schema":1789697412198,"topLevelUrlPattern":"*://www.caremark.com/*","urlPattern":"*://*.datadoghq.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2072242"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7fd009d6-7324-4768-b2f1-e2fa68a0f83f","last_modified":1789697412480,"schema":1789524612555,"topLevelUrlPattern":"*://next.skmedix.pl/*","urlPattern":"*://pagead2.googlesyndication.com/*"}
