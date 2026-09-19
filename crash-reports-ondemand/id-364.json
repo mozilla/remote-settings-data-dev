@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x57c0030","hashes":["21baa5cfd56862a66ee3a03b84f070c852f341b1df12f76b0c06c5b8c194ce1a"],"id":"id-364","last_modified":1789635725805,"schema":1789635603340}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["bf17f7ff036f66f887df676cea63d88169030e2ea4378a2c0780729e88796b01"],"id":"id-364","last_modified":1789806112628,"schema":1789806003657}

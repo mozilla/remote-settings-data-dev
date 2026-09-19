@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_NOT_AVAILABLE)","hashes":["b25bcbc33ed8f16b52920df723d5657735b928dc3b54aeef4aa9877223a371db"],"id":"id-300","last_modified":1789635725608,"schema":1789635498992}
+{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["7705e754b60ab5071aa730eb320025565e0862ce2bae96bbc994b7b65797aa90"],"id":"id-300","last_modified":1789806112455,"schema":1789805901523}

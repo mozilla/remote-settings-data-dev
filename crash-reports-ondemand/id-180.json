@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::net::HttpBaseChannel::DoApplyContentConversionsInternal","hashes":["effb055e2579a684c08dca3de181f5270cdba82da9d7313989752f886e5c6938"],"id":"id-180","last_modified":1789635725460,"schema":1789635305108}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["8b9f364c6808fed1771cbc565d306bb3ba6e860f0cd8d271b575bc3d906fc3d8"],"id":"id-180","last_modified":1789806112326,"schema":1789805709090}

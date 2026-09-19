@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsThreadPool::PutEvent","hashes":["7ed594e5e47762465d372fe59693d6027e244054d344e0f53fb609f32be2d39f"],"id":"id-090","last_modified":1789635725283,"schema":1789635157234}
+{"description":"gpu (Windows nightly): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["757de605be06f5b81e144484fcc04b9f659e093bf604127735996929b63dd8cd"],"id":"id-090","last_modified":1789806112169,"schema":1789805560962}
