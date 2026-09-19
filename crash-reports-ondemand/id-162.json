@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | v8::internal::Zone::New<T>","hashes":["99229bed486caea5b7e17bda2b8a179002fe8270bebfb8be2def9bee517e01f3","c832486f83b2e97f8f9b2b0e73d6bb3868194a124e1a536c07bee8c85e36488b"],"id":"id-162","last_modified":1789635724451,"schema":1789635275743}
+{"description":"content (Linux nightly): mozilla::ipc::IProtocol::CanSend","hashes":["c9b31c3af1ce88e7bf04dd39ea99fa6ae2f977a1eecbe471825298ac8d0a8651"],"id":"id-162","last_modified":1789806111232,"schema":1789805676930}
