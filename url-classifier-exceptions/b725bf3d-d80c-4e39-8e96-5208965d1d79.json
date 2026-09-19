@@ -1,0 +1,1 @@
+{"bugIds":["2073438"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b725bf3d-d80c-4e39-8e96-5208965d1d79","last_modified":1789783810629,"schema":1789783810357,"topLevelUrlPattern":"*://catalogue.univ-amu.fr/*","urlPattern":"*://images-na.ssl-images-amazon.com/*"}

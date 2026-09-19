@@ -1,0 +1,1 @@
+{"bugIds":["2073462"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d89ad946-2faa-4356-a6f2-0fb0f9085f57","last_modified":1789783810620,"schema":1789697412807,"topLevelUrlPattern":"*://www.madewithlau.com/*","urlPattern":"*://form.flodesk.com/*"}
