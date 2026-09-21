@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::net::HttpBaseChannel::DoApplyContentConversionsInternal","hashes":["effb055e2579a684c08dca3de181f5270cdba82da9d7313989752f886e5c6938"],"id":"id-396","last_modified":1789806112728,"schema":1789806058568}
+{"description":"socket (Windows nightly): GetHandleInformation","hashes":["a2194e0ec59650601a1b550c5712f6b5ffcef8ed4d10b7c0724b2e40a2f4a868"],"id":"id-396","last_modified":1789980150505,"schema":1789980081263}

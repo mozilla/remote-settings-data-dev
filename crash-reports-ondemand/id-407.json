@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): AsyncShutdownTimeout | Places Clients shutdown | sanitize.js: Sanitize on shutdown","hashes":["1c8e7a23f836ee8504367ee677a62b9dda684b70cb28d0d2c1a267bcbb87c7ac"],"id":"id-407","last_modified":1789806112873,"schema":1789806075902}
+{"description":"content (Linux nightly): mozilla::media::Interval<T>::Interval<T> | mozilla::TrackBuffersManager::RemoveFrames","hashes":["6fa3c13f659478d361ed136a370c1752b31f36c8307707377f907eacf3f65bea"],"id":"id-407","last_modified":1789980150641,"schema":1789980099848}
