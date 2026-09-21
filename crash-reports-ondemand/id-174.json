@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["42171ac8c6a5a0872287f6fa2b4aa0d6ed7c3fa23383404634e471c923175a2c","fb7d06f191ee9422da83270fbc3b3dbd68f56747e8caff269a7bfaf882f35509"],"id":"id-174","last_modified":1789806110807,"schema":1789805696055}
+{"description":"gpu (Android nightly): libc.so | mozilla::a11y::aria::AttrIterator::ExposeAttr","hashes":["f7f87ef540ac571b790dd0efcd748f1451e04c891cf42380ace3cf985bec4011"],"id":"id-174","last_modified":1789980148649,"schema":1789979709127}
