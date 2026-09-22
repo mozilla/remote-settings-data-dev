@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | mozilla::Variant<T>::~Variant | mozilla::MozPromise<T>::ResolveOrRejectValue::~ResolveOrRejectValue","hashes":["173ad0e4e3c34fefb9ca66a8b5f7749b8c4b6edf3dd8077dad0d13078a6477e9"],"id":"id-219","last_modified":1789980149911,"schema":1789979781656}
+{"description":"gpu (Mac nightly): _sigtramp","hashes":["eaa64135d51f3a94643c5a7ca40ae2c07288ccce78d97f4d2184f58ba2c53a76"],"id":"id-219","last_modified":1790068384551,"schema":1790067991528}
