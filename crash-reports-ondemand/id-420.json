@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::MessageChannel::Send | mozilla::ipc::IProtocol::ChannelSend | mozilla::ipc::IPDLResolverInner::ResolveOrReject","hashes":["b80da924960fa0df7a442a7784f8798f57add5973483c29c59e2ddbb55956eae"],"id":"id-420","last_modified":1789980148750,"schema":1789980120922}
+{"description":"socket (Windows nightly): GetHandleInformation","hashes":["a2194e0ec59650601a1b550c5712f6b5ffcef8ed4d10b7c0724b2e40a2f4a868"],"id":"id-420","last_modified":1790068383216,"schema":1790068328902}
