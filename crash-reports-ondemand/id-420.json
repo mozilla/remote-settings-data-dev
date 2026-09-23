@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): GetHandleInformation","hashes":["a2194e0ec59650601a1b550c5712f6b5ffcef8ed4d10b7c0724b2e40a2f4a868"],"id":"id-420","last_modified":1790068383216,"schema":1790068328902}
+{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["a504fa1a258fd44e3027a49bc3175593d098b0b1b785fb7223cf54b4d6cdbfad","971b2ecbe34f5dd683d04025d748ad2efca546975f3a08d33ea6aa8d19abcd93"],"id":"id-420","last_modified":1790155959796,"schema":1790155905146}
