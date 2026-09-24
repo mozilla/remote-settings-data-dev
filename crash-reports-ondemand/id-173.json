@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x4e50030","hashes":["b74e41287da22c8286c4875312044209a73eb2db7e2f6c67e2ae97b2248a0d0e"],"id":"id-173","last_modified":1790155960934,"schema":1790155489931}
+{"description":"content (Android nightly): libc.so | mozilla::MonitorAutoLockBase<T>::Wait","hashes":["5e8cd19b1fdf1ad6effb2ed3f5edd8b5af4bd6f036aee827a2dfa3887c9a91a9","486c228d10229a045ba067d4072f506c396423275f367cfd38e8fc09622bc1b1"],"id":"id-173","last_modified":1790241168806,"schema":1790240706200}
