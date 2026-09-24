@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): wgpu_server_buffer_get_mapped_range","hashes":["58c19989cbb3e594c4a246ab6184c89fca455ac77cd9b4ec37994c528750fdd8"],"id":"id-432","last_modified":1790155959845,"schema":1790155925611}
+{"description":"gpu (Mac nightly): mozilla::gl::GLContext::LockSurface","hashes":["664e94603dcedb94c435b4b883b8183dac838bf5e4183397da06bd0fce7b201c"],"id":"id-432","last_modified":1790241167844,"schema":1790241132953}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | nsRangeFrame::GetValueAtEventPoint","hashes":["f2a3ff3f8dfc500f93b0bb16d262bef9405f4333a440cf54ebee0fa9ba87fa5b"],"id":"id-441","last_modified":1790155959157,"schema":1790155939849}
+{"description":"socket (Mac release): sigslot::_signal_base<T>::~_signal_base","hashes":["d6cff7c18ac28dd80edeb6da11fc7527b26ce69cff9c50f517f89926f844cb53"],"id":"id-441","last_modified":1790241167166,"schema":1790241147656}
