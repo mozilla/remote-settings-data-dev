@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): RtlReportFatalFailure","hashes":["80117c8010c8a18d573ca593341f2c076fdd7ed9744557497304effc0032942b"],"id":"id-088","last_modified":1790241167885,"schema":1790240567540}
+{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["6aa83dd01cd570b773a22d70e1f3a1908a82b936d680241e452b29262fb74450"],"id":"id-088","last_modified":1790328162154,"schema":1790327558917}
