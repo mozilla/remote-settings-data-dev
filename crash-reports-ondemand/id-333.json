@@ -1,1 +1,1 @@
-{"description":"main (Linux nightly): __run_prefork_handlers","hashes":["8ed0b761eb7cbb3425e0c0bab54f4fdd279495ae6ce50ef8c97faa35c96ccded","ec38cc06889167b6a2dc59dd0aa46fcf4b13e629f72507c12a08cbfccbc7a80b","79104357ff6d96ab4089f7c7a0671b61c3841031194345a83b81dd932e5b4253"],"id":"id-333","last_modified":1790328163760,"schema":1790327958139}
+{"description":"socket (Windows nightly): GetHandleInformation","hashes":["a2194e0ec59650601a1b550c5712f6b5ffcef8ed4d10b7c0724b2e40a2f4a868"],"id":"id-333","last_modified":1790413462645,"schema":1790413220814}
