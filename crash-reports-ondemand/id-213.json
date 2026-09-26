@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | Places Connection shutdown | PlacesUtils read-only connection closing as part of Places shutdown","hashes":["ab0ff7effb6b6ea8b5fe24706ca2f4974888fb545979337e33af7681feb1f24b"],"id":"id-213","last_modified":1790328162115,"schema":1790327764234}
+{"description":"socket (Mac release): destroy_assoc_chain","hashes":["9c15db737dc14d9c30852163a87c8d2b955b64e06935a1af4c6fcaf5cfc4af11"],"id":"id-213","last_modified":1790413461068,"schema":1790412998088}

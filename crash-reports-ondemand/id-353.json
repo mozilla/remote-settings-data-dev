@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["9b83706538eea601ec89a7cea987150a816a468a6094600034eea5fabb048125","8312b1c4188cf0a4f93e955384f9c2d7bd6855ba2089ec77bc15b0d8a7bd1e24"],"id":"id-353","last_modified":1790328162081,"schema":1790327989773}
+{"description":"rdd (Windows nightly): mozilla::RemoteImageHolder::~RemoteImageHolder","hashes":["35190fbfd9e93a36e5b92e0c9cc2f4b2b8f6c385f2076bca1b69c313b5d361cd"],"id":"id-353","last_modified":1790413461033,"schema":1790413258620}

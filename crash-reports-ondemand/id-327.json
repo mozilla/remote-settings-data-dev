@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | mozilla::Variant<T>::~Variant | mozilla::MozPromise<T>::ResolveOrRejectValue::~ResolveOrRejectValue","hashes":["173ad0e4e3c34fefb9ca66a8b5f7749b8c4b6edf3dd8077dad0d13078a6477e9"],"id":"id-327","last_modified":1790328161888,"schema":1790327948687}
+{"description":"main (Mac beta): -[mozTableCellAccessible moxRowIndexRange]","hashes":["862ece395b0fe2305b482784e7c3a19dfc6e37f42afc7f2f53700f8e8811db16"],"id":"id-327","last_modified":1790413460818,"schema":1790413199831}
