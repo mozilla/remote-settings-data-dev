@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): libxul.so | wl_log","hashes":["a1d08d8f7ea1ad3a3d2716b32f568089af22ba061ef81295ec7558f0e640c0d0","780470ce92f9b376b298208531606a87be64eb1658d64cb49c2213e8a8324144"],"id":"id-363","last_modified":1790413460622,"schema":1790413279909}
+{"description":"main (Mac beta): AsyncShutdownTimeout | Places Connection shutdown | PlacesUtils read-only connection closing as part of Places shutdown","hashes":["ab0ff7effb6b6ea8b5fe24706ca2f4974888fb545979337e33af7681feb1f24b"],"id":"id-363","last_modified":1790499762659,"schema":1790499604421}
