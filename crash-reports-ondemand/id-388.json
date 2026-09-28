@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): nss_InitializePRErrorTableOnce | PR_CallOnce | NSS_InitializePRErrorTable | nss_InitModules | nss_Init | NSS_NoDB_Init | EnsureNSSInitializedChromeOrContent","hashes":["59b6cbcde7257860ac600e7c6ffc5543ef9b83c84932064ac6b3d66dd08a59cf"],"id":"id-388","last_modified":1790499764566,"schema":1790499653065}
+{"description":"socket (Windows nightly): CreateRectRgn","hashes":["cb2174c24b19f0e6f4460896eff49df5829562bcbab7f9bddbea0c7bb67f711d"],"id":"id-388","last_modified":1790586787100,"schema":1790586671545}
