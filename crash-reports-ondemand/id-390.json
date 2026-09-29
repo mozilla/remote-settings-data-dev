@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["db3899735400c96b44304445be67e75534638703799c1b44fe0c6ae33921e02d"],"id":"id-390","last_modified":1790586785026,"schema":1790586674606}
+{"description":"gpu (Linux release): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["f889cf1e9dceab3385dab0150e261d4544513d1c1df01093d307520f5fb7ac58"],"id":"id-390","last_modified":1790673800607,"schema":1790673677837}

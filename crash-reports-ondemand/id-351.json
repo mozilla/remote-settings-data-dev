@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::ClearProps","hashes":["e25e7414653231f4551f182bfcc1dd99eef4303cde09b88a479fc126852c0202"],"id":"id-351","last_modified":1790586784895,"schema":1790586611829}
+{"description":"rdd (Windows nightly): mozilla::RemoteImageHolder::~RemoteImageHolder","hashes":["35190fbfd9e93a36e5b92e0c9cc2f4b2b8f6c385f2076bca1b69c313b5d361cd"],"id":"id-351","last_modified":1790673800468,"schema":1790673604036}
