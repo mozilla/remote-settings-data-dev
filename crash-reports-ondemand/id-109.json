@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["de95736b5260c541fcdb52f5cab0806f6438bce0da373a1f1c6a8c8ecc67a3bd"],"id":"id-109","last_modified":1790586786616,"schema":1790586195003}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["34b4f9c2e7dbfee904c4052b65f77f64dcedfe4589522717c09db4e684cab17f","f93574745f904d05a0c322039da4bbd81020b56dbd7c10b554e7c03a5b31959a"],"id":"id-109","last_modified":1790673802137,"schema":1790673198928}
