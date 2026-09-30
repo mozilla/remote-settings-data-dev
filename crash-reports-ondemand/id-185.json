@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::JSActorManager::ReceiveRawMessage","hashes":["553c5d2d91757cea4bf0e822ed1bcbabc7bf08fc00c39300a6396371f74d0391","f99f9f7e528bbc2ae24d35cacbedd08d4dec17407f961ae430535f3b74dbdd16"],"id":"id-185","last_modified":1790673802143,"schema":1790673323672}
+{"description":"socket (Mac release): sigslot::_signal_base<T>::~_signal_base","hashes":["d6cff7c18ac28dd80edeb6da11fc7527b26ce69cff9c50f517f89926f844cb53"],"id":"id-185","last_modified":1790760821731,"schema":1790760318598}

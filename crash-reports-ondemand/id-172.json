@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ipc::FileDescriptor::FileDescriptor","hashes":["6615a8a4f9184d00ca8b82ae26a6850296aa2ec19c89b937cc42589239fd2962"],"id":"id-172","last_modified":1790673802009,"schema":1790673299962}
+{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["6aa83dd01cd570b773a22d70e1f3a1908a82b936d680241e452b29262fb74450"],"id":"id-172","last_modified":1790760821606,"schema":1790760296599}
