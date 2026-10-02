@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLES_mali.so","hashes":["24f055319c6ae9ef6684c480e1ee39b3fcf45ffb46c8e01a4900201803a3f64c","444a3f297319918051a337f6a795766037fe29f72b79b2b37b70e82650d8e860"],"id":"id-388","last_modified":1790760820639,"schema":1790760690742}
+{"description":"gpu (Windows nightly): atidxx64.dll | gl::FramebufferAttachment::isYUV","hashes":["64e9007892a679c6763e2274236fd2860de270de086cfd07b2495537758d70de","afe2084c913581fd9fbaa3cca0f6492cea7dfbe3954fbde4eb8a9e86f8f0c522"],"id":"id-388","last_modified":1790928772176,"schema":1790928665410}
