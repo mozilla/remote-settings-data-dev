@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["7a409cf046aff2555f36b6d7f3c937ba3f51f3114f16fc17e2a02816be6871f4"],"id":"id-171","last_modified":1790928773075,"schema":1790928309678}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["da623e71bf67110b745de4be2044ee0b99378bbee016da06eb2ddda8a0c7425c"],"id":"id-171","last_modified":1791017570193,"schema":1791017091432}
