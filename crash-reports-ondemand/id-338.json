@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::OutputStreamHolder::Write","hashes":["8fe0aa83ffbf96b26eab4daf60e1452bc2257983238a93a4f409174b9d945960"],"id":"id-338","last_modified":1790928771654,"schema":1790928581534}
+{"description":"socket (Mac release): mozilla::non_crypto::XorShift128PlusRNG::next","hashes":["0e31f1a79017c54f4a0c91d069ed2627da8a68d193d3b5cec3f60ca8a23e2272"],"id":"id-338","last_modified":1791017568686,"schema":1791017377420}
