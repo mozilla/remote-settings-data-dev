@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["2a5735058294ee643ca86cb9568aad85287e5453d5afd058085a3dd4bdb1a12a","fe9c6097e6ca1ba28a2cbcde33f56f71c1f2aa4d168af5c5245e9eb2bc7c4a18"],"id":"id-404","last_modified":1791017570932,"schema":1791017488434}
+{"description":"content (Linux nightly): mozilla::DisplayItemClip::ApplyNonRoundedIntersection","hashes":["5acc548f814f2999138948e25f250605a73498d28f1a5b688fd37843dfcaabba"],"id":"id-404","last_modified":1791102835535,"schema":1791102747130}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): egl","hashes":["b31d89859c33cb41ecaefc8aa591582f06dbdc18cff085b7509883ce5c206196"],"id":"id-360","last_modified":1791017570435,"schema":1791017413876}
+{"description":"gpu (Android nightly): mozilla::ipc::MessageChannel::AssertWorkerThread | mozilla::ipc::MessageChannel::Send | mozilla::ipc::IProtocol::ChannelSend | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["235e610e271733d5006507ddde3245e63b02d3effb18682f2ff0d34a021f8226"],"id":"id-360","last_modified":1791102834874,"schema":1791102668410}
