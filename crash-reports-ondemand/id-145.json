@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["7d45ca7e00d80b72d64db1af1b40cbbb2d076e0eb412bb45dc88e41a5457b188"],"id":"id-145","last_modified":1791190978005,"schema":1791190442528}
+{"description":"gpu (Android beta): skcpu::Draw::drawPath","hashes":["d52aff02c45aeb93b3441203c5393b6c24b64bac22aa9863daf601e81cdd8362"],"id":"id-145","last_modified":1791279215244,"schema":1791278661368}
