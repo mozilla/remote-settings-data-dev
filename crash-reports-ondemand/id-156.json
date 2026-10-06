@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["1cd3d3d001414d38a608e22c0d3793df1d6bd9643e976313f3edd81d52458a93"],"id":"id-156","last_modified":1791190976314,"schema":1791190459671}
+{"description":"content (Mac beta): js::IsProxy","hashes":["1d7401d25da603154a88b8a9cc24a6a68ff036c89391daf620e7cf95caad278c"],"id":"id-156","last_modified":1791279213298,"schema":1791278679531}
