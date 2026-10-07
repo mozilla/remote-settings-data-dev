@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): OOM | small","hashes":["29eacf1c814bb9e7757136fa2217acb5a6433616179487a2a42fe0bea8e910f2"],"id":"id-157","last_modified":1791279212948,"schema":1791278681088}
+{"description":"gpu (Android beta): <mozglue_static::panic_hook as core::ops::function::FnOnce<>>::call_once","hashes":["e54d06a30e3329cccc7d180e2f5c3c61ac9555095034cafdc0eb929e08f09094"],"id":"id-157","last_modified":1791366208911,"schema":1791365687178}
