@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): NtSignalAndWaitForSingleObject","hashes":["819ae7132d29d87b2ddcee6b2e1b482726e2c7719bb3daa6694bd6d399d90b8b"],"id":"id-445","last_modified":1791366210989,"schema":1791366184156}
+{"description":"gpu (Mac beta): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["8f88b1bea33701b175e6ecb3cf7be5c2d0db110c9e718c0d11d242507661af0b"],"id":"id-445","last_modified":1791537280917,"schema":1791537253092}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsContentUtils::SubjectPrincipal","hashes":["c151edcc2237683c547a6a37d5265f4ca7d029a94e3d856403fdb89e25ec23ac","33e89eb927980d2dafce03dd26bbf8950f889aa1a7e784b2dbbc6815ca067d22","d163f7042908888b749934e37c289a826805d034b7d285dd4a0d700a30638097"],"id":"id-156","last_modified":1791366210584,"schema":1791365685486}
+{"description":"content (Mac beta): js::frontend::ParseNode::getKind","hashes":["dc6ad49d68b6005fbe6decb0472a9cae696e090e37a867762502ac1bc31577ff"],"id":"id-156","last_modified":1791537280190,"schema":1791536682044}
