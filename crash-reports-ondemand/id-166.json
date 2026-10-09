@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): core::str::lossy::impl$4::next","hashes":["99ca6665a5453296c170516d041973028a87a847d62f5d1fb9970a2a3b1c2286"],"id":"id-166","last_modified":1791366209031,"schema":1791365701142}
+{"description":"gpu (Android beta): <mozglue_static::panic_hook as core::ops::function::FnOnce<>>::call_once","hashes":["e54d06a30e3329cccc7d180e2f5c3c61ac9555095034cafdc0eb929e08f09094","89d06db3bf5d5151947c9fc2c59361d05eaefc965da106fa409b825bebd02279"],"id":"id-166","last_modified":1791537278014,"schema":1791536701277}
