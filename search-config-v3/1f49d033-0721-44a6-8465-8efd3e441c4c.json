@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"YouTube","urls":{"search":{"base":"https://www.youtube.com/results","params":[],"searchTermParamName":"search_query"}}},"id":"1f49d033-0721-44a6-8465-8efd3e441c4c","identifier":"youtube","last_modified":1791553906978,"recordType":"engine","schema":1791553836347,"variants":[{"environment":{"allRegionsAndLocales":true},"optional":true}]}

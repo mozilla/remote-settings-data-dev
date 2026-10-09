@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"MercadoLibre Argentina","urls":{"search":{"base":"https://www.mercadolibre.com.ar/jm/search","searchTermParamName":"as_word"}}},"id":"d0708b09-3d61-4938-b5e7-9ec2becbf01b","identifier":"mercadolibre-ar","last_modified":1791553906262,"recordType":"engine","schema":1791553799202,"variants":[{"environment":{"locales":["es-AR"]}}]}
