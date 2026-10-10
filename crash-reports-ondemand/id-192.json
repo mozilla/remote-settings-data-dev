@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["090fd05d1731047cf3793f18b8fccfd7c9d8c935d36221641d00baf0a9b11976"],"id":"id-192","last_modified":1791537280280,"schema":1791536763280}
+{"description":"gpu (Mac beta): webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["8f88b1bea33701b175e6ecb3cf7be5c2d0db110c9e718c0d11d242507661af0b"],"id":"id-192","last_modified":1791623031760,"schema":1791622544541}
