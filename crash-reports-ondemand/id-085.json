@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::SetUpReadableByteStreamController","hashes":["850c414cfaa562ee3dfa9d6304cede670c8eacb8221d6155fea54abc3fd1e15e"],"id":"id-085","last_modified":1791623030245,"schema":1791622356953}
+{"description":"socket (Linux release): mozilla::safebrowsing::TableUpdateV2::~TableUpdateV2","hashes":["0e16b2ec4316423c4ed940ece8019ff112f9da9e7fcc6ad31a1e9ff61eddece0"],"id":"id-085","last_modified":1791713015502,"schema":1791712354579}

@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | nsTArray<T>::~nsTArray | mozilla::MediaEventSourceImpl<T>::NotifyInternal<T>","hashes":["0075c08172d58acec396f16953615df1da30b4ce69e86ce8b674497d0dc2e6c7"],"id":"id-397","last_modified":1791623028535,"schema":1791622922988}
+{"description":"content (Mac nightly): ServoComputedData::StyleDisplay","hashes":["edf8c44192c2b3674146be125b04bd7a2762a83ef312f5a6ddf7480ef001c0db"],"id":"id-397","last_modified":1791713014173,"schema":1791712915773}
