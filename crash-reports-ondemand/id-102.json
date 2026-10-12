@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["8aac82995d9c37f2fcf59045da609803496106e79b88db919d630284e7a75892"],"id":"id-102","last_modified":1791713015473,"schema":1791712382617}
+{"description":"content (Linux nightly): mozilla::dom::Selection::SelectFrames","hashes":["eedd0068e4609abded705c6f39a8c5fed50966eeba94a69d23a93e1da1ef46db","f1b65aa7996d4aa10638da58f5e5b006a0e1329cbd5ac024a5b598bdf146e708"],"id":"id-102","last_modified":1791794809740,"schema":1791794054576}
