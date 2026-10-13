@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): PtrInfo::AnnotatedReleaseAssert","hashes":["acc1bf99ab4b7ac0145d020a62cb4cc93b72e17f0b1621466faffc654fd3f2f0"],"id":"id-417","last_modified":1791794808613,"schema":1791794729401}
+{"description":"socket (Linux release): mozilla::ipc::MessageChannel::OnMessageReceivedFromLink","hashes":["e0ce9e75d8c78882ad25efc4a5b6ad53e67d661bf7703be991cf9ed14aa7d8fe"],"id":"id-417","last_modified":1791882239401,"schema":1791882164244}

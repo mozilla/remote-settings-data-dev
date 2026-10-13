@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ntdll.dll | KERNELBASE.dll | mozglue.dll | xul.dll | firefox.exe","hashes":["661c64d9b2932a614bd897caab39d1d1e1f10c29de3e330e211d2ab0ef8d3763"],"id":"id-183","last_modified":1791794809663,"schema":1791794237971}
+{"description":"socket (Linux release): libxul.so | firefox","hashes":["61a0f9b9392efc1f0059274c703a163d1e32a5ba7dc1226e8bd382e560f12642"],"id":"id-183","last_modified":1791882239963,"schema":1791881723014}

@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): pthread_kill | abort | GLDContextRec::flushContextInternal","hashes":["4d3bfda8185e95c195bd683fdd7d4fe7b2eb20d0033b91f4c96a2b716cdbfc6a"],"id":"id-125","last_modified":1791794809518,"schema":1791794112801}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["26de6b43dcc007a4541d39283ffada4067665319fc83a672b24cbc8503874111","6b528ed6a6f3c3bf3fae34d80e58263743a1cc01dd36e90aae3e0db41b20f5c1"],"id":"id-125","last_modified":1791882239887,"schema":1791881620625}
