@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): dav1d_worker_task","hashes":["99c6e28a648244b1a0f64319dd767756444c81ac45842f5ea79fa28cddcf70af"],"id":"id-371","last_modified":1791882241104,"schema":1791882082232}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["2f319ecdedec793fd527fd7cb4c0a3e3ee975b25b24843f28367d7077edbc669"],"id":"id-371","last_modified":1791969824461,"schema":1791969670486}
