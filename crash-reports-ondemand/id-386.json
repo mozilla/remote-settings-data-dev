@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["115441e344089bf7bff65cc7baea7353f2bec10f0084ca1d146039ff2b829271"],"id":"id-386","last_modified":1791969823552,"schema":1791969694261}
+{"description":"gpu (Android nightly): libc.so | serde_core::ser::Serializer::collect_map","hashes":["e40ff29b586c9a94139067e0ef5b5c62fe39de1c4acdf7e488347eee4f3db4ca"],"id":"id-386","last_modified":1792053842856,"schema":1792053732171}
