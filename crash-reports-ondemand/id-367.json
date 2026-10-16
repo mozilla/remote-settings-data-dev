@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | nsTArray<T>::~nsTArray | mozilla::MediaEventSourceImpl<T>::NotifyInternal<T>","hashes":["0075c08172d58acec396f16953615df1da30b4ce69e86ce8b674497d0dc2e6c7"],"id":"id-367","last_modified":1792053841551,"schema":1792053695895}
+{"description":"gpu (Mac beta): _sigtramp","hashes":["7a723d12984b2ef69de36f8abcde2bfd377b11aa5a28644200365df95c8c4e27","c3dde70282988acc9cd01506f58f2ea30719fb7c794e230878d9a593b7419fc6"],"id":"id-367","last_modified":1792143879195,"schema":1792143718964}
