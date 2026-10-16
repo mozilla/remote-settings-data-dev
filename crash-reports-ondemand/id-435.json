@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::AutoEnterOOMUnsafeRegion::crash | js::wasm::Init","hashes":["a269f4dd31b5450d9c04b35e56a518dad1c311b0eb768fac240ca5d7c0788e1c"],"id":"id-435","last_modified":1792053842920,"schema":1792053819040}
+{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["db9379f97dc5efa74858f26f523f82a44bf7008f1155bd6549b9f85363d2fdba"],"id":"id-435","last_modified":1792143880722,"schema":1792143846127}
