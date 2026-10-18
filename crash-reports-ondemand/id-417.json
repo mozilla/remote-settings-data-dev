@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::ipc::IProtocol::FatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["6bb8ce3b34378346f15515ad6f025fe661ba0dde89ebc1f1a087c6ddeade6d4a"],"id":"id-417","last_modified":1792227270894,"schema":1792227202792}
+{"description":"utility (Windows nightly): NtWaitForAlertByThreadId","hashes":["8024573be35fc2b518fd6c663e59a81143279afeb49465f344368695d0b544e2"],"id":"id-417","last_modified":1792313090985,"schema":1792313024964}
