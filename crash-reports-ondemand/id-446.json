@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): NvGlEglGetFunctions","hashes":["348a1e7ad0b50631fe4c1b7c31461cd45bd185570a0ffe3de635786ca36229be","eabd9bd7bdc982cb4120c116744d0c25ee8fc3ee58ff1222287c5b67d99548b3"],"id":"id-446","last_modified":1792227269086,"schema":1792227256224}
+{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["2a28643e459b98e4e56e56dafead9cb42e24f280acc8445921aca3b3eb206ac7"],"id":"id-446","last_modified":1792313088411,"schema":1792313079136}
