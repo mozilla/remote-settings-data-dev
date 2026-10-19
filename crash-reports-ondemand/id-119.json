@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CCollectionLock::s_AddTaskTimerCallback","hashes":["0682b09db940a349552ef6eb0c5dfdb4267865c4f122d1e2e8c6cfaa5b6c2554"],"id":"id-119","last_modified":1792313088608,"schema":1792312471548}
+{"description":"socket (Windows beta): mozilla::net::PollableEvent::Signal","hashes":["0c6137b45425ce9522921bd7582c480c31767c4feda7c14c2901329e98160d8a"],"id":"id-119","last_modified":1792400066783,"schema":1792399445517}
