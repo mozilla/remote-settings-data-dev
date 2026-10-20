@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::TenuredCell::zoneFromAnyThread","hashes":["c60918e3ae88ac4a6df91eb3338ddfc5e5240d5ea664404199bcf1200dc99986","d2a4202070acbc2939ca70a9cc2d3eb8f341169cb7e8572e6d22477d60df2aab"],"id":"id-349","last_modified":1792400067527,"schema":1792399873868}
+{"description":"content (Linux beta): js::GCData<T>::get","hashes":["7c63e7370bdb532afb88ee89b9ce38999942b074fb76e5200f4fdcc4ebd6d0d8","911122f9b88be2ca27078b5b6e845352bde83f52fc14f926bb0a0c9f61743ec8"],"id":"id-349","last_modified":1792498447974,"schema":1792498260561}
