@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["c1229aa5b72646f32fa13248013d67a037e7071a730db974e00dd42ac7abc097","812d54a74d353397a3a91149a06534d8401b2b8a1b6374df04c360325dd5c850","c5a6018c993bb46a184ab2a374142fe6fcf923b0a96e4c24b8d2e1e3a646915b"],"id":"id-376","last_modified":1792498448423,"schema":1792498309279}
+{"description":"socket (Windows beta): InjUmon64.dll","hashes":["ccbb94346126a089691499d5b94d829d8a97fce4f4be6de26028b772d674aa8d"],"id":"id-376","last_modified":1792574629207,"schema":1792574483951}
