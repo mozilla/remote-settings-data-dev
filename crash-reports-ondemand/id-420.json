@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): CanonicalizeXPCOMParticipant","hashes":["afa4c9adcdd0af8a2d7f603e233597eb64dd28190fd65df2f0e36615293826cb"],"id":"id-420","last_modified":1792498449902,"schema":1792498383216}
+{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::WritableStreamClose","hashes":["86f7da2212457429ff50b6365061466326d8525ff459eaf544a34851c05edaa1"],"id":"id-420","last_modified":1792574630756,"schema":1792574566045}

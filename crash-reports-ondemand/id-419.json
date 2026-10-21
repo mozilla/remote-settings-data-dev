@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CCollectionLock::s_AddTaskTimerCallback","hashes":["0682b09db940a349552ef6eb0c5dfdb4267865c4f122d1e2e8c6cfaa5b6c2554"],"id":"id-419","last_modified":1792498449918,"schema":1792498381637}
+{"description":"socket (Linux release): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["e33f9e75a1d631ee07cfee135f738b541217446bd02c6962d1c886ede8f7606c","0e8ea986c754c29c2a24bef1fc09f4f465ca05ab5face3ad67b93ef9de5a5f64"],"id":"id-419","last_modified":1792574630553,"schema":1792574564420}
