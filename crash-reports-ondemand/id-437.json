@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::TransformStream::SetBackpressure","hashes":["75115919d2c93f860817a71cde99bd5bfb80c9459405fefc4fc2eaea143b869b"],"id":"id-437","last_modified":1792574630214,"schema":1792574596828}
+{"description":"content (Mac beta): CanonicalizeXPCOMParticipant","hashes":["52701674ff3541bd871be83a3b5e10740d52105dd7961ab9edcea94ab3dd10f7"],"id":"id-437","last_modified":1792661069475,"schema":1792661029037}
