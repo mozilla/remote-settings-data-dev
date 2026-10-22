@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): libxul.so | firefox","hashes":["a65dc42dd04f7ce3f22e08f1dacfe08c2dfcb38f1a20404aa9af24617cb913e2","4c51bbb96e1afd3acb0267c0bc20fa2f0246ffe6667d9351911d738adde5508d"],"id":"id-303","last_modified":1792574628258,"schema":1792574351889}
+{"description":"socket (Windows beta): mozilla::net::PollableEvent::Signal","hashes":["0c6137b45425ce9522921bd7582c480c31767c4feda7c14c2901329e98160d8a"],"id":"id-303","last_modified":1792661067365,"schema":1792660780283}
