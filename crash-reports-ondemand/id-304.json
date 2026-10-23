@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): shutdownhang | mozilla::(anonymous namespace)::RunWatchdog","hashes":["4714e355f2f60ae15352b69791a9e05047472f899126681217b283e6e10fc874","90318c0fa4db9a4f89206678298bff4e05a56d9cf99754b8847f511a4457954b"],"id":"id-304","last_modified":1792661069188,"schema":1792660782187}
+{"description":"gpu (Android beta): mozilla::wr::RenderThread::HandleFrameOneDocInner","hashes":["d3309dd9ebab3f817eb9b8c6a4e56fcc58415d9d366a6342d8387433fb26cb28"],"id":"id-304","last_modified":1792747471297,"schema":1792747177420}
