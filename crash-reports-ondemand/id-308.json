@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): pthread_kill | abort | IOGPUMetalCommandBufferStorageAllocResourceAtIndex","hashes":["82736decaeccfb38ec564496c8275454ac8dce21c57517199b07b67a1b399a43"],"id":"id-308","last_modified":1792747472027,"schema":1792747184431}
+{"description":"gpu (Android nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["440e542752343ca9559bc491f87b21622913ab3f3053b35afb9aaae481ac048c"],"id":"id-308","last_modified":1792833280713,"schema":1792832991156}
