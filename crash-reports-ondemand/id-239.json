@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): libsystem_platform.dylib","hashes":["47e1ad6595dd445b936c8adbb8eb822b52b528c944dcd54af8c43c0e12231611"],"id":"id-239","last_modified":1793004893850,"schema":1793004444621}
+{"description":"main (Mac nightly): AsyncShutdownTimeout | quit-application | Extension startup: extension@tabliss.io,XPIProvider shutdown","hashes":["0291ef45c380c8ffc36540ffdf8c101062955cd4833e54e889a137ede46bed1a"],"id":"id-239","last_modified":1793091886219,"schema":1793091439919}

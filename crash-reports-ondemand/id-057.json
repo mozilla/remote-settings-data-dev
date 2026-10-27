@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): FigXPCRemoteClientDispose","hashes":["1e2318f7e069dfaa2defc7d74b9dd8f4c370a6eb39caa6a761f4207dc4f25714","f5fe580e827ed948537354b3edd41e4cfd5c6061263bccc542b005b184ae75f0"],"id":"id-057","last_modified":1793004891921,"schema":1793004113746}
+{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["dfb21f596f9b8ba4ffba3934c0d614bf8c74e9b02acf2cabcd57fbb26900d0ea"],"id":"id-057","last_modified":1793091884920,"schema":1793091109447}
