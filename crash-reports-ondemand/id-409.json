@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x57d0030","hashes":["0b64c4e96e4f755388597146688700bb571ae08a67ae21ef29660d80bb7b23ca"],"id":"id-409","last_modified":1793091883261,"schema":1793091767936}
+{"description":"gpu (Windows nightly): amdxx64.dll | RtlpFreeHeapInternal | amdxx64.dll | RtlFreeHeap | amdxx64.dll | CDestructionNotifier::~CDestructionNotifier","hashes":["79ff149dba866685f537e67eb2e6be8801707ba6cf4fb342944d641d7ec6323f","9701bed715d7fc61eb41c3e649c86a9ec4330fce71629aa66e15305bc029ac00"],"id":"id-409","last_modified":1793178281542,"schema":1793178180707}
