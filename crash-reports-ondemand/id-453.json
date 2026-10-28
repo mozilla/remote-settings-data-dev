@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[NSObject doesNotRecognizeSelector:] | ___forwarding___ | __forwarding_prep_0___ | rx::mtl::CreateShaderLibrary","hashes":["33b8357222e02e9633814943bb11291ae8a6dd2a57a0b4055254336fb2cea7d4"],"id":"id-453","last_modified":1793091885138,"schema":1793091852981}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["c1dc8d060d1a4af47c703506754ae72538ff80d7b715ad3467a8fbdcf06e70a0"],"id":"id-453","last_modified":1793178283608,"schema":1793178259795}
