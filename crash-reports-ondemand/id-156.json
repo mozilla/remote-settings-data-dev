@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::Vector<T>::initCapacity | mozilla::Vector<T>::initLengthUninitialized | mozilla::ipc::NodeController::DeserializeEventMessage","hashes":["e5a668f00316aa10a73bae078e296ddfeb23556d3b14789c68fee0c39b8a91ab"],"id":"id-156","last_modified":1793178281703,"schema":1793177690558}
+{"description":"socket (Mac release): destroy_assoc_chain","hashes":["51a3630f157146ba127c555be6d2829895abb2ce7b5dc27d279e1ade3e7cfcbd"],"id":"id-156","last_modified":1793349895655,"schema":1793349321868}

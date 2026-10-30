@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::MarkingTracerT<T>::processMarkStackTop","hashes":["ffa95a0547940ff96799c297dd0caf589e27ecd6fb2edbfb8f436a45bdb25db2","f97ea560a7b1fb4f124914571264abc945d994e741a4ffcd56f3d1a4b66eb5d0"],"id":"id-100","last_modified":1793178281927,"schema":1793177588717}
+{"description":"content (Linux nightly): mozilla::StyleAtom::IsStatic","hashes":["96226b351b30bebfacbf5d98191acefec9089b25d155fa9f204cc9377a821d3e"],"id":"id-100","last_modified":1793349895817,"schema":1793349215412}
