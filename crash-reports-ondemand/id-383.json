@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change-telemetry | CrashManager: submitting Glean crash ping(s)","hashes":["dfb21f596f9b8ba4ffba3934c0d614bf8c74e9b02acf2cabcd57fbb26900d0ea"],"id":"id-383","last_modified":1793178283522,"schema":1793178131587}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["230196f87cac6df02f696a9a137123b7b1b574d59f4dd54519774abb8450b0f6"],"id":"id-383","last_modified":1793349897305,"schema":1793349748936}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | webrender::device::upload::UploadBufferPool::end_frame","hashes":["dfacfe68f4a1e77a22c4d92e938f8aba31bfac6f60e6686a29e9c5a45c270f81"],"id":"id-426","last_modified":1793178284284,"schema":1793178212112}
+{"description":"gpu (Android beta): core::ptr::swap_chunk","hashes":["75b18c0a9d652047f495dab82545bdb3d1c59bb4260677cf5056c113b4e6bfa8"],"id":"id-426","last_modified":1793349897904,"schema":1793349829085}
