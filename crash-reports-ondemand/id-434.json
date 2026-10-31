@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): AsyncShutdownTimeout | AddonManager: Waiting to start provider shutdown. | AddonRepository Background Updater","hashes":["6dc14a7d2249202fae22ff5050a9f7a7465c3a65edc7eb214727750d0f007067"],"id":"id-434","last_modified":1793349895366,"schema":1793349843786}
+{"description":"gpu (Android nightly): mozilla::layers::APZBridgeParent::APZBridgeParent","hashes":["5a128645513a7036b254c480eb88b206de06e261c446e64d13307825679f906c"],"id":"id-434","last_modified":1793436814254,"schema":1793436796522}
