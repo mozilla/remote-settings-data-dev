@@ -1,0 +1,1 @@
+{"bugIds":["2084051"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"65235ff8-b9bd-4af7-bff8-d07ccecb4fe3","last_modified":1793412618746,"schema":1793412612654,"topLevelUrlPattern":"*://www.ft.com/*","urlPattern":"*://*.opinary.com/*"}

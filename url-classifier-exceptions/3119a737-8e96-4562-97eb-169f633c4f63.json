@@ -1,0 +1,1 @@
+{"bugIds":["2022148"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3119a737-8e96-4562-97eb-169f633c4f63","last_modified":1793412618637,"schema":1793412618065,"topLevelUrlPattern":"*://www.kathykuohome.com/*","urlPattern":"*://*.livechatinc.com/*"}

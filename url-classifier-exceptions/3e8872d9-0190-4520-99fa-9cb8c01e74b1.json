@@ -1,0 +1,1 @@
+{"bugIds":["2060756"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3e8872d9-0190-4520-99fa-9cb8c01e74b1","last_modified":1793412618656,"schema":1793412617190,"topLevelUrlPattern":"*://balance.mastercardgiftcard.com/*","urlPattern":"*://geoip-js.com/*"}

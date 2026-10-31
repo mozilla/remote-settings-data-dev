@@ -1,0 +1,1 @@
+{"bugIds":["2084083"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"73e6f167-ed21-4016-bae9-d3068746d6d0","last_modified":1793412618712,"schema":1793412612337,"topLevelUrlPattern":"*://www.pardebrujas.com/*","urlPattern":"*://*.editmysite.com/*"}

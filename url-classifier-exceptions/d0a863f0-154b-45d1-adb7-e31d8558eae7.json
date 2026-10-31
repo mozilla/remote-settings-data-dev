@@ -1,0 +1,1 @@
+{"bugIds":["2073066"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d0a863f0-154b-45d1-adb7-e31d8558eae7","last_modified":1793412618641,"schema":1793412616664,"topLevelUrlPattern":"*://www.manchestereveningnews.co.uk/*","urlPattern":"*://*.primis.tech/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2082916"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"30a27bfa-4430-4b61-b5e1-7e91063c182d","last_modified":1793412618850,"schema":1793412613519,"topLevelUrlPattern":"*://www.yourrewardcard.com/*","urlPattern":"*://geoip-js.com/*"}

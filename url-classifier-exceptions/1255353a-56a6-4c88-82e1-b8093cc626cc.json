@@ -1,0 +1,1 @@
+{"bugIds":["2083649"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1255353a-56a6-4c88-82e1-b8093cc626cc","last_modified":1793412618771,"schema":1793412612816,"topLevelUrlPattern":"*://www.maidosushicafe.com/*","urlPattern":"*://*.editmysite.com/*"}

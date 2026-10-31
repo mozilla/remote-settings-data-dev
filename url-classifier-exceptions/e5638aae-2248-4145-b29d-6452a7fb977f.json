@@ -1,0 +1,1 @@
+{"bugIds":["2076120"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e5638aae-2248-4145-b29d-6452a7fb977f","last_modified":1793412618883,"schema":1793412616539,"topLevelUrlPattern":"*://mymeralco.com.ph/*","urlPattern":"*://connect.facebook.net/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2084628"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"95738809-8c37-4527-8da7-41b10bc984d9","last_modified":1793412618555,"schema":1793326210894,"topLevelUrlPattern":"*://www.pioneerfencing.com/*","urlPattern":"*://*.editmysite.com/*"}

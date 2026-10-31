@@ -1,0 +1,1 @@
+{"bugIds":["2070119"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d33e3004-061e-446e-a82b-25c65d6c7fb1","last_modified":1793412618854,"schema":1793412616800,"topLevelUrlPattern":"*://filmio.hu/*","urlPattern":"*://connect.facebook.net/*"}

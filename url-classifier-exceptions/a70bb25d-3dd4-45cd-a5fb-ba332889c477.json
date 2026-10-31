@@ -1,0 +1,1 @@
+{"bugIds":["2087043"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a70bb25d-3dd4-45cd-a5fb-ba332889c477","last_modified":1793412618507,"schema":1793326209159,"topLevelUrlPattern":"*://www.trojanaquaticclub.org/*","urlPattern":"*://*.editmysite.com/*"}

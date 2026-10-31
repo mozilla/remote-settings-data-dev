@@ -1,0 +1,1 @@
+{"bugIds":["2080027"],"category":"convenience","classifierFeatures":["emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"05dccc91-20c8-4412-9850-2039ab1d9628","last_modified":1793412618801,"schema":1793412614385,"topLevelUrlPattern":"*://act.environmentaldefence.ca/*","urlPattern":"*://ca.engagingnetworks.app/*"}

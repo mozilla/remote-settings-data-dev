@@ -1,0 +1,1 @@
+{"bugIds":["2078178"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"34ca99e5-2c12-423e-9ef1-a137682956eb","last_modified":1793412618811,"schema":1793412615315,"topLevelUrlPattern":"*://www.agilent.com/*","urlPattern":"*://edge.adobedc.net/*"}

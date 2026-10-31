@@ -1,0 +1,1 @@
+{"bugIds":["2082508"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d2819706-9cc9-44a6-8c0c-c1a243ba1363","last_modified":1793412618864,"schema":1793412613645,"topLevelUrlPattern":"*://www.slyrox.com/*","urlPattern":"*://*.editmysite.com/*"}

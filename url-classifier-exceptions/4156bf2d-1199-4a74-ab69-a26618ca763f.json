@@ -1,0 +1,1 @@
+{"bugIds":["2079223"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4156bf2d-1199-4a74-ab69-a26618ca763f","last_modified":1793412618705,"schema":1793412614944,"topLevelUrlPattern":"*://www.kelticblades.com/*","urlPattern":"*://*.editmysite.com/*"}
