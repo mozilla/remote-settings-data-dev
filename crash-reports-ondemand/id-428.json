@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): XPCJSContext::NewXPCJSContext","hashes":["ed0e356829b57cb886625044a583b87b3f73f8ee7ff0626d5bb4780e00b0df93","5447183ac6c80b3a371741267268e7060f1c5ea316df16fc8cc2dc51085e4f44"],"id":"id-428","last_modified":1793349897299,"schema":1793349833115}
+{"description":"content (Mac beta): mozilla::dom::BrowsingContext::BrowsingContext","hashes":["94bb8e7e0499e2bf90a047b40b7de20f849b80fb454c10d36a07ed12e593b7bb"],"id":"id-428","last_modified":1793436815802,"schema":1793436786333}

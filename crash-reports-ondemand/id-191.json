@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | RtlpAllocateNTHeapInternal","hashes":["97d05e6d5fcc6a251174d30ab4ac3ee3ea60389ea841bcdc242b89be76b05de4","aa92b323641dfd35db31219d707f9513b8f3741c07609dd47ca801f0c7a9177e","bff21031bd7b7d23026d613db40f3edde90cda05ea9f2b6caebe73e0f179ef86"],"id":"id-191","last_modified":1793349897772,"schema":1793349388325}
+{"description":"gpu (Linux release): libxul.so | libnspr4.so","hashes":["472d79988b27f69dfcf61221dadfd4feed01ff06d9b936470bc542c15bf2876f"],"id":"id-191","last_modified":1793436816180,"schema":1793436354798}
