@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::webgl::TexUnpackSurface::BlitSd","hashes":["756b7e1aeb63a281b207c1dcc269404ff210263de43ceaa3e5f71fa9d8817076"],"id":"id-231","last_modified":1793436815761,"schema":1793436428368}
+{"description":"utility (Mac release): mozilla::detail::MethodCall<T>::Invoke","hashes":["fb2aeec156c630b9922129f8d7a603e3bc12a7185aa41eaaaaa458f387f9ed2a"],"id":"id-231","last_modified":1793522647823,"schema":1793522244594}
