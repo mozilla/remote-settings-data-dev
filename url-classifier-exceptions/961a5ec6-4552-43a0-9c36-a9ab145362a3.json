@@ -1,0 +1,1 @@
+{"bugIds":["2087992"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"961a5ec6-4552-43a0-9c36-a9ab145362a3","last_modified":1793671814930,"schema":1793412619304,"topLevelUrlPattern":"*://hungryhowies.com/*","urlPattern":"*://*.cdn4dd.com/*"}

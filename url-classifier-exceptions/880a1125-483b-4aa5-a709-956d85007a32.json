@@ -1,0 +1,1 @@
+{"bugIds":["2087130"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"880a1125-483b-4aa5-a709-956d85007a32","last_modified":1793671814951,"schema":1793671814112,"topLevelUrlPattern":"*://sweetroad.cookappsgames.com/*","urlPattern":"*://www.facebook.com/*"}

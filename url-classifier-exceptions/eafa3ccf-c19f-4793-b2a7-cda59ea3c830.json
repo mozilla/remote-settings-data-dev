@@ -1,0 +1,1 @@
+{"bugIds":["2087127"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"eafa3ccf-c19f-4793-b2a7-cda59ea3c830","last_modified":1793671814958,"schema":1793671814246,"topLevelUrlPattern":"*://vasscompany.csod.com/*","urlPattern":"*://www.linkedin.com/*"}
