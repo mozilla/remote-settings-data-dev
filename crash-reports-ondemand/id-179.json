@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[NSObject doesNotRecognizeSelector:] | ___forwarding___ | __forwarding_prep_0___ | rx::mtl::CreateShaderLibrary","hashes":["9bd6c9c820333abc5c03d85e4a4841605ae240fafb2bde698a5b511b1c4b3716"],"id":"id-179","last_modified":1793609075748,"schema":1793608556843}
+{"description":"socket (Mac release): mozilla::RevocableToken::Release","hashes":["8e6014081df71e0dbe5f2d5c20ba6136e21a366da66e535efbc252067615eb50"],"id":"id-179","last_modified":1793697866026,"schema":1793697353379}
