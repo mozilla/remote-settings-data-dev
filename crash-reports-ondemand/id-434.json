@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::streams_abstract::ReadableStreamCancel","hashes":["14c24346f271d8cbb6979dde27893e1124b40853cd441dc49613331c3c7f896b"],"id":"id-434","last_modified":1793609077143,"schema":1793609026879}
+{"description":"main (Mac beta): nsMenuX::MenuChildChangedVisibility","hashes":["c1946972cd9b059d1e8e57a1183709184bf897c20595642a3e94262f04af36a9"],"id":"id-434","last_modified":1793697867336,"schema":1793697820356}

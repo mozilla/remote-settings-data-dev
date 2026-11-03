@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::HeaderWord::get","hashes":["78320914ea1c91c69ef881e625f3c00c3310c9126679d4faa4f6c58c42046ac0"],"id":"id-343","last_modified":1793609077343,"schema":1793608862717}
+{"description":"socket (Windows beta): mozilla::freestanding::SafeThreadLocal<T>::get | mozilla::freestanding::TakePendingFileHandle","hashes":["1919aaa89fcc7ff11ee6f6cd70f7d03047f5ecb116a77f0b829aa3c2c43743a5"],"id":"id-343","last_modified":1793697867570,"schema":1793697656760}
