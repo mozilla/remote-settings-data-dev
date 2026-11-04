@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::dom::BrowserParent::UpdateDimensions","hashes":["b74916ca6e898a5647e5610fa3aed5a7cca66e9242b5e189af3474b9327416cd"],"id":"id-445","last_modified":1793697865512,"schema":1793697838966}
+{"description":"socket (Mac release): abort | base::MessagePumpKqueue::DoInternalWork","hashes":["bf8a8c9638280b49acf52f14e45ed4b82030affd619c6281f1eb1de68cb80e94"],"id":"id-445","last_modified":1793784291828,"schema":1793784266162}

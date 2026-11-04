@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): __cxxabiv1::failed_throw | objc_exception_throw | -[__NSArrayM insertObject:atIndex:]","hashes":["7ca5d60d01126a4eae43f63a08775694f2294305bb3a9c36340bb9bf3ee442e1","bebc6377decf78d89d08f73b34d6a0c71d4eb3763c9e68b9b57ab25496d00bc5"],"id":"id-390","last_modified":1793697865633,"schema":1793697741801}
+{"description":"content (Mac nightly): mozilla::dom::ClipboardItem::ItemEntry::RejectPendingPromises","hashes":["267444d4cfceae7d119c1e9a30064feb7de7e1fa2ceef9f1a0ef836da93ec902"],"id":"id-390","last_modified":1793784292007,"schema":1793784156243}
