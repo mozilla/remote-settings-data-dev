@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): ZwUserMsgWaitForMultipleObjectsEx | mozilla::widget::WinUtils::WaitForMessage | nsAppShell::ProcessNextNativeEvent","hashes":["53066d8befb11d55a230ca7a7ce0fb46c019185ce07c15b4e266b76f75666ee5"],"id":"id-012","last_modified":1793697867550,"schema":1793697033627}
+{"description":"content (Mac beta): js::gc::AllocSite::zone","hashes":["af693e876f7192fc77e8b71e33d6e84b16c0c544245272dbbd0e43c595eae2dd"],"id":"id-012","last_modified":1793784294882,"schema":1793783430410}

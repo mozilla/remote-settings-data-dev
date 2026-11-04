@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["5287d762cb2023e35cb0a3bdca8bcdcf82b08df3e67523efc13fd08fd8f643cc"],"id":"id-337","last_modified":1793697867868,"schema":1793697646819}
+{"description":"main (Mac beta): objc_autoreleaseReturnValue","hashes":["dfb392c51675a28de827fddde4a3bb564221604455286dc4620559e4ffc8109e"],"id":"id-337","last_modified":1793784295332,"schema":1793784049700}
