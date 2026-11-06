@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::Maybe<T>::operator* | mozilla::dom::Optional_base<T>::Value","hashes":["55ff4e749146b87d435e46a45df00eee3d14bbd80ac9e0bebdcc621ccf387ad1","e18e24d832af7bea14088f013cea904f44999b6954c7b527c3398d2a21500356"],"id":"id-352","last_modified":1793784294730,"schema":1793784082727}
+{"description":"socket (Linux release): std::shared_ptr<T>::shared_ptr","hashes":["51c26b8642719747abbf5f98f3bd1a2c98d92ed6019e6e5c823f11570462c37b"],"id":"id-352","last_modified":1793957055581,"schema":1793956856838}
