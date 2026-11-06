@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsGlobalWindowInner::ThawInternal","hashes":["7eb0d6a9b53910251ba04f05ae8a688410a2742789e596ac79941049ed40a508"],"id":"id-080","last_modified":1793784292382,"schema":1793783559847}
+{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["043de56cfa93b195af089a6d674b3089d73170f2f2b84dca83fc46e501db4f71","c34f122d6c65d74e9fe1c8a694a8b700f74caa77b8b58f78832f584fc4113c91"],"id":"id-080","last_modified":1793957054246,"schema":1793956355353}
