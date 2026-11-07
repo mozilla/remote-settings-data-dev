@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): _JNIEnv::CallStaticVoidMethodA | mozilla::jni::Method<T>::Call<T>","hashes":["00bd6fa6e57c671a086d0286bd0e8efae4b7275a7f7a438b64e4cf1fa55ac23d"],"id":"id-361","last_modified":1793957054707,"schema":1793956873732}
+{"description":"main (Mac nightly): mozilla::net::WebTransportSessionProxy::OnDataAvailable","hashes":["f24f67729452ba47da311889ccde7c16478402a71fffb1f20188986d1bf1da2f","dcb3788b447dff44ae136cdabf18393a2b44893e5ab1732cda23859b82b2dad8"],"id":"id-361","last_modified":1794042859564,"schema":1794042677428}

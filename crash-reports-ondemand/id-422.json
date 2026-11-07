@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["efa5554c57203af0aa710d468e2eddf9c59f582a74cce5e77cbd43cf5f500081"],"id":"id-422","last_modified":1793957054462,"schema":1793956987011}
+{"description":"socket (Windows beta): GetHandleInformation","hashes":["c854451c23596f0bb746fbd2021a848eb124c3e4f94060c4660932feb9615fe3"],"id":"id-422","last_modified":1794042859304,"schema":1794042789183}
