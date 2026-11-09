@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): IPCError-content | GPUProcessKill","hashes":["616b9f4d0d607bdb35f738fe7e6d07b89ab746fd8b7703f35f523c36f67d1215","46efb3a81f772d40551d7ee4a90ede226d734244cd53a1280345302587369a13"],"id":"id-328","last_modified":1794128001582,"schema":1794127788651}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e112603ca70ec7018955442c898fb7d67aa82ec5eaa13abbc4410e5f1261ed44"],"id":"id-328","last_modified":1794214413535,"schema":1794214185530}
