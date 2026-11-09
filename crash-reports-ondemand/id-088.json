@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libusc.so","hashes":["9726b901d73f2ace59907372a6e0fc2eec143cf87b6bc3325966b52696115aee"],"id":"id-088","last_modified":1794128003251,"schema":1794127360409}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["96b6b3e333c7c30ae6f5ae4d39b4b38a6018d7adc92fb4eaffaba548ea71b09b"],"id":"id-088","last_modified":1794214415244,"schema":1794213765719}
