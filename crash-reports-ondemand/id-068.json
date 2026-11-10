@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): AsyncShutdownTimeout | profile-before-change | AddonManager: shutting down.","hashes":["c4c03738b2943115b44a67ca1ea3e1c22023929627e987b52b9768d5497cfb02"],"id":"id-068","last_modified":1794214412882,"schema":1794213730831}
+{"description":"content (Mac beta): mozilla::detail::RWLockImpl::readLock","hashes":["c1f496ebc98bb647e764600e2743dce9c0eeb47604721df6312cc24b268b5541"],"id":"id-068","last_modified":1794302050138,"schema":1794301340100}
