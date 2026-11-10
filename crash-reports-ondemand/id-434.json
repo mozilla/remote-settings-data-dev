@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::jni::Accessor::EndAccess<T>","hashes":["daebd3807cb87c7d1e2ed3f4f1d5ec82bcdddde2fefa53448661204dab1ffd10"],"id":"id-434","last_modified":1794214414482,"schema":1794214374258}
+{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["e112603ca70ec7018955442c898fb7d67aa82ec5eaa13abbc4410e5f1261ed44"],"id":"id-434","last_modified":1794302052512,"schema":1794301980949}
