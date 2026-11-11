@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["5af37de1f20fd53ed9f3ff196be7af62950419d07d7a98476775588afed161a9"],"id":"id-303","last_modified":1794302050852,"schema":1794301752292}
+{"description":"content (Mac nightly): nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::RemoveInternal","hashes":["b145253879c7170bddc51ec1cad72b3fc85893683f9ea7fd9fa47e3d50423bcc"],"id":"id-303","last_modified":1794388463847,"schema":1794388147142}
