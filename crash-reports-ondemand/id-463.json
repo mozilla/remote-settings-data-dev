@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): libdispatch.dylib","hashes":["627c9281cdbcf54ef2be167afe9615db9182ae583cb66b11238c32e29ec39752"],"id":"id-463","last_modified":1794388462856,"schema":1794388443873}
+{"description":"content (Mac beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StyledRangeCollection::GetAbstractRangeAt","hashes":["18a0e0984db02d9b4dabd7ccf09a950823550828c05285095c8975f05b1550c7"],"id":"id-463","last_modified":1794473663030,"schema":1794473644049}
