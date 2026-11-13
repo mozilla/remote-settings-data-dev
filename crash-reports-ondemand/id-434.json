@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::layers::CompositorBridgeParent::DisconnectApzcTreeManager","hashes":["e35f5b6f6fa2c2d7d6cfd66ee1560bb49093e1645afff095f45e9fa50a3515be"],"id":"id-434","last_modified":1794473664997,"schema":1794473593986}
+{"description":"gpu (Windows nightly): mozilla::layers::CanvasTranslator::SetDataSurfaceBuffer","hashes":["7115e75ec9f7e6e25446ba4c591c1d629e52392c23f89c799d54afbfc6ed6c44","85eee1835c2a4129b53f7165dc0494208713d6ff21887c714d05290eef9c1c00"],"id":"id-434","last_modified":1794560119032,"schema":1794560043660}
