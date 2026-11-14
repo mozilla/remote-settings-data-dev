@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): MpDetours.dll | BaseThreadInitThunk","hashes":["ef1ef8a364f636e830ffdbf2ac38e9dcb6e7b31b79bc87c9f0c723e82acb8753"],"id":"id-140","last_modified":1794560119511,"schema":1794559480706}
+{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["d108bb4e35b6a667ee78af2a19daf096adfd8b93403ec3384f1c9fef6aca0446"],"id":"id-140","last_modified":1794645286268,"schema":1794644662515}
