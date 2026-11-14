@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): mozilla::layers::CanvasTranslator::SetDataSurfaceBuffer","hashes":["7115e75ec9f7e6e25446ba4c591c1d629e52392c23f89c799d54afbfc6ed6c44","85eee1835c2a4129b53f7165dc0494208713d6ff21887c714d05290eef9c1c00"],"id":"id-434","last_modified":1794560117645,"schema":1794560043660}
+{"description":"socket (Windows beta): MpDetours.dll | BaseThreadInitThunk","hashes":["f8cf9b57c752b50a0e5d4014f1437074e84327e01bb79708b475bea4a90418c0"],"id":"id-434","last_modified":1794645283961,"schema":1794645209598}

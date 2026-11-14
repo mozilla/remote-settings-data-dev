@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): dav1d_msac_decode_symbol_adapt4_sse2","hashes":["97405c4492b645777eba43deb34efd0eb7a0fceb57c5815344a6b3daa0bc31dd"],"id":"id-281","last_modified":1794560117697,"schema":1794559749392}
+{"description":"gpu (Android beta): <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["755288dbc2b8f1b5e216923ad8887280adef527df05e1d2c7ad1713e381e41a7"],"id":"id-281","last_modified":1794645284018,"schema":1794644919589}
