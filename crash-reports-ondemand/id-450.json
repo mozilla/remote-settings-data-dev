@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): __delayLoadHelper2 | _tailMerge_ole32.dll | mozilla::MFCDMParent::LoadFactory","hashes":["d7cf33857417f0a3b914c92a593537c9a4dccc00e286550f6082245000ea5e56"],"id":"id-450","last_modified":1794645283119,"schema":1794645237600}
+{"description":"content (Mac nightly): mozilla::RestyleManager::ProcessPostTraversal","hashes":["6e092e95db462ea5c9fd5112350ada514d6c381011a2efd1890059cd0f8684de"],"id":"id-450","last_modified":1794731621776,"schema":1794731576766}
