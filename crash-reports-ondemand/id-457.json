@@ -1,1 +1,1 @@
-{"description":"content (Android beta): libc.so | memcpy | JS::loader::ScriptBytecodeDecompress","hashes":["ec1bd425285a2fcf409a69c2e3353a16dc541310146e8ec672c7ee8a3e3751a4","0f27adbdf6efb15a13774efdac796c03fd14ceddf45b8bcf600067fe9adac11d"],"id":"id-457","last_modified":1794645285607,"schema":1794645249924}
+{"description":"socket (Windows beta): MpDetours.dll | BaseThreadInitThunk","hashes":["f8cf9b57c752b50a0e5d4014f1437074e84327e01bb79708b475bea4a90418c0"],"id":"id-457","last_modified":1794731623735,"schema":1794731588900}
