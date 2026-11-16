@@ -1,1 +1,1 @@
-{"description":"plugin (Windows beta): SophosED.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["fcc9f324418890bafbabdebe4f591e7452f94c65535826e3c43fbfdb6942954d"],"id":"id-228","last_modified":1794731624809,"schema":1794731192074}
+{"description":"socket (Windows beta): MpDetours.dll | BaseThreadInitThunk","hashes":["f8cf9b57c752b50a0e5d4014f1437074e84327e01bb79708b475bea4a90418c0"],"id":"id-228","last_modified":1794818023691,"schema":1794817591519}
