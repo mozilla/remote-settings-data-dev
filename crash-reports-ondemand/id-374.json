@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::AtomsTable::sweepIncrementally","hashes":["62171fac444c67030ecf5b5fcab78b882abcdeac8636afbca983bbeb84da6c9b","8c19f0a2b10fe64e2b32e032c4496f81b00b6c28b5df8a4221a562cdd1e11535"],"id":"id-374","last_modified":1794818020861,"schema":1794817845663}
+{"description":"content (Linux beta): mozilla::detail::MaybeStorageBase<T>::Union::Union","hashes":["29374cff3ee88b930a863fa83736d0d57b32b21398e201c35981cb5e96fca057"],"id":"id-374","last_modified":1794906286456,"schema":1794906098512}
