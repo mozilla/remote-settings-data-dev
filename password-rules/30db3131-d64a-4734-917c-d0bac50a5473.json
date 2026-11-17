@@ -1,0 +1,1 @@
+{"Domain":"venmo.com","id":"30db3131-d64a-4734-917c-d0bac50a5473","last_modified":1794938822302,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 3; required: lower; required: upper; required: digit; required: [~!@#$%^&*()+=];"}

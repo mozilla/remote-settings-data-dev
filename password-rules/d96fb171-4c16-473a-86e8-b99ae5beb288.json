@@ -1,0 +1,1 @@
+{"Domain":"carrsqc.com","id":"d96fb171-4c16-473a-86e8-b99ae5beb288","last_modified":1794938820651,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

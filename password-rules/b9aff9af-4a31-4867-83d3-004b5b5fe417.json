@@ -1,0 +1,1 @@
+{"Domain":"crateandbarrel.com","id":"b9aff9af-4a31-4867-83d3-004b5b5fe417","last_modified":1794938820800,"password-rules":"minlength: 9; maxlength: 64; required: lower; required: upper; required: digit; required: [!\"#$%&()*,.:<>?@^_{|}];"}

@@ -1,0 +1,1 @@
+{"Domain":"labcorp.com","id":"ae7aa35a-cf85-4bb8-8e7a-3f67d6231446","last_modified":1794938821529,"password-rules":"minlength: 8; maxlength: 20; required: upper; required: lower; required: digit; required: [!@#$%^&*];"}

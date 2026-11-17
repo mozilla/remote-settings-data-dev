@@ -1,0 +1,1 @@
+{"Domain":"safeway.com","id":"5056292b-1a4a-4dbf-994b-3276c099b5a6","last_modified":1794938822004,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

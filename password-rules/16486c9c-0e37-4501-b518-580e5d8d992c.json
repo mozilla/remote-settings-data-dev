@@ -1,0 +1,1 @@
+{"Domain":"act.org","id":"16486c9c-0e37-4501-b518-580e5d8d992c","last_modified":1794938820300,"password-rules":"minlength: 8; maxlength: 64; required: lower; required: upper; required: digit; required: [!#$%&*@^];"}

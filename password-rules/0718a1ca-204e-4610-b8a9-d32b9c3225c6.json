@@ -1,0 +1,1 @@
+{"Domain":"prepaid.bankofamerica.com","id":"0718a1ca-204e-4610-b8a9-d32b9c3225c6","last_modified":1794938821908,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [!@#$%^&*()+~{}'\";:<>?];"}

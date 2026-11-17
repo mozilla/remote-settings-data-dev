@@ -1,0 +1,1 @@
+{"Domain":"id.westfield.com","id":"9d8440da-7b04-49d3-bd7c-6c9bdc4480fe","last_modified":1794938821401,"password-rules":"minlength: 9; maxlength: 20; required: lower; required: upper; required: digit; required: [!\"#&'()*,./:;?@[\\^_`{|}~];"}

@@ -1,0 +1,1 @@
+{"Domain":"poste.it","id":"fc824d14-d199-423b-822a-1b1ae28efde3","last_modified":1794938821881,"password-rules":"minlength: 8; maxlength: 16; max-consecutive: 2; required: lower; required: upper; required: digit; required: special;"}

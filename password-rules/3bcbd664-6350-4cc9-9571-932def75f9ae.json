@@ -1,0 +1,1 @@
+{"Domain":"impots.gouv.fr","id":"3bcbd664-6350-4cc9-9571-932def75f9ae","last_modified":1794938821420,"password-rules":"minlength: 12; maxlength: 128; required: lower; required: digit; allowed: [-!#$%&*+/=?^_'.{|}];"}

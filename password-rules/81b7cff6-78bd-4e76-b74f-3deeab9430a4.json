@@ -1,0 +1,1 @@
+{"Domain":"alliantcreditunion.com","id":"81b7cff6-78bd-4e76-b74f-3deeab9430a4","last_modified":1794938820375,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 3; required: lower, upper; required: digit; allowed: [!#$*];"}

@@ -1,0 +1,1 @@
+{"Domain":"crowdgen.com","id":"5f6fd3eb-31c4-475b-ba0b-5bd0081bf9c0","last_modified":1794938820804,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [!#$%&()*+=@^_];"}

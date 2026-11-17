@@ -1,0 +1,1 @@
+{"Domain":"aetna.com","id":"daf53c9a-42a2-4b03-8c86-df4c08760412","last_modified":1794938820334,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 2; required: upper; required: digit; allowed: lower, [-_&#@];"}

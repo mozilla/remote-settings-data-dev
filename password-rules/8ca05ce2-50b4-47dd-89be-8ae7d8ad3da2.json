@@ -1,0 +1,1 @@
+{"Domain":"splunk.com","id":"8ca05ce2-50b4-47dd-89be-8ae7d8ad3da2","last_modified":1794938822119,"password-rules":"minlength: 8; maxlength: 64; required: lower; required: upper; required: digit; required: [-!@#$%&*_+=<>];"}

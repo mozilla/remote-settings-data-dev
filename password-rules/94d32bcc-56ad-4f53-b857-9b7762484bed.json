@@ -1,0 +1,1 @@
+{"Domain":"meijer.com","id":"94d32bcc-56ad-4f53-b857-9b7762484bed","last_modified":1794938821637,"password-rules":"minlength: 8; maxlength: 15; required: lower; required: upper; required: digit; allowed: [!#$%&()*@^];"}

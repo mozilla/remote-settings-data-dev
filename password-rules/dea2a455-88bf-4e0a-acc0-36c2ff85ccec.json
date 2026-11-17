@@ -1,0 +1,1 @@
+{"Domain":"apple.com","id":"dea2a455-88bf-4e0a-acc0-36c2ff85ccec","last_modified":1794938820450,"password-rules":"minlength: 8; maxlength: 63; required: lower; required: upper; required: digit; allowed: ascii-printable;"}

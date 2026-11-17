@@ -1,0 +1,1 @@
+{"Domain":"citi.com","id":"02038b68-81be-4b72-a720-2bd2f2dd0f57","last_modified":1794938820698,"password-rules":"minlength: 8; maxlength: 64; max-consecutive: 2; required: digit; required: upper; required: lower; required: [-~`!@#$%^&*()_\\/|];"}

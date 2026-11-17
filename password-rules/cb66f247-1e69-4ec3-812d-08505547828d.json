@@ -1,0 +1,1 @@
+{"Domain":"pay.citizensbank.com","id":"cb66f247-1e69-4ec3-812d-08505547828d","last_modified":1794938820745,"password-rules":"minlength: 8; maxlength: 24; required: lower; required: upper; required: digit; allowed: [!#$%&*@];"}

@@ -1,0 +1,1 @@
+{"Domain":"acmemarkets.com","id":"acc00b3d-c82f-4e67-89bf-cc758eb44a74","last_modified":1794938820296,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

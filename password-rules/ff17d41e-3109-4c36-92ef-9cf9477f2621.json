@@ -1,0 +1,1 @@
+{"Domain":"aeon.co.jp","id":"ff17d41e-3109-4c36-92ef-9cf9477f2621","last_modified":1794938820320,"password-rules":"minlength: 8; maxlength: 8; max-consecutive: 3; required: digit; required: upper,lower,[#$+./:=?@[^_|~]];"}

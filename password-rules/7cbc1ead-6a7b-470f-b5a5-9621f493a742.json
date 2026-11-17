@@ -1,0 +1,1 @@
+{"Domain":"admiral.com","id":"7cbc1ead-6a7b-470f-b5a5-9621f493a742","last_modified":1794938820310,"password-rules":"minlength: 8; required: digit; required: [- !\"#$&'()*+,.:;<=>?@[^_`{|}~]]; allowed: lower, upper;"}

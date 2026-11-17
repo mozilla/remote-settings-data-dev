@@ -1,0 +1,1 @@
+{"Domain":"randalls.com","id":"4458d7c4-79fc-4dc9-9652-9010a23df65d","last_modified":1794938821950,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

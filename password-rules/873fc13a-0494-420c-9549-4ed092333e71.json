@@ -1,0 +1,1 @@
+{"Domain":"udel.edu","id":"873fc13a-0494-420c-9549-4ed092333e71","last_modified":1794938822260,"password-rules":"minlength: 12; maxlength: 30; required: lower; required: upper; required: digit; required: [!@#$%^&*()+];"}

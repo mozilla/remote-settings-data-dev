@@ -1,0 +1,1 @@
+{"Domain":"hertz.com.sg","id":"6b6b0270-0199-490a-ab5a-47b66aa1ae2e","last_modified":1794938821212,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

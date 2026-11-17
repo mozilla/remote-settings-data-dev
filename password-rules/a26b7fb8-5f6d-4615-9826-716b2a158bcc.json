@@ -1,0 +1,1 @@
+{"Domain":"equifax.com","id":"a26b7fb8-5f6d-4615-9826-716b2a158bcc","last_modified":1794938820942,"password-rules":"minlength: 8; maxlength: 20; required: lower; required: upper; required: digit; required: [!$*+@];"}

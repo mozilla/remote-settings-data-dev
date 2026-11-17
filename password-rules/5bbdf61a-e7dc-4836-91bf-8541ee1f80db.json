@@ -1,0 +1,1 @@
+{"Domain":"waze.com","id":"5bbdf61a-e7dc-4836-91bf-8541ee1f80db","last_modified":1794938822371,"password-rules":"minlength: 8; maxlength: 64; required: lower; required: upper; required: special; required: digit;"}

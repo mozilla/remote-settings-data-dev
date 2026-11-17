@@ -1,0 +1,1 @@
+{"Domain":"order.wendys.com","id":"54dbc892-1bfa-417d-8215-a7aa62ec3a8f","last_modified":1794938821810,"password-rules":"minlength: 6; maxlength: 20; required: lower; required: upper; required: digit; allowed: [!#$%&()*+/=?^_{}];"}

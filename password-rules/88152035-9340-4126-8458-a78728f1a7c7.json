@@ -1,0 +1,1 @@
+{"Domain":"hertz.fi","id":"88152035-9340-4126-8458-a78728f1a7c7","last_modified":1794938821246,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

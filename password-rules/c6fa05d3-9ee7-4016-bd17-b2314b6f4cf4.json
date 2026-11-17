@@ -1,0 +1,1 @@
+{"Domain":"claimlookup.com","id":"c6fa05d3-9ee7-4016-bd17-b2314b6f4cf4","last_modified":1794938820703,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [@#$%^&+=!];"}

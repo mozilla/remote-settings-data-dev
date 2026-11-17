@@ -1,0 +1,1 @@
+{"Domain":"anthem.com","id":"9c9cb5c8-e0b7-4c82-b309-1b482c1bf665","last_modified":1794938820426,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 3; required: lower, upper; required: digit; allowed: [!$*?@|];"}

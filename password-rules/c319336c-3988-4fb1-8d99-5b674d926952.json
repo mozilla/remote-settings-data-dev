@@ -1,0 +1,1 @@
+{"Domain":"ea.com","id":"c319336c-3988-4fb1-8d99-5b674d926952","last_modified":1794938820890,"password-rules":"minlength: 8; maxlength: 64; required: lower; required: upper; required: digit; allowed: special;"}

@@ -1,0 +1,1 @@
+{"Domain":"clippercard.com","id":"e18cf88b-73ac-4db2-8413-f630d68a6c27","last_modified":1794938820731,"password-rules":"minlength: 8; maxlength: 30; required: upper; required: lower; required: digit; required: [!@#$%^*?_&~];"}

@@ -1,0 +1,1 @@
+{"Domain":"lowes.com","id":"c9f3dce5-a1e5-45cd-a310-c76c1fce13dc","last_modified":1794938821578,"password-rules":"minlength: 8; maxlength: 128; max-consecutive: 3; required: lower, upper; required: digit;"}

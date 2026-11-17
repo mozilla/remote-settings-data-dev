@@ -1,0 +1,1 @@
+{"Domain":"lsacsso.b2clogin.com","id":"a999cf9c-b7c1-4d5b-9f62-8f8ce04665ec","last_modified":1794938821587,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit, [-!#$%&*?@^_];"}

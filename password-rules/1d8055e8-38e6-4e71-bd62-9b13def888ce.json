@@ -1,0 +1,1 @@
+{"Domain":"cathaypacific.com","id":"1d8055e8-38e6-4e71-bd62-9b13def888ce","last_modified":1794938820660,"password-rules":"minlength: 8; maxlength: 20; required: upper; required: digit; required: [!#$*^]; allowed: lower;"}

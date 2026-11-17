@@ -1,0 +1,1 @@
+{"Domain":"edistrict.kerala.gov.in","id":"7d9fa991-1852-42d5-865a-fe6f6e546789","last_modified":1794938820918,"password-rules":"minlength: 5; maxlength: 15; required: lower; required: upper; required: digit; required: [!@#$];"}

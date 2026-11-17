@@ -1,0 +1,1 @@
+{"Domain":"promozoneapp.nmlottery.com","id":"8adab782-846d-4167-b54c-868715de91df","last_modified":1794938821926,"password-rules":"minlength: 6; maxlength: 16; required: lower; required: upper; required: digit; allowed: special;"}

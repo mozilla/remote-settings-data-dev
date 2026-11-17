@@ -1,0 +1,1 @@
+{"Domain":"identity.codesignal.com","id":"9d1a21dc-3a36-47f6-a797-7efe86687388","last_modified":1794938821406,"password-rules":"minlength: 14; required: digit; required: lower, upper; required: [!#$%&*@^]"}

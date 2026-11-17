@@ -1,0 +1,1 @@
+{"Domain":"bankofamerica.com","id":"f93e86fe-490c-48f0-a343-b5756d2c4a85","last_modified":1794938820530,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 3; required: lower; required: upper; required: digit; allowed: [-@#*()+={}/?~;,._];"}

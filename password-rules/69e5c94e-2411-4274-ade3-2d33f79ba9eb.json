@@ -1,0 +1,1 @@
+{"Domain":"key.harvard.edu","id":"69e5c94e-2411-4274-ade3-2d33f79ba9eb","last_modified":1794938821489,"password-rules":"minlength: 10; maxlength: 100; required: lower; required: upper; required: digit; allowed: [-@_#!&$`%*+()./,;~:{}|?>=<^[']];"}

@@ -1,0 +1,1 @@
+{"Domain":"id.nfpa.org","id":"85c7c73c-7aa1-42c0-99d7-ce324c98c05d","last_modified":1794938821393,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [-\"^#$%&'()*+:=@[_|{}~]];"}

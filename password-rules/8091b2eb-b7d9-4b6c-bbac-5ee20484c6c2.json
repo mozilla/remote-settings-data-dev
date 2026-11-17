@@ -1,0 +1,1 @@
+{"Domain":"patient.massciportal.com","id":"8091b2eb-b7d9-4b6c-bbac-5ee20484c6c2","last_modified":1794938821828,"password-rules":"minlength: 12; required: upper; required: lower; required: digit; required: [!@#$%^&];"}

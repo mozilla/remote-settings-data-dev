@@ -1,0 +1,1 @@
+{"Domain":"ubisoft.com","id":"062a3ec4-fa03-426c-8cc4-7e21940f23dd","last_modified":1794938822255,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [-]; required: [!@#$%^&*()+];"}

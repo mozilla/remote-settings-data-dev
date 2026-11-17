@@ -1,0 +1,1 @@
+{"Domain":"kundenportal.edeka-smart.de","id":"debe4248-81e9-4082-8a08-15dd1e1f7f93","last_modified":1794938821519,"password-rules":"minlength: 8; maxlength: 16; required: digit; required: upper, lower; required: [!\"\u00a7$%&#];"}

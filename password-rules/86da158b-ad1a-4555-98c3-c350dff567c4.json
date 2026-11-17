@@ -1,0 +1,1 @@
+{"Domain":"hertz.at","id":"86da158b-ad1a-4555-98c3-c350dff567c4","last_modified":1794938821116,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

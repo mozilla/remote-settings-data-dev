@@ -1,0 +1,1 @@
+{"Domain":"verizonwireless.com","id":"ca355959-12f2-42a3-83e8-9fae1542e11d","last_modified":1794938822311,"password-rules":"minlength: 8; maxlength: 20; required: lower, upper; required: digit; allowed: unicode;"}

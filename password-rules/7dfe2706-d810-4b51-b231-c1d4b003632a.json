@@ -1,0 +1,1 @@
+{"Domain":"asus.com","id":"7dfe2706-d810-4b51-b231-c1d4b003632a","last_modified":1794938820489,"password-rules":"minlength: 8; maxlength: 25; required: lower; required: upper; required: digit; required: [!@#$%^?]; max-consecutive: 3;"}
