@@ -1,0 +1,1 @@
+{"bugIds":["2091688"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c1e1fe29-7dfe-4a23-812a-709e3f2fdf80","last_modified":1794967813322,"schema":1794967812984,"topLevelUrlPattern":"*://currys.co.uk/*","urlPattern":"*://cdn-eu.dynamicyield.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2093441"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0c2182a7-29d7-4b8d-b03e-d7dbf09c1ee5","last_modified":1794967813278,"schema":1794614417688,"topLevelUrlPattern":"*://pengle.cookappsgames.com/*","urlPattern":"*://connect.facebook.net/*"}
