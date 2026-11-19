@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["fe0450d63d09b1b807c7690d1a3b4c61551df87d81ba8206fb23bd404339d164"],"id":"id-233","last_modified":1794906287220,"schema":1794905820358}
+{"description":"plugin (Linux nightly): mozilla::gmp::GMPChild::GetUTF8LibPath","hashes":["9cdcae915631d820aa74969d1d37fea74db75dfa849898accf7a6beacecedf52"],"id":"id-233","last_modified":1795080209201,"schema":1795079800027}

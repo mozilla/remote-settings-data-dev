@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): libobjc.A.dylib | libobjc.A.dylib | libobjc.A.dylib | libobjc.A.dylib | Foundation","hashes":["e4f47f5049117c6fe5c073a8dfd5945cb2c539c4c85fb27d7f73242dec03c3a6"],"id":"id-436","last_modified":1794906286262,"schema":1794906212208}
+{"description":"socket (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["ad23cdd1d023d99d61c3a8b67c8648877a88679222d806c2a4f8535ab9c4587e"],"id":"id-436","last_modified":1795080208180,"schema":1795080140384}

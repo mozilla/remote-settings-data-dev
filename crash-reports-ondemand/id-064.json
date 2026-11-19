@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::dom::ipc::StructuredCloneData::WriteIPCParams","hashes":["d108bb4e35b6a667ee78af2a19daf096adfd8b93403ec3384f1c9fef6aca0446"],"id":"id-064","last_modified":1794906287481,"schema":1794905518157}
+{"description":"gpu (Linux release): IPCError-content | GPUProcessKill","hashes":["af0263db4b9045b037bfff33a792507907d107a478c55ec75ccf4c272e287066"],"id":"id-064","last_modified":1795080209485,"schema":1795079518543}
