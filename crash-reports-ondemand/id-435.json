@@ -1,1 +1,1 @@
-{"description":"plugin (Windows beta): mozilla::gmp::GMPChild::ProcessingError","hashes":["453d819f33fa3bc767b34c790063566e5379da2a978ee97f1363af5de4810306"],"id":"id-435","last_modified":1795080210418,"schema":1795080138767}
+{"description":"gpu (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[NSObject doesNotRecognizeSelector:] | ___forwarding___ | __forwarding_prep_0___ | rx::mtl::CreateShaderLibrary","hashes":["b6afedf4004d5287111835baa6f6ad582c5377bd96d2030c004eab7639311c8b"],"id":"id-435","last_modified":1795165567691,"schema":1795165478202}

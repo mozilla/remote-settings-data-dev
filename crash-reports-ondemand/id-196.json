@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): OOM | large | NS_ABORT_OOM | nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::a11y::NotificationController::ScheduleNotification<T>","hashes":["fd53811b6a1f4f197c045fd1e8676e038d37682172f3c1f78239c0ae2ee7fe94"],"id":"id-196","last_modified":1795080212081,"schema":1795079739200}
+{"description":"content (Linux nightly): js::gc::InCollectedNurseryRegion","hashes":["fe3cf55a91d77b98e80ad2cd5e777ef4b0ec0480d41c5ab8a1e08ad38258c02d"],"id":"id-196","last_modified":1795165568266,"schema":1795164950961}

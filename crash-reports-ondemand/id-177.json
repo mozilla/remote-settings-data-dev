@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl","hashes":["24e87f3979a8e54f01856b43932a98a8dd0c58cb92727c29ac3903a9ea2f6241"],"id":"id-177","last_modified":1795080213068,"schema":1795079706946}
+{"description":"plugin (Android nightly): mozilla::gmp::GMPChild::RecvCrashPluginNow","hashes":["e533998f8dd71c1141c668708662da6b39169f20968bf5b4957e8321c3a2a170","be382966afa86f16493b52911108fb1f4b535f4e1fa71a1f8e3f29a1adcb2657"],"id":"id-177","last_modified":1795165568955,"schema":1795164919971}
