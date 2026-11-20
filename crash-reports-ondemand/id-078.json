@@ -1,1 +1,1 @@
-{"description":"rdd (Linux beta): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | mozilla::PRemoteDecoderParent::OnMessageReceived","hashes":["fe0450d63d09b1b807c7690d1a3b4c61551df87d81ba8206fb23bd404339d164"],"id":"id-078","last_modified":1795080208000,"schema":1795079542329}
+{"description":"rdd (Mac release): __CFStringHash","hashes":["8a4cc30792aa4b00714e41cdbabd4ef2d16a153cd2b613a53bdc3618f7af6f5e","430bd1103c0647007c36e992a9bf854252ee5258aeb306352982bece517c62af"],"id":"id-078","last_modified":1795165565345,"schema":1795164748265}

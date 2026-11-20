@@ -1,1 +1,1 @@
-{"description":"main (Linux nightly): _nv019glcore","hashes":["b098c56eb25392a07e7fd8756e0ea38e00ea4d2ed28f11b4a97790f79dad770a","076507d2b92053822f4358d1d247a37b52354f36caf5a69946e3b52787d2dd8a","676e583aa1920c7a3901e25cff139c12d39ff2b89b524cdcea9a2f3b5cec95ec"],"id":"id-199","last_modified":1795080209431,"schema":1795079743885}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["21dfc80637753c6deedd991c508b0463a2bd3b94de25fb9a3ea0aea85f1b3964"],"id":"id-199","last_modified":1795165564799,"schema":1795164955723}
