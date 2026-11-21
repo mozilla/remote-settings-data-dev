@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): arena_t::GetNonFullBinRun | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["340479a79248608b4530a64e29aabe3f02f63c1674578b95727745680f2c5c17"],"id":"id-386","last_modified":1795165566299,"schema":1795165391067}
+{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["5ce311578f7e96ce3fdf0f551806b866f6e31c7f0f29b04329c7c3506be58218"],"id":"id-386","last_modified":1795251219971,"schema":1795251055860}

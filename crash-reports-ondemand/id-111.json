@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): <unknown in ntdll.dll> | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["160891772dd4fc31b9ea7b86765b4dd7f68f92553f9eed700b89f76ef71748b2"],"id":"id-111","last_modified":1795165564966,"schema":1795164804259}
+{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["0c0a35f0046b6d41234221b4e73b1b0e3e6cf8cf80a46cfa935ddbf3fbc796aa"],"id":"id-111","last_modified":1795251218747,"schema":1795250595658}
