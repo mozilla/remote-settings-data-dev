@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::InCollectedNurseryRegion","hashes":["e82424079c258392c14ce0ddcdad246eb2ba4357e0169af1bf41493edcd3c538","fe3cf55a91d77b98e80ad2cd5e777ef4b0ec0480d41c5ab8a1e08ad38258c02d"],"id":"id-324","last_modified":1795251221257,"schema":1795250952314}
+{"description":"content (Mac beta): js::GCData<T>::get","hashes":["5ae7fedb05e201719b3c1009fa859f7b96cc96635e18a6d842a1c0e8d4561ea5"],"id":"id-324","last_modified":1795337180428,"schema":1795336893047}
