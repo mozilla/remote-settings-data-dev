@@ -1,1 +1,1 @@
-{"description":"plugin (Linux release): arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["6f76c64d4d672ea8c6d4fe11534f98d7aff3334e16449d42f2c33ee3a7f972c5"],"id":"id-057","last_modified":1795251219938,"schema":1795250502218}
+{"description":"socket (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["ad23cdd1d023d99d61c3a8b67c8648877a88679222d806c2a4f8535ab9c4587e"],"id":"id-057","last_modified":1795337178984,"schema":1795336406865}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): <unknown in ntdll.dll> | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["160891772dd4fc31b9ea7b86765b4dd7f68f92553f9eed700b89f76ef71748b2"],"id":"id-419","last_modified":1795251219299,"schema":1795251114126}
+{"description":"content (Mac nightly): mozilla::ContentCache::AssertIfInvalid","hashes":["5ff062b3d1fa5c24a1fa1718bb190f432a823027f60be2019ecf30a7fa171f4a"],"id":"id-419","last_modified":1795337178315,"schema":1795337066459}

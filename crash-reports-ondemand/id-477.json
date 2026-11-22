@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::layers::TextureClient::UnlockActor","hashes":["12598e5cc5f9473927fe35a171239ae8ce44b9dbdb8eb816369c66e684fbcb9c"],"id":"id-477","last_modified":1795251218957,"schema":1795251209554}
+{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::ReadableStreamDefaultReader::Read","hashes":["21906e420ea32d0d3a229774327d1460f1ef86fb403bc567850bd412549f1758"],"id":"id-477","last_modified":1795337177908,"schema":1795337166176}
