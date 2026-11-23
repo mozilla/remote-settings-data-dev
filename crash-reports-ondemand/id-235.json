@@ -1,1 +1,1 @@
-{"description":"plugin (Windows beta): msmpeg2vdec.dll | wmf::CreateMFT","hashes":["fd6e7e4d5c245c8a70b31d0380a5b828996aa48fd5fcd9d72e169ceaa5300ca9"],"id":"id-235","last_modified":1795337178718,"schema":1795336730704}
+{"description":"socket (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["ad23cdd1d023d99d61c3a8b67c8648877a88679222d806c2a4f8535ab9c4587e"],"id":"id-235","last_modified":1795424722131,"schema":1795424213136}

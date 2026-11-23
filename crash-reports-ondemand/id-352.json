@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::ProxyAutoConfig::SetupJS","hashes":["8f5fb62255e5d2d74d96c7d4cb8eed07a03e7ef53f9dd39fc3c0c7c569f3c69b"],"id":"id-352","last_modified":1795337179339,"schema":1795336945212}
+{"description":"main (Mac beta): AsyncShutdownTimeout | AddonManager: Waiting to start provider shutdown. | AddonRepository Background Updater","hashes":["497476e5a4d90020ebf9d08469741eea495a1f8d67dc7468b51529debc35e774","30e419f7e08bfacefbe0a4e1b5996cba22bc4b6bc61a1ef5c2a1d0bd10c7ae55"],"id":"id-352","last_modified":1795424722684,"schema":1795424428966}

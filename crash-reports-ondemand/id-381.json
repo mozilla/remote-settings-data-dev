@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::layout::TextDrawTarget::CreateSimilarDrawTarget","hashes":["c9aaaf05577ce7ed9d32a75e210f341325ea1fcbf735248a3069c3dc15dc2701"],"id":"id-381","last_modified":1795337178592,"schema":1795336998208}
+{"description":"gpu (Mac beta): pthread_kill | abort | IOGPUMetalCommandBufferStorageAllocResourceAtIndex","hashes":["06fcea144a35f04833cc9b778b9b80d00e13810c7dc2bb95382bcf74f547638d","ebfee6272146202b6c60c64b79bd7c19a094cba594b15b64e3b922a92eb8eece"],"id":"id-381","last_modified":1795424722002,"schema":1795424550379}

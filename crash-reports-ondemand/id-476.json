@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): <unknown in ntdll.dll> | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["160891772dd4fc31b9ea7b86765b4dd7f68f92553f9eed700b89f76ef71748b2"],"id":"id-476","last_modified":1795337179263,"schema":1795337164404}
+{"description":"gpu (Android beta): libc.so | libxul.so | libsrv_um.so","hashes":["4eaae5659fff70e5670a824c12fbf495f5269c1f269115510c57010f29f5e78d"],"id":"id-476","last_modified":1795424722626,"schema":1795424709123}
