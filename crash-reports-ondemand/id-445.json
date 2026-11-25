@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["46d9231717b1382e36f448618c6b5d84d4d7b50d85c5cf5afa9d88f6dac6b9d6","09a52d7960b860a57d3864b90f1dc9e44de57bfe8dbe85619da97fb12f3c4e25"],"id":"id-445","last_modified":1795424723367,"schema":1795424656507}
+{"description":"utility (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | AutoTArray<T>::~AutoTArray","hashes":["ea50ad8d48302b7c553363d022cb3df7f94474143c3772a9da34b1251119e190"],"id":"id-445","last_modified":1795596836360,"schema":1795596769757}

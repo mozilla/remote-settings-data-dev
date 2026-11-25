@@ -1,1 +1,1 @@
-{"description":"plugin (Linux release): mozilla::Queue<T>::Pop","hashes":["f88455078792be419329b1bb3e49b7cd4239083dd22ce2c89985f1dc1e91539a"],"id":"id-428","last_modified":1795424723869,"schema":1795424628212}
+{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["80892a0b27ad4cfd2d2475befc687e1f3e043f924beb067b4478e237fcb46b69"],"id":"id-428","last_modified":1795596836760,"schema":1795596741249}

@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::MessagePump::Run","hashes":["17b46e2b3c009c34c97b3ac86c428dbe068fb32f0fd9178d25ec7d7b2f3c5afd","ba472f6cedff6d2b781d9da9c89170a85dd34eac85a9a2e415bb54d25ccd092c"],"id":"id-455","last_modified":1795424724045,"schema":1795424674674}
+{"description":"content (Android nightly): mozilla::dom::Navigation::InnerFireNavigateEvent","hashes":["dc68e0dab70838782595de4f42cf2d280135c09002e607e1128d2a3c465453a0"],"id":"id-455","last_modified":1795596836920,"schema":1795596786883}

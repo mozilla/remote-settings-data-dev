@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["1b9037ad016b408389ea16532c266d5672698a104cf355402ea735df5e9ff6c1","adf38c9540eaca3b822bb4ea0569da3d57473c73e929469de9334d8ccdd3784e"],"id":"id-038","last_modified":1795424724413,"schema":1795423877270}
+{"description":"gpu (Android nightly): mozilla::BufferList<T>::AllocateBytes","hashes":["e32dfc88ad7cd8726b3b592592c5a824e2dca88df674ce2e7ff91d7f6bcfab45"],"id":"id-038","last_modified":1795596837289,"schema":1795596073195}
