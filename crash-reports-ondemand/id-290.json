@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): mozilla::StaticPrefs::InitStaticPrefsFromShared","hashes":["5e10ec1ce1b2de5f280dba48066cbbc52fb967460e958da356d569c7c509cce7"],"id":"id-290","last_modified":1795596836928,"schema":1795596503921}
+{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["e4b37d7cb1905f543d26e4c9c6ae961bdbf26925ef8949491dbd8415baee58af"],"id":"id-290","last_modified":1795682080159,"schema":1795681702727}

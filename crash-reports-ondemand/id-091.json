@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::LoadInfo::SetReservedClientInfo","hashes":["7767dcef1648d3a7b1689467f57b69bba944ab16503f7ab631b8806031e140cd"],"id":"id-091","last_modified":1795596837514,"schema":1795596167354}
+{"description":"utility (Linux beta): mozilla::MozPromise<T>::ChainTo","hashes":["fe8a0b3bd831b6f45c9ae41e6b7a43a88caefea940accdd6dd70f097c903b233"],"id":"id-091","last_modified":1795682080754,"schema":1795681362319}
