@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::ipc::UntypedEndpoint::Bind","hashes":["d791f6b71c5e711225c65f27c7328f1bccdccde3d879aa571b47fe53dc7f71b3"],"id":"id-394","last_modified":1795596835461,"schema":1795596682568}
+{"description":"socket (Linux release): mozilla::SocketProcessSandboxParams::ForThisProcess","hashes":["706594dc4bb297ef64e606506f15177ae5eb583e85fc1940f20737423dd24108","9b219cba492925dab2934fed6b21b69a5be7bee7f9ee70693044ae22b56e7f9e"],"id":"id-394","last_modified":1795682078780,"schema":1795681956397}
