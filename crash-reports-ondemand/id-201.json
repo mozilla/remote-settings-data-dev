@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::RemoteArrayOfByteBuffer::SizeAt","hashes":["e4809f5583eb1267dd4a27f5d80a6eafe9b9e8cbd69f1276cd8dd644bdaa8099","26d33f6694d4e846d4db99e1a5196589460c9225c008ff29656d1996a19320c4"],"id":"id-201","last_modified":1795767793149,"schema":1795767348933}
+{"description":"plugin (Windows beta): nsAppShell::StaticCreateEventWindow","hashes":["1354797cbf237f05c4408d2d891c1e63c0899395eb4948f04f365a7adf481f11"],"id":"id-201","last_modified":1795854199270,"schema":1795853747534}
