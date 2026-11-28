@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::detail::BumpChunk::assertInvariants","hashes":["75a1c23599b703a214dd2f5f016839ebbdbdae420dea93596e01f57ba9378115"],"id":"id-391","last_modified":1795767796444,"schema":1795767674155}
+{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["919e018e614ee6538653d036bd706120968cceec7ec1f2c8075a07f4f76c3ebd","e03abd3a2142a5ef2632c78460cd0f8bc13abee4d0f42798ba784027b4ad182c"],"id":"id-391","last_modified":1795854202521,"schema":1795854066443}

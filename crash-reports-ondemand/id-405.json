@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdh264enc64.dll | mozilla::MFTEncoder::SendMFTMessage","hashes":["b88bf5f23fcb8221ea201c0a9caca148a547088ffebeac145ed08f82fe476b72","64cfbf98d382444baedcbb917f1edcf56f84383a4093e2161a06d1dda23fb912","f79115cd38f08d098110b0430c303c0a3635dd6cef929d6e115d5f5d3a0230f8"],"id":"id-405","last_modified":1795767796023,"schema":1795767697903}
+{"description":"gpu (Android beta): @0xea3d485a","hashes":["756fef80760cf76935d02c0719a5ba8b730148e990c693aec2b2829fd07a0c3c"],"id":"id-405","last_modified":1795854202121,"schema":1795854089054}

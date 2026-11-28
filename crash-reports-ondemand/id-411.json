@@ -1,1 +1,1 @@
-{"description":"plugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvUpdateSession","hashes":["bd6d9b60000b28e9c54ae49560c2dff4d9a3a1d4967fe3808fb4206097308662"],"id":"id-411","last_modified":1795767795324,"schema":1795767707737}
+{"description":"gpu (Android nightly): mozilla::webgl::TexUnpackSurface::BlitSd","hashes":["b3e9721dcb3f33a1317a4a610b4770cc386eb119dc4be57627fa2dcf4f09b360"],"id":"id-411","last_modified":1795854201461,"schema":1795854099493}
